@@ -1,0 +1,31 @@
+{
+    "jobListings": [
+        {
+            "companyName": "Rehber Klinik",
+            "title": {
+                "turkish": "Stajyer Psikolog",
+                "english": "Intern Psychologist"
+            },
+            "link": "https://www.linkedin.com/jobs/view/3775363714",
+            "location": "Remote(Uzaktan)"
+        },
+        {
+            "companyName": "Moreno Psikoloji",
+            "title": {
+                "turkish": "Psikolog",
+                "english": "Psychologist"
+            },
+            "link": "https://www.linkedin.com/jobs/view/3768505828",
+            "location": "İstanbul(Kadıköy)"
+        },
+        {
+            "companyName": "Oğuzhan Özkaya Eğitim Kurumları",
+            "title": {
+                "turkish": "Psikolojik Danışman ve Rehber Öğretmen",
+                "english": "Psychological Counselor and Guidance Teacher"
+            },
+            "link": "https://www.linkedin.com/jobs/view/3778379334",
+            "location": "İzmir(Konak)"
+        }
+    ]
+}
