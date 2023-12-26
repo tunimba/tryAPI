@@ -44,6 +44,15 @@
             },
             "link": "https://www.linkedin.com/jobs/view/3778379334",
             "location": "İzmir(Konak)"
+        },
+        {
+            "companyName": "Rehber Klinik",
+            "title": {
+                "turkish": "Stajyer Psikolog",
+                "english": "Intern Psychologist"
+            },
+            "link": "https://www.linkedin.com/jobs/view/3775363714",
+            "location": "Remote(Uzaktan)"
         }
     ]
 }
