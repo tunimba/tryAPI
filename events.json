@@ -1,0 +1,36 @@
+{
+    "events": [
+        {
+            "name": {
+                "turkish": "Binbir Gece Masalları",
+                "english": "One Thousand and One Nights"
+            },
+            "imageURL": "https://alfaetkinlik.com/yonetim/icerikresimleri/1000/35017858246944935324zirve.jpg",
+            "eventHost": {
+                "turkish": "Ankara Yıldırım Beyazıt Üniversitesi Psikoloji Kulübü",
+                "english": "Ankara Yıldırım Beyazıt University Psychology Club"
+            }
+            "eventDate": {
+                "turkish": "30 Aralık 2023",
+                "english": "30 December 2023"
+            },
+            "referenceLink": "https://www.instagram.com/p/C1KbRPzNa5z/?img_index=1"
+        },
+        {
+            "name": {
+                "turkish": "Binbir Gece Masalları",
+                "english": "One Thousand and One Nights"
+            },
+            "imageURL": "https://i.imgur.com/boWPeAS.png",
+            "eventHost": {
+                "turkish": "Ankara Yıldırım Beyazıt Üniversitesi Psikoloji Kulübü",
+                "english": "Ankara Yıldırım Beyazıt University Psychology Club"
+            }
+            "eventDate": {
+                "turkish": "30 Aralık 2023",
+                "english": "30 December 2023"
+            },
+            "referenceLink": "https://www.instagram.com/p/C1KbRPzNa5z/?img_index=1"
+        }
+    ]
+}
