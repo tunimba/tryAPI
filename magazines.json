@@ -1,0 +1,24 @@
+{
+    "magazines": [
+        {
+            "id": "1",
+            "name": "PSİNOSSA",
+            "image": "https://alfaetkinlik.com/yonetim/icerikresimleri/1000/35017858246944935324zirve.jpg",
+            "issue": {
+                "turkish": "Sayı: 25",
+                "english": "Issue: 25"
+            },
+            "link": "https://fliphtml5.com/hsvmc/kfda/"
+        },
+        {
+            "id": "2",
+            "name": "PSİNOSSA",
+            "image": "https://i.imgur.com/boWPeAS.png",
+            "issue": {
+                "turkish": "Sayı: 25",
+                "english": "Issue: 25"
+            },
+            "link": "https://fliphtml5.com/hsvmc/kfda/"
+        }
+    ]
+}
