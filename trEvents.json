@@ -1,0 +1,20 @@
+{
+    "events": [
+        {
+            "id": "1",
+            "name": "One Thousand and One Nights",
+            "image": "https://alfaetkinlik.com/yonetim/icerikresimleri/1000/35017858246944935324zirve.jpg",
+            "eventHost": "Ankara Yıldırım Beyazıt University Psychology Club",
+            "eventDate": "30 December 2023",
+            "referenceLink": "https://www.instagram.com/p/C1KbRPzNa5z/?img_index=1"
+        },
+        {
+            "id": "2",
+            "name": "One Thousand and One Nights",
+            "image": "https://i.imgur.com/boWPeAS.png",
+            "eventHost": "Ankara Yıldırım Beyazıt University Psychology Club",
+            "eventDate": "30 December 2023",
+            "referenceLink": "https://www.instagram.com/p/C1KbRPzNa5z/?img_index=1"
+        }
+    ]
+}
