@@ -3,14 +3,14 @@
         {
             "id": 1,
             "companyName": "Rehber Klinik",
-            "title": "Intern Psychologist",
+            "title": "Stajyer Psikolog",
             "link": "https://www.linkedin.com/jobs/view/3775363714",
-            "location": "Remote"
+            "location": "Uzaktan"
         },
         {
             "id": 2,
             "companyName": "Moreno Psikoloji",
-            "title": "Psychologist",
+            "title": "Psikolog",
             "link": "https://www.linkedin.com/jobs/view/3768505828",
             "location": "İstanbul(Kadıköy)"
         }
