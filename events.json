@@ -2,19 +2,115 @@
     "events": [
         {
             "id": "1",
-            "name": "One Thousand and One Nights",
-            "image": "https://alfaetkinlik.com/yonetim/icerikresimleri/1000/35017858246944935324zirve.jpg",
-            "eventHost": "Ankara Yıldırım Beyazıt University Psychology Club",
-            "eventDate": "30 December 2023",
-            "referenceLink": "https://www.instagram.com/p/C1KbRPzNa5z/?img_index=1"
+            "name": "Child and Adolescent CBT Applications Therapy Training",
+            "image": "https://ibb.co/Sx7JjCK",
+            "eventHost": "Kim Psikoloji",
+            "eventDate": "9-10-11 January 2024",
+            "referenceLink": "https://www.kimpsikoloji.com/cocuklarda-bilissel-davranisci-danismanlik-yaklasimi-egitimi/"
         },
         {
             "id": "2",
-            "name": "One Thousand and One Nights",
-            "image": "https://i.imgur.com/boWPeAS.png",
-            "eventHost": "Ankara Yıldırım Beyazıt University Psychology Club",
-            "eventDate": "30 December 2023",
-            "referenceLink": "https://www.instagram.com/p/C1KbRPzNa5z/?img_index=1"
+            "name": "A Power to Clear the Chaos: Borders",
+            "image": "https://ibb.co/RyFW3Lf",
+            "eventHost": "Alfa Psikoloji Atölyesi",
+            "eventDate": "12 January 2024",
+            "referenceLink": "https://www.alfaetkinlik.com/etkinlikdetay.aspx?seminer=online-alfa-atolye-kargasayi-temizleyecek-bir-guc-sinirlar-12-ocak-2024"
+        },
+        {
+            "id": "3",
+            "name": "CBT Supervision Program for Children and Adolescents",
+            "image": "https://ibb.co/hXm2LWL",
+            "eventHost": "Poem Psikoloji",
+            "eventDate": "16 January 2024",
+            "referenceLink": "https://www.poempsikoloji.com/cocuk-ve-ergenlerde-bdt-supervizyon-egitimi/"
+        },
+        {
+            "id": "4",
+            "name": "Projective Tests Training",
+            "image": "https://ibb.co/bHMFLws",
+            "eventHost": "Kim Psikoloji",
+            "eventDate": "20-21 January 2024",
+            "referenceLink": "https://www.kimpsikoloji.com/projektif-testler-egitimi/"
+        },
+        {
+            "id": "5",
+            "name": "Couple Problem Solving Techniques",
+            "image": "https://ibb.co/VQBjWMw",
+            "eventHost": "Kim Psikoloji",
+            "eventDate": "25-26 January 2024",
+            "referenceLink": "https://www.kimpsikoloji.com/ciftler-arasi-problem-cozme-teknikleri/"
+        },
+        {
+            "id": "6",
+            "name": "CBT Program for Children and Adolescents",
+            "image": "https://ibb.co/hXm2LWL",
+            "eventHost": "Poem Psikoloji",
+            "eventDate": "27 January 2024",
+            "referenceLink": "https://www.poempsikoloji.com/cocuk-ve-ergenlerde-bdt-temel-teori-egitimi/"
+        },
+        {
+            "id": "7",
+            "name": "Objective Tests",
+            "image": "https://ibb.co/f8wzhFL",
+            "eventHost": "Kim Psikoloji",
+            "eventDate": "27-28 January 2024",
+            "referenceLink": "https://www.kimpsikoloji.com/objektif-testler-egitimi/"
+        },
+        {
+            "id": "8",
+            "name": "Sports Psychology Certificate Course",
+            "image": "https://ibb.co/FB93pvH",
+            "eventHost": "Kim Psikoloji (FC Porto ve FSI İşbirliği)",
+            "eventDate": "27 Jan.-Feb. 2024",
+            "referenceLink": "https://www.kimpsikoloji.com/spor-psikolojisi-kursu/"
+        },
+        {
+            "id": "9",
+            "name": "Gilliam Autistic Disorder Rating Scale",
+            "image": "https://ibb.co/DVS31Gn",
+            "eventHost": "Kim Psikoloji",
+            "eventDate": "28 January 2024",
+            "referenceLink": "https://www.kimpsikoloji.com/gobdo-2-tv-sertifika-egitimi/"
+        },
+        {
+            "id": "10",
+            "name": "Interaction-Based Early Childhood Intervention Program",
+            "image": "https://ibb.co/HDwMvZ3",
+            "eventHost": "Kim Psikoloji",
+            "eventDate": "28 January 2024",
+            "referenceLink": "https://www.kimpsikoloji.com/etecom-uygulamaci-sertifikasi-kursu/"
+        },
+        {
+            "id": "11",
+            "name": "Psychology and Development Camp",
+            "image": "https://ibb.co/qkmyjV6",
+            "eventHost": "Alfa Etkinlik",
+            "eventDate": "22-25 February 2024",
+            "referenceLink": "https://www.alfaetkinlik.com/kampdetay.aspx?kamp=kizilcahamam-psikoloji-ve-gelisim-kampi-22-25-subat-2024"
+        },
+        {
+            "id": "12",
+            "name": "CBT Advanced Theoretical Program (Module 2)",
+            "image": "https://ibb.co/M53sbdd",
+            "eventHost": "Poem Psikoloji",
+            "eventDate": "24 February 2024",
+            "referenceLink": "https://www.poempsikoloji.com/bilissel-davranisci-terapi-ileri-kuramsal-program/"
+        },
+        {
+            "id": "13",
+            "name": "Online Psychology Summit",
+            "image": "https://ibb.co/Z1DWy5B",
+            "eventHost": "Alfa Etkinlik",
+            "eventDate": "8-11 March 2024",
+            "referenceLink": "https://www.alfaetkinlik.com/etkinlikdetay.aspx?seminer=online-psikoloji-zirvesi-8-11-mart-2024"
+        },
+        {
+            "id": "14",
+            "name": "Izmir Psychology Summit",
+            "image": "https://ibb.co/RHf34bR",
+            "eventHost": "Alfa Etkinlik",
+            "eventDate": "17 March 2024",
+            "referenceLink": "https://www.alfaetkinlik.com/etkinlikdetay.aspx?seminer=izmir-psikoloji-zirvesi-17-mart-2024-3-kategori-balkon#kaydol"
         }
     ]
 }
