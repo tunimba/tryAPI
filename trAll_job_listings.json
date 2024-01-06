@@ -13,6 +13,300 @@
             "title": "Psikolog",
             "link": "https://www.linkedin.com/jobs/view/3768505828",
             "location": "İstanbul(Kadıköy)"
-        }
+        },
+        {
+            "id": 3,
+            "companyName": "Oğuzhan Özkaya Eğitim Kurumları",
+            "title": "Psikolojik Danışman ve Rehber Öğretmen",
+            "link": "https://www.linkedin.com/jobs/view/3778379334",
+            "location": "İzmir(Konak)"
+        },
+        {
+            "id": 4,
+            "companyName": "Diyetlif",
+            "title": "Klinik Psikolog",
+            "link": "https://www.linkedin.com/jobs/view/3764176782",
+            "location": "Bursa"
+        },
+        {
+            "id": 5,
+            "companyName": "Psikolog Dr. Burçin Duran Kliniği",
+            "title": "Uzman Psikolog",
+            "link": "https://www.kariyer.net/is-ilani/psikolog-dr-burcin-duran-klinigi-uzman-psikolog-3674036",
+            "location": "İzmir(Karşıyaka)"
+        },
+        {
+            "id": 6,
+            "companyName": "Darüşşafaka Cemiyeti",
+            "title": "Dil ve Konuşma Terapisti",
+            "link": "https://www.kariyer.net/is-ilani/darussafaka-cemiyeti-dil-ve-konusma-terapisti-3676208",
+            "location": "İstanbul(Asya)"
+        },
+        {
+            "id": 7,
+            "companyName": "PsikoWay",
+            "title": "Uzman Klinik Psikolog",
+            "link": "https://www.kariyer.net/is-ilani/psikoway-bilisim-danismanlik-saglik-hizmetleri-lim-uzman-klinik-psikolog-3460003",
+            "location": "Uzaktan"
+        },
+        {
+            "id": 8,
+            "companyName": "Sone Psikoloji",
+            "title": "Uzman Klinik Psikolog",
+            "link": "https://www.kariyer.net/is-ilani/sone-psikoloji-uzman-klinik-psikolog-3531310",
+            "location": "İstanbul(Avr.-Asya)"
+        },
+        {
+            "id": 9,
+            "companyName": "Ney Psikoloji Merkezi",
+            "title": "Psikolog",
+            "link": "https://www.linkedin.com/jobs/view/3774779886",
+            "location": "Konya"
+        },
+        {
+            "id": 10,
+            "companyName": "Elava Danışmanlık",
+            "title": "Psikolog",
+            "link": "https://www.linkedin.com/jobs/view/3765066091",
+            "location": "Mersin(İçel)"
+        },
+        {
+            "id": 11,
+            "companyName": "Psikon Psikolojik Destek ve Danışmanlık Merkezi",
+            "title": "Uzman Klinik Psikolog",
+            "link": "https://www.linkedin.com/jobs/view/3768268368",
+            "location": "Konya"
+        },
+        {
+            "id": 12,
+            "companyName": "Bepal Psikoloji",
+            "title": "Psikolog",
+            "link": "https://www.linkedin.com/jobs/view/3772442113",
+            "location": "Konya(Meram)"
+        },
+        {
+            "id": 13,
+            "companyName": "BY Psikoloji",
+            "title": "Psikolojik Danışman",
+            "link": "https://www.linkedin.com/jobs/view/3679586770",
+            "location": "Samsun"
+        },
+        {
+            "id": 14,
+            "companyName": "Mucize Danışmanlık",
+            "title": "Psikolog",
+            "link": "https://www.linkedin.com/jobs/view/3768978263",
+            "location": "Gaziantep"
+        },
+        {
+            "id": 15,
+            "companyName": "75.Yıl Özel Eğitim ve Rehabilitasyon Merkezi",
+            "title": "Psikolog / Rehber Öğretmen",
+            "link": "https://www.linkedin.com/jobs/view/3774390656",
+            "location": "Ankara(Etimesgut)"
+        },
+        {
+            "id": 16,
+            "companyName": "Özel Yankım Özel Eğitim Merkezi",
+            "title": "Psikolog",
+            "link": "https://www.linkedin.com/jobs/view/3774701595",
+            "location": "Kocaeli"
+        },
+        {
+            "id": 17,
+            "companyName": "Psikon Psikolojik Destek ve Danışmanlık Merkezi",
+            "title": "Psikolog",
+            "link": "https://www.linkedin.com/jobs/view/3768279194",
+            "location": "Konya"
+        },
+        {
+            "id": 18,
+            "companyName": "PsicoVesta Psikolojik Danışmanlık Merkezi",
+            "title": "Aile Danışmanı",
+            "link": "https://www.linkedin.com/jobs/view/3772976841",
+            "location": "Malatya"
+        },
+        {
+            "id": 19,
+            "companyName": "Evlilik Terapileri Enstitüsü",
+            "title": "Stajyer Psikolog",
+            "link": "https://www.kariyer.net/is-ilani/evlilik-terapileri-enstitusu-stajyer-psikolog-3669530",
+            "location": "İstanbul(Avr.-Asya)"
+        },
+        {
+            "id": 20,
+            "companyName": "Seçmen Danışmanlık",
+            "title": "Psikolog (Psikiyatri, Psikoloji Test Tanıtımı)",
+            "link": "https://www.kariyer.net/is-ilani/secmen-danismanlik-ltd-sti-psikolog-psikiyatri-psikoloji-test-tanitimi-3670683",
+            "location": "İstanbul(Kadıköy)"
+        },
+        {
+            "id": 21,
+            "companyName": "Özel Terapi Tıp Merkezi",
+            "title": "Klinik Psikolog",
+            "link": "https://www.kariyer.net/is-ilani/anp-ozel-saglik-hiz-med-urun-ith-ihr-gida-tur-klinik-psikolog-2762637",
+            "location": "Antalya(Kepez)"
+        },
+        {
+            "id": 22,
+            "companyName": "Bursa Klinik Psikoloji Merkezi",
+            "title": "Klinik Psikolog",
+            "link": "https://www.kariyer.net/is-ilani/filiz-yakmaz-basilgan-klinik-psikolog-3666001",
+            "location": "Bursa"
+        },
+        {
+            "id": 23,
+            "companyName": "Okyanus Kolejleri",
+            "title": "Rehberlik ve Psikolojik Danışman",
+            "link": "https://www.kariyer.net/is-ilani/okyanus-kolejleri-rehberlik-ve-psikolojik-danisman-3667471",
+            "location": "Çeşitli Şehirler"
+        },
+        {
+            "id": 24,
+            "companyName": "İstanbul Arel Üniversitesi",
+            "title": "Rehberlik ve Tanıtım Uzmanı",
+            "link": "https://www.kariyer.net/is-ilani/istanbul-arel-universitesi-rehberlik-ve-tanitim-uzmani-3666012",
+            "location": "İstanbul(Büyükçekmece)"
+        },
+        {
+            "id": 25,
+            "companyName": "Kadir Has Üniversitesi",
+            "title": "Uzman Psikolojik Danışman(Dönemsel)",
+            "link": "https://www.kariyer.net/is-ilani/kadir-has-universitesi-uzman-psikolojik-danisman-donemsel-3665712",
+            "location": "İstanbul(Fatih)"
+        },
+        {
+            "id": 26,
+            "companyName": "Gaziantep Medicalpoint Hastanesi",
+            "title": "Klinik Psikolog",
+            "link": "https://www.kariyer.net/is-ilani/sentez-saglik-hizmetleri-a-s-klinik-psikolog-3652494",
+            "location": "Gaziantep"
+        },
+        {
+            "id": 27,
+            "companyName": "Medicana Eğitim Hiz. ve Tic. A.Ş.",
+            "title": "Pdr Bölüm Başkanı",
+            "link": "https://www.kariyer.net/is-ilani/medicana-egitim-hizmetleri-ve-ticaret-a-s-pdr-bolum-baskani-3556337",
+            "location": "İstanbul(Üsküdar)"
+        },
+        {
+            "id": 28,
+            "companyName": "Suna ve İnan Kıraç Vakfı",
+            "title": "Uzman Klinik Psikolog",
+            "link": "https://www.kariyer.net/is-ilani/suna-ve-inan-kirac-vakfi-uzman-klinik-psikolog-3661566",
+            "location": "Kahramanmaraş"
+        },
+        {
+            "id": 29,
+            "companyName": "Özel Madalyon Psikiyatri Merkezi",
+            "title": "Uzm. Klinik Psk. (Çocuk-Ergen)",
+            "link": "https://www.kariyer.net/is-ilani/madalyon-saglik-hizmetleri-a-s-uzman-klinik-psikolog-cocuk-ergen-3615377",
+            "location": "Ankara(Çankaya)"
+        },
+        {
+            "id": 30,
+            "companyName": "Kopilot Rehberlik",
+            "title": "Rehberlik ve Psikolojik Danışmanlık",
+            "link": "https://www.kariyer.net/is-ilani/kopilot-rehberlik-ozel-egitim-danismanlik-hizmetle-rehberlik-ve-psikolojik-danisman-3595558",
+            "location": "Uzaktan"
+        },
+        {
+            "id": 31,
+            "companyName": "Kadın Ve Demokrasi Vakfı (KADEM Vakfı)",
+            "title": "Psikolojik Danışman",
+            "link": "https://www.kariyer.net/is-ilani/kadin-ve-demokrasi-vakfi-kadem-vakfi-psikolojik-danisman-3659046",
+            "location": "Adıyaman"
+        },
+        {
+            "id": 32,
+            "companyName": "Özel Gözde Çocuk Kreş ve Gündüz Bakımevi",
+            "title": "Psikolog",
+            "link": "https://www.kariyer.net/is-ilani/ozel-gozde-cocuk-kres-ve-gunduz-bakimevi-psikolog-3688840",
+            "location": "Kocaeli(Kartepe)"
+        },
+        {
+            "id": 33,
+            "companyName": "Epsikolog",
+            "title": "Psikolog",
+            "link": "https://www.kariyer.net/is-ilani/epsikolog-saglik-hizmetleri-anonim-sirketi-psikolog-3675709",
+            "location": "Uzaktan"
+        },
+        {
+            "id": 34,
+            "companyName": "Türkiye Yeşilay Cemiyeti",
+            "title": "Klinik Psikolog",
+            "link": "https://www.kariyer.net/is-ilani/turkiye-yesilay-cemiyeti-klinik-psikolog-ardahan-2635950",
+            "location": "Ardahan"
+        },
+        {
+            "id": 35,
+            "companyName": "Dünya Terapi Merkezi",
+            "title": "Klinik Psikolog",
+            "link": "https://www.kariyer.net/is-ilani/dunya-terapi-merkezi-klinik-psikolog-3683075",
+            "location": "Uzaktan"
+        },
+        {
+            "id": 36,
+            "companyName": "Türkiye Yeşilay Cemiyeti",
+            "title": "Klinik Psikolog",
+            "link": "https://www.kariyer.net/is-ilani/turkiye-yesilay-cemiyeti-klinik-psikolog-bayburt-3681970",
+            "location": "Bayburt(Merkez)"
+        },
+        {
+            "id": 37,
+            "companyName": "Türkiye Yeşilay Cemiyeti",
+            "title": "Klinik Psikolog",
+            "link": "https://www.kariyer.net/is-ilani/turkiye-yesilay-cemiyeti-klinik-psikolog-kirsehir-3681988",
+            "location": "Kırşehir(Merkez)"
+        },
+        {
+            "id": 38,
+            "companyName": "Salihli Koleji Özel Eğitim",
+            "title": "Rehberlik ve Psikolojik Danışman",
+            "link": "https://www.kariyer.net/is-ilani/salihli-koleji-ozel-egitim-hiz-san-tic-as-rehberlik-ve-psikolojik-danisman-3490632",
+            "location": "Manisa(Salihli)"
+        },
+        {
+            "id": 39,
+            "companyName": "Kadın ve Demokrasi Vakfı(KADEM)",
+            "title": "Psikolojik Danışman",
+            "link": "https://www.kariyer.net/is-ilani/kadin-ve-demokrasi-vakfi-kadem-vakfi-psikolojik-danisman-3659047",
+            "location": "Hatay"
+        },
+        {
+            "id": 40,
+            "companyName": "İstanbul Bilgi Üniversitesi",
+            "title": "Psikolojik Danışman",
+            "link": "https://www.kariyer.net/is-ilani/istanbul-bilgi-universitesi-psikolojik-danisman-3656155",
+            "location": "İstanbul(Avr.)"
+        },
+        {
+            "id": 41,
+            "companyName": "Koç Üniversitesi Hastanesi",
+            "title": "Pediatrik Endokrinoloji Klinik Psikolog",
+            "link": "https://www.kariyer.net/is-ilani/koc-universitesi-hastanesi-pediatrik-endokrinoloji-klinik-psikolog-3655450",
+            "location": "İstanbul(Avr.)"
+        },
+        {
+            "id": 42,
+            "companyName": "İhsan Doğramacı Bilkent Üniversitesi",
+            "title": "Klinik Psikolog (Part-Time)",
+            "link": "https://www.kariyer.net/is-ilani/ihsan-dogramaci-bilkent-universitesi-klinik-psikolog-1091816",
+            "location": "Ankara"
+        },
+        {
+            "id": 43,
+            "companyName": "Türkiye Yeşilay Cemiyeti",
+            "title": "Klinik Psikolog",
+            "link": "https://www.kariyer.net/is-ilani/turkiye-yesilay-cemiyeti-klinik-psikolog-artvin-hopa-3239698",
+            "location": "Artvin(Hopa)"
+        },
+        {
+            "id": 44,
+            "companyName": "Türkiye Yeşilay Cemiyeti",
+            "title": "Klinik Psikolog",
+            "link": "https://www.kariyer.net/is-ilani/turkiye-yesilay-cemiyeti-klinik-psikolog-aydin-2730845",
+            "location": "Aydın"
+        },
     ]
 }
