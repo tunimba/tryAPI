@@ -1,38 +1,6 @@
 {
     "events": [
         {
-            "id": "1",
-            "name": "Child and Adolescent CBT Applications Therapy Training",
-            "image": "https://i.ibb.co/xs83kTM/Screenshot-2024-01-06-at-18-28-10.png",
-            "eventHost": "Kim Psikoloji",
-            "eventDate": "9-10-11 January 2024",
-            "referenceLink": "https://www.kimpsikoloji.com/cocuklarda-bilissel-davranisci-danismanlik-yaklasimi-egitimi/"
-        },
-        {
-            "id": "2",
-            "name": "A Power to Clear the Chaos: Borders",
-            "image": "https://i.ibb.co/zJMwXKp/Screenshot-2024-01-06-at-18-29-16.png",
-            "eventHost": "Alfa Psikoloji Atölyesi",
-            "eventDate": "12 January 2024",
-            "referenceLink": "https://www.alfaetkinlik.com/etkinlikdetay.aspx?seminer=online-alfa-atolye-kargasayi-temizleyecek-bir-guc-sinirlar-12-ocak-2024"
-        },
-        {
-            "id": "3",
-            "name": "CBT Supervision Program for Children and Adolescents",
-            "image": "https://i.ibb.co/CJHVm7m/Screenshot-2024-01-06-at-18-32-03.png",
-            "eventHost": "Poem Psikoloji",
-            "eventDate": "16 January 2024",
-            "referenceLink": "https://www.poempsikoloji.com/cocuk-ve-ergenlerde-bdt-supervizyon-egitimi/"
-        },
-        {
-            "id": "4",
-            "name": "Projective Tests Training",
-            "image": "https://i.ibb.co/N1drpD9/Screenshot-2024-01-06-at-18-33-20.png",
-            "eventHost": "Kim Psikoloji",
-            "eventDate": "20-21 January 2024",
-            "referenceLink": "https://www.kimpsikoloji.com/projektif-testler-egitimi/"
-        },
-        {
             "id": "5",
             "name": "Couple Problem Solving Techniques",
             "image": "https://i.ibb.co/2sKn7cZ/Screenshot-2024-01-06-at-18-34-41.png",
