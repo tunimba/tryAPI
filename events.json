@@ -1,54 +1,6 @@
 {
     "events": [
         {
-            "id": "5",
-            "name": "Couple Problem Solving Techniques",
-            "image": "https://i.ibb.co/2sKn7cZ/Screenshot-2024-01-06-at-18-34-41.png",
-            "eventHost": "Kim Psikoloji",
-            "eventDate": "25-26 January 2024",
-            "referenceLink": "https://www.kimpsikoloji.com/ciftler-arasi-problem-cozme-teknikleri/"
-        },
-        {
-            "id": "6",
-            "name": "CBT Program for Children and Adolescents",
-            "image": "https://i.ibb.co/CJHVm7m/Screenshot-2024-01-06-at-18-32-03.png",
-            "eventHost": "Poem Psikoloji",
-            "eventDate": "27 January 2024",
-            "referenceLink": "https://www.poempsikoloji.com/cocuk-ve-ergenlerde-bdt-temel-teori-egitimi/"
-        },
-        {
-            "id": "7",
-            "name": "Objective Tests",
-            "image": "https://i.ibb.co/q0Q3tjV/Screenshot-2024-01-06-at-18-36-27.png",
-            "eventHost": "Kim Psikoloji",
-            "eventDate": "27-28 January 2024",
-            "referenceLink": "https://www.kimpsikoloji.com/objektif-testler-egitimi/"
-        },
-        {
-            "id": "8",
-            "name": "Sports Psychology Certificate Course",
-            "image": "https://i.ibb.co/dQSMZ9m/Screenshot-2024-01-06-at-18-38-42.png",
-            "eventHost": "Kim Psikoloji (FC Porto ve FSI İşbirliği)",
-            "eventDate": "27 Jan.-Feb. 2024",
-            "referenceLink": "https://www.kimpsikoloji.com/spor-psikolojisi-kursu/"
-        },
-        {
-            "id": "9",
-            "name": "Gilliam Autistic Disorder Rating Scale",
-            "image": "https://i.ibb.co/PmfBrT8/Screenshot-2024-01-06-at-18-39-38.png",
-            "eventHost": "Kim Psikoloji",
-            "eventDate": "28 January 2024",
-            "referenceLink": "https://www.kimpsikoloji.com/gobdo-2-tv-sertifika-egitimi/"
-        },
-        {
-            "id": "10",
-            "name": "Interaction-Based Early Childhood Intervention Program",
-            "image": "https://i.ibb.co/99KfXPS/Screenshot-2024-01-06-at-18-40-40.png",
-            "eventHost": "Kim Psikoloji",
-            "eventDate": "28 January 2024",
-            "referenceLink": "https://www.kimpsikoloji.com/etecom-uygulamaci-sertifikasi-kursu/"
-        },
-        {
             "id": "11",
             "name": "Psychology and Development Camp",
             "image": "https://i.ibb.co/sysmRz7/Screenshot-2024-01-06-at-18-42-11.png",
