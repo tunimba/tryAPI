@@ -1,6 +1,13 @@
 {
     "magazines": [
         {
+            "id": "19",
+            "name": "UBUNTU",
+            "image": "https://i.imgur.com/ZjRtBmW.png",
+            "issue": "Issue: 12",
+            "link": "https://online.fliphtml5.com/obuho/extm/#p=1"
+        },
+        {
             "id": "18",
             "name": "PSYCHOZ",
             "image": "https://i.imgur.com/vcCINBP.png",
@@ -17,7 +24,7 @@
         {
             "id": "16",
             "name": "PSITHOTH",
-            "image": "https://i.imgur.com/fYPQLWe.png",
+            "image": "https://i.imgur.com/AbyexKk.png",
             "issue": "Issue: 45",
             "link": "https://psithoth.blogspot.com/2024/03/psithoth-45-sayisi-savas-psikolojisi.html"
         },
