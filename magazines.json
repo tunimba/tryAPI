@@ -1,11 +1,25 @@
 {
     "magazines": [
         {
-            "id": "16",
+            "id": "18",
             "name": "PSYCHOZ",
             "image": "https://i.imgur.com/vcCINBP.png",
             "issue": "Issue: 5",
             "link": "https://online.fliphtml5.com/hsvmc/kfda/"
+        },
+        {
+            "id": "17",
+            "name": "BİLGİ GÜZ",
+            "image": "https://i.imgur.com/KNTjbVE.png",
+            "issue": "Issue: 12",
+            "link": "https://drive.google.com/file/d/1-WRhqwzjbWFwAeQtsNtBfC8TuDOb8Ac6/view"
+        },
+        {
+            "id": "16",
+            "name": "PSITHOTH",
+            "image": "https://i.imgur.com/fYPQLWe.png",
+            "issue": "Issue: 45",
+            "link": "https://psithoth.blogspot.com/2024/03/psithoth-45-sayisi-savas-psikolojisi.html"
         },
         {
             "id": "15",
