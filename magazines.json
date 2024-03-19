@@ -1,49 +1,49 @@
 {
     "magazines": [
         {
-            "id": "1",
+            "id": "15",
             "name": "PSYCHOZ",
             "image": "https://i.imgur.com/0DaiyFS.png",
             "issue": "Issue: 4",
             "link": "https://fliphtml5.com/hsvmc/kfda/"
         },
         {
-            "id": "2",
+            "id": "14",
             "name": "PSİ'US",
             "image": "https://i.ibb.co/n1BTFSp/magazine16.png",
             "issue": "Issue: 25",
             "link": "https://gencpsikologlar.com/25.pdf"
         },
         {
-            "id": "3",
+            "id": "13",
             "name": "UBUNTU",
             "image": "https://i.imgur.com/V4iosUI.png",
             "issue": "Issue: 11",
             "link": "https://fliphtml5.com/gnrvo/fscu/"
         },
         {
-            "id": "4",
+            "id": "12",
             "name": "DOLAP",
             "image": "https://i.imgur.com/bU1y8sk.png",
             "issue": "Issue: 3",
             "link": "https://online.pubhtml5.com/iqth/ebaq/#p=1"
         },
         {
-            "id": "5",
+            "id": "11",
             "name": "PERDE",
             "image": "https://i.ibb.co/kmxWhPc/magazine10.png",
             "issue": "Issue: 7",
             "link": "https://drive.google.com/file/d/118QzJAMo9IbSxMhwwVt8Lge2mXDuSzDf/view"
         },
         {
-            "id": "6",
+            "id": "10",
             "name": "PERSPEKTİF",
             "image": "https://i.imgur.com/k10gfJp.png",
             "issue": "Issue: 2",
             "link": "https://www.yumpu.com/tr/document/read/68417269/perspektif-psikoloji-dergisi-2say-tobb-etu-psikolojik-baks-toplulugu"
         },
         {
-            "id": "7",
+            "id": "9",
             "name": "PSITHOTH",
             "image": "https://i.imgur.com/8KfyNIN.png",
             "issue": "Issue: 44",
@@ -57,49 +57,49 @@
             "link": "https://online.fliphtml5.com/hsvmc/uwkr/#p=1"
         },
         {
-            "id": "9",
+            "id": "7",
             "name": "PSİ'US",
             "image": "https://i.ibb.co/L80hzCR/magazine17.png",
             "issue": "Issue: 24",
             "link": "https://gencpsikologlar.com/24.pdf"
         },
         {
-            "id": "10",
+            "id": "6",
             "name": "UBUNTU",
             "image": "https://i.imgur.com/BZHfqfG.png",
             "issue": "Issue: 10",
             "link": "https://fliphtml5.com/jvmgh/srjt/UBUNTU%2710/"
         },
         {
-            "id": "11",
+            "id": "5",
             "name": "PSYCHOZ",
             "image": "https://i.imgur.com/ouNuTMn.png",
             "issue": "Issue: 2",
             "link": "https://fliphtml5.com/hsvmc/bwbj/#p=1"
         },
         {
-            "id": "12",
+            "id": "4",
             "name": "PSYCHOZ",
             "image": "https://i.imgur.com/8EB0jya.png",
             "issue": "Issue: 1",
             "link": "https://online.fliphtml5.com/hsvmc/rsjc/#p=1"
         },
         {
-            "id": "13",
+            "id": "3",
             "name": "DOLAP",
             "image": "https://i.imgur.com/imZHiJ5.png",
             "issue": "Issue: 2",
             "link": "https://pubhtml5.com/iqth/zrcb/BU%CC%88PK_DOLAP_Dergisi_2._Say%C4%B1_4D/"
         },
         {
-            "id": "14",
+            "id": "2",
             "name": "PSİ'US",
             "image": "https://i.ibb.co/3Mj3qtg/magazine18.png",
             "issue": "Issue: 23",
             "link": "https://gencpsikologlar.com/23.pdf"
         },
         {
-            "id": "15",
+            "id": "1",
             "name": "PERDE",
             "image": "https://i.imgur.com/CV4iUAN.png",
             "issue": "Issue: 6",
