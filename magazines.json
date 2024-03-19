@@ -1,22 +1,43 @@
 {
     "magazines": [
+         {
+            "id": "22",
+            "name": "UBUNTU",
+            "image": "https://i.imgur.com/ZjRtBmW.png",
+            "issue": "Issue: 12",
+            "link": "http://psinossa.tpocg.org/2024/03/16/psinossa-plus-2/"
+        },
         {
-            "id": "19",
+            "id": "21",
             "name": "UBUNTU",
             "image": "https://i.imgur.com/ZjRtBmW.png",
             "issue": "Issue: 12",
             "link": "https://online.fliphtml5.com/obuho/extm/#p=1"
         },
         {
-            "id": "18",
+            "id": "20",
             "name": "PSYCHOZ",
             "image": "https://i.imgur.com/vcCINBP.png",
             "issue": "Issue: 5",
             "link": "https://online.fliphtml5.com/hsvmc/kfda/"
         },
         {
+            "id": "19",
+            "name": "UFUK",
+            "image": "https://i.imgur.com/B8qHLZf.png",
+            "issue": "Issue: 1",
+            "link": "https://online.pubhtml5.com/jpeac/xsbv/"
+        },
+        {
+            "id": "18",
+            "name": "PERDE",
+            "image": "https://i.imgur.com/MO60hQI.png",
+            "issue": "Issue: 8",
+            "link": "https://drive.google.com/file/d/1RgAp_gb6v12-6KLdI5GA0MpIsG0zY9kI/view"
+        },
+        {
             "id": "17",
-            "name": "BİLGİ GÜZ",
+            "name": "BİLGİ",
             "image": "https://i.imgur.com/KNTjbVE.png",
             "issue": "Issue: 12",
             "link": "https://drive.google.com/file/d/1-WRhqwzjbWFwAeQtsNtBfC8TuDOb8Ac6/view"
