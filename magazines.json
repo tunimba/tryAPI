@@ -1,13 +1,6 @@
 {
     "magazines": [
         {
-            "id": "25",
-            "name": "UBUNTU",
-            "image": "https://i.imgur.com/ZjRtBmW.png",
-            "issue": "Issue: 12",
-            "link": "http://psinossa.tpocg.org/2024/03/16/psinossa-plus-2/"
-        },
-        {
             "id": "24",
             "name": "UBUNTU",
             "image": "https://i.imgur.com/ZjRtBmW.png",
