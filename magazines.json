@@ -1,53 +1,67 @@
 {
     "magazines": [
-         {
-            "id": "22",
-            "name": "UBUNTU",
-            "image": "https://i.imgur.com/ZjRtBmW.png",
-            "issue": "Issue: 12",
-            "link": "https://heyzine.com/flip-book/f602e66c29.html#page/1"
-        },
         {
-            "id": "21",
+            "id": "24",
             "name": "UBUNTU",
             "image": "https://i.imgur.com/ZjRtBmW.png",
             "issue": "Issue: 12",
             "link": "https://online.fliphtml5.com/obuho/extm/#p=1"
         },
         {
-            "id": "20",
+            "id": "23",
+            "name": "PSİ'US",
+            "image": "https://i.imgur.com/YZLWdK3.png",
+            "issue": "Issue: 28",
+            "link": "https://gencpsikologlar.com/28.pdf"
+        },
+        {
+            "id": "22",
             "name": "PSYCHOZ",
             "image": "https://i.imgur.com/vcCINBP.png",
             "issue": "Issue: 5",
             "link": "https://online.fliphtml5.com/hsvmc/kfda/"
         },
         {
-            "id": "19",
+            "id": "21",
             "name": "UFUK",
             "image": "https://i.imgur.com/B8qHLZf.png",
             "issue": "Issue: 1",
             "link": "https://online.pubhtml5.com/jpeac/xsbv/"
         },
         {
-            "id": "18",
+            "id": "20",
             "name": "PERDE",
             "image": "https://i.imgur.com/MO60hQI.png",
             "issue": "Issue: 8",
             "link": "https://drive.google.com/file/d/1RgAp_gb6v12-6KLdI5GA0MpIsG0zY9kI/view"
         },
         {
-            "id": "17",
+            "id": "19",
             "name": "BİLGİ",
             "image": "https://i.imgur.com/KNTjbVE.png",
             "issue": "Issue: 12",
             "link": "https://drive.google.com/file/d/1-WRhqwzjbWFwAeQtsNtBfC8TuDOb8Ac6/view"
         },
         {
-            "id": "16",
+            "id": "18",
             "name": "PSITHOTH",
             "image": "https://i.imgur.com/AbyexKk.png",
             "issue": "Issue: 45",
             "link": "https://psithoth.blogspot.com/2024/03/psithoth-45-sayisi-savas-psikolojisi.html"
+        },
+        {
+            "id": "17",
+            "name": "PSİ'US",
+            "image": "https://i.imgur.com/8ftGwBc.png",
+            "issue": "Issue: 26",
+            "link": "https://gencpsikologlar.com/26.pdf"
+        },
+        {
+            "id": "16",
+            "name": "PSİFONİ",
+            "image": "https://i.imgur.com/r9sOwE8.png",
+            "issue": "Issue: 1",
+            "link": "https://heyzine.com/flip-book/f602e66c29.html#page/1"
         },
         {
             "id": "15",
