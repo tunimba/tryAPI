@@ -1,6 +1,13 @@
 {
     "magazines": [
         {
+            "id": "16",
+            "name": "PSYCHOZ",
+            "image": "https://i.imgur.com/vcCINBP.png",
+            "issue": "Issue: 5",
+            "link": "https://online.fliphtml5.com/hsvmc/kfda/"
+        },
+        {
             "id": "15",
             "name": "PSYCHOZ",
             "image": "https://i.imgur.com/0DaiyFS.png",
