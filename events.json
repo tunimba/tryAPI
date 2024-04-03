@@ -1,51 +1,6 @@
 {
     "events": [
         {
-            "id": "1",
-            "name": "Kindergarten Counseling",
-            "image": "https://i.imgur.com/7KoaS2X.png",
-            "eventHost": "Kim Psychology",
-            "eventDate": "27-28 March 2024",
-            "referenceLink": "https://www.kimpsikoloji.com/basvuru/egitim/",
-            "description": "Objective: The 0-6 age period is a time of rapid growth, development, and learning, where fundamental habits are acquired, life is experienced through play, and basic impressions about ourselves and our surroundings are formed. This training will enable professionals working in the field to observe behavioral and psychological problems in children at an early stage, providing support to both children and their families.\n\nWho It Is For: The training is open only to Psychologists, Psychological Counselors, Child Development Specialists, consultants working in preschool institutions, and students of related fields.\n\nPlatform for the Training: Google Meet\n\nDocument to Be Awarded at the End of Training: Digital Certificate Approved by the Mental Health Association\n\nTraining Fee: 950 TL"
-        },
-        {
-            "id": "2",
-            "name": "Psychopathology I: Anxiety Disorders",
-            "image": "https://i.imgur.com/WFoWZPp.png",
-            "eventHost": "Clinical Psychologist Derin Kubilay",
-            "eventDate": "27 March-3 April 2024",
-            "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSfgLAImP0wl4_W0szO-a4TJVEeGvTVUzotu1xUv8Qz1txrCcQ/viewform",
-            "description": "In this training program, the aim is to address anxiety disorders both theoretically and scientifically, as well as to explain the therapy methods applied by different schools specifically for this disorder.\n\nFirst Session: In the first session, participants will learn about the etiology (origins), epidemiology (prevalence), symptoms, and distinct features of anxiety disorders as proposed by different schools, presented along with case examples.\n\nSecond Session: The second session will focus on learning the therapeutic approaches, specific techniques, and fundamental principles of different schools regarding the treatment of anxiety disorders, supported with various case examples and videos.\n\nThroughout the training process, case examples from different fields and practices will be presented, and interactive studies and discussions will take place.\n\nThe sessions will occur via Zoom on Wednesday evenings, March 27 and April 3, from 8:00 PM to 10:00 PM.\n\nCapacity: 10-15 People.\n\nTraining Fee: 1,500 TL\nEarly Registration: Those who register by March 20th will be charged 1,000 TL. \nLate Registration: From March 20th to April 3rd, the fee will be 1,500 TL. \nYour registration will be confirmed once you send the payment receipt to pskderinkubilay@gmail.com."
-        },
-        {
-            "id": "3",
-            "name": "WISC-R Wechsler Intelligence Scale for Children",
-            "image": "https://i.imgur.com/jAWTz7a.png",
-            "eventHost": "Kim Psychology",
-            "eventDate": "30-31 March 2024",
-            "referenceLink": "https://www.kimpsikoloji.com/basvuru/egitim/",
-            "description": "Training Objective:\nTo gain competency in administering, evaluating, and reporting the WISC-R intelligence test as part of the intelligence tests package.\n\nTraining Introduction:\nThe Wechsler Intelligence Scale for Children is one of the most frequently used tools in research and intelligence measurements. It includes examples from various ability areas in its subtests, its principles of interpretation and scoring are clear, and it has satisfactory psychometric properties. It was revised by D. Wechsler in 1974.\n\nTraining Program:\nParticipants are required to read the WISC-R manual before the training (materials for pre-reading will be sent by our institution to those who cannot obtain it).\nExplanation of the subtests verbally, introduction of forms and test materials, explanation of scoring\nParticipants start practicing the administration of the test,\nPracticing test scoring, observing a real application, explaining report writing, continuing with practical applications,\nApplication-Evaluation,\nSupervision and Monitoring.\n\nDocument to be Awarded at the End of Training:\nPractitioner Certificate (Approved by the Mental Health Association)\n\nTraining Fee\n3000 TL\n\nMaterials Fee\n1400 TL (With case)\n1300 TL (Without case)"
-        },
-        {
-            "id": "4",
-            "name": "Cognitive Behavioral Therapy Certificate Program",
-            "image": "https://i.imgur.com/1IwmHkM.png",
-            "eventHost": "Psikoloji Akademisi",
-            "eventDate": "30 March-30 June 2024",
-            "referenceLink": "https://psikolojiakademisi.com/sertifikalar/bilissel-davranisci-terapi-sertifika-programi/",
-            "description": "The certificate program's content has been developed in parallel with the Beck Institute's training program, illuminated by Assoc. Prof. Dr. Itır Tarı Cömert's 20 years of CBT experience. It offers participants not only the theoretical transmission of CBT's fundamental concepts and techniques but also practical applications, including how these techniques are used by therapists, how formulation is done, supplemented with example session videos, role-plays, supervision-supported review sessions, and case analyses.\n\nProgram Operation\nIn each module of the program, alongside the theoretical presentation, participants are shown example session videos by Assoc. Prof. Dr. Itır Tarı Cömert, followed by experiencing the therapy process through role-plays. Instead of a passive learning process, participants engage in an active learning experience by taking on the roles of both therapist and client. At the end of each module, a detailed discussion is conducted on how to approach a case specific to that module, how questions are asked, and a general summary of the module is provided. Additionally, supervision-supported review sessions are held outside of the training days at the end of each module. These sessions aim for the internalization of the module by the participants through reviews, role-plays, and case analyses."
-        },
-        {
-            "id": "5",
-            "name": "Clinical Observation and Experience Program",
-            "image": "https://i.imgur.com/q05MvS5.png",
-            "eventHost": "Moodist Academy",
-            "eventDate": "April 2024",
-            "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSe2I-_QddDprIBAilO9nXmjtuEUr34RuW_yGQMGE1w2MrYx7w/viewform",
-            "description": "Opportunity to observe and participate in training for 2 weeks!\n\nTreatment Practices\nGroup Therapies\nPsychopathology Trainings\nMMPI Test Training and Practitioner Certificate"
-        },
-        {
             "id": "6",
             "name": "Working with Couples in the Therapy Room",
             "image": "https://i.imgur.com/K9aioLY.png",
