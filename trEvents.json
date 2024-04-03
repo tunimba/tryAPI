@@ -1,51 +1,6 @@
 {
     "events": [
         {
-            "id": "1",
-            "name": "Anaokulu Danışmanlığı",
-            "image": "https://i.imgur.com/7KoaS2X.png",
-            "eventHost": "Kim Psikoloji",
-            "eventDate": "27-28 Mart 2024",
-            "referenceLink": "https://www.kimpsikoloji.com/basvuru/egitim/",
-            "description": "Amaç :0-6 yaş dönemi; büyüme, gelişme ve öğrenmenin, son derece hızlı olduğu, temel alışkanlıkların edinildiği, oyunlarla hayatın deneyimlendiği, kendimize, çevremize dair temel izlenimlerin oluştuğu oldukça önemli yıllardır. Bu eğitim ile birlikte alanda çalışan uzmanlar olarak, çocuklarda erken dönemde görülen davranışsal ve psikolojik problemleri gözlemleme becerisi kazanarak hem çocuklara hem de ailelerine destek sağlayabileceksiniz.\n\nKime Yönelik Yapılacaktır:\nEğitime; Yalnızca Psikologlar, Psikolojik danışmanlar, Çocuk gelişimciler, Okul öncesi kurumlarda danışman olarak çalışanlar ve ilgili alanların öğrencileri katılabilir.\n\nEğitimin Yapılacağı Platform:\nGoogle Meet\n\nEğitim Sonunda Verilecek Belge: \nRuh Sağlığı Derneği Onaylı Dijital Sertifika\n\nEğitim Ücreti: \n950 TL’ dir"
-        },
-        {
-            "id": "2",
-            "name": "Psikopatoloji I: Anksiyete Bozuklukları",
-            "image": "https://i.imgur.com/WFoWZPp.png",
-            "eventHost": "Klinik Psk. Derin Kubilay",
-            "eventDate": "27 Mart-3 Nisan 2024",
-            "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSfgLAImP0wl4_W0szO-a4TJVEeGvTVUzotu1xUv8Qz1txrCcQ/viewform",
-            "description": "Bu eğitim programında, anksiyete bozukluklarının hem teorik ve bilimsel olarak ele alınması, hem de farklı ekollerin bu bozukluk özelinde uyguladığı terapi yöntemlerinin anlatılması hedeflenmiştir.\n\nİlk Oturum: Katılımcılar ilk oturumda anksiyete bozukluklarının farklı ekoller tarafından öne sürülen etiyolojisi (kökenleri), epidemiyolojisi (yaygınlığı), semptomları ve birbirinden ayrışan özelliklerini vaka örnekleri ile beraber sunulması ile öğrenecektir.\n\nİkinci Oturum: İkinci oturumda ise farklı ekollerin anksiyete bozukluklarının tedavisi konusundaki terapötik yaklaşımlarını, spesifik tekniklerini ve temel prensiplerini çeşitli vaka örnekleri ve videolar ile desteklenerek öğrenecektir.\n\nEğitim sürecinde, farklı alanlardan örnekler ve uygulamalar üzerinden vaka örnekleri sunulacak, interaktif çalışmalar ve tartışmalar gerçekleştirilecektir.\n\nOturumlar 27 Mart ve 3 Nisan Çarşamba akşamı saat 20.00 – 22.00 arası Zoom üzerinden gerçekleşecektir.\n\nKontenjan: 10-15 Kişi.\n\nEğitim Ücreti: 1.500 TL\nErken kayıt: 20 Mart'a dek kayıt olanlardan 1.000 TL alınacaktır. \nGeç Kayıt: 20\nMart'tan 3 Nisan'a dek kaydolanlar için 1.500 TL alınacaktır. \nÖdemenin dekontunu pskderinkubilay@gmail.com adresine gönderdiğinizde kaydınız kesinleşecektir."
-        },
-        {
-            "id": "3",
-            "name": "WISC-R Wechsler Çocuklar İçin Zeka Ölçeği",
-            "image": "https://i.imgur.com/jAWTz7a.png",
-            "eventHost": "Kim Psikoloji",
-            "eventDate": "30-31 Mart 2024",
-            "referenceLink": "https://www.kimpsikoloji.com/basvuru/egitim/",
-            "description": "Eğitimin Amacı :\nZeka testleri paketi kapsamında WISC-R zeka testi uygulamada, değerlendirmede ve raporlama da yetkinlik.\n\nEğitimin Tanıtımı :\nWechsler Çocuklar İçin Zeka Ölçeği, araştırmalarda ve zeka ölçümlerinde en sık kullanılan araçlardan biridir. Alt testlerinde değişik yetenek alanlarından örnekler bulunmaktadır, yorum ve puanlama esasları belirgindir ve psikometrik özellikleri doyurucudur. D. Wechsler tarafından 1974 yılında gözden geçirilmiştir.\n\nEğitim Programı :\nEğitim öncesi WISC-R kitapçığının okunarak gelinmesi gerekmektedir (edinemeyenlere kurumumuz tarafından ön okumalar için gönderim yapılmaktadır).\nAlt testlerin sözel olarak anlatılması, form ve test malzemelerinin tanıtımı, puanlamanın anlatılması\nKatılımcıların testi uygulamayı pratik etmeye başlamaları,\nTest puanlamasının pratik edilmesi, gerçek bir uygulama izleme, rapor yazmanın anlatılması, uygulama pratiklerine devam edilmesi,\nUygulama-Değerlendirme,\nSüpervizyon ve İzleme.\n\nEğitim Sonunda Verilecek Belge :\nUygulayıcı Sertifika (Ruh Sağlığı Derneği Onaylı)\n\nEğitim Ücreti\n3000 TL\n\nMateryal Ücreti\n1400 TL  (Çantalı)\n1300 TL  (Çantasız)"
-        },
-        {
-            "id": "4",
-            "name": "Bilişsel Davranışçı Terapi S.P.",
-            "image": "https://i.imgur.com/6TvcrQl.png",
-            "eventHost": "Psikoloji Akademisi",
-            "eventDate": "30 Mart-30 Haziran 2024",
-            "referenceLink": "https://psikolojiakademisi.com/sertifikalar/bilissel-davranisci-terapi-sertifika-programi/",
-            "description": "Sertifika programının içeriği Doç. Dr. Itır Tarı Cömert’in 20 yıllık BDT tecrübelerinin ışığında Beck Enstitüsü eğitim programı paralelinde katılımcıların Bdt temel kavram ve tekniklerinin teorik aktarımının yanı sıra bu tekniklerin terapist tarafından nasıl kullanılacağının ve formülasyonun nasıl yapılacağının temelinde uygulamalı, örnek seans videolu, rolplayli, süpervizyon destekli tekrar oturumlu ve vaka analizli bir şekilde hazırlanmıştır.\n\nProgram İşleyişi\nProgramin her modülünde teorik aktarımın yanı sıra Doç. Dr. Itır Tarı Cömert’in örnek seans videoları katılımcılara izlettirildikren sonra katılımcılara rolplay ile terapi süreci tecrübe ettirilmektedir. Katılımcılar pasif bir öğrenme süreci yerine terapist ve danışan olmayı tecrübe ederek aktif bir öğrenme sürecine dahil olmaktadırlar. Her modülün sonunda o modüle ait bir vakaya seans seans nasıl yaklaşıldığı, hangi soruların nasıl sorulduğu detaylıca ele alınarak modülün genel toparlanması yapılmaktadır. Ek olarak her modül sonunda eğitim günleri dışında süpervizyon destekli tekrar oturumları gerçekleşmektedir. Bu oturumlarda modülün tekrarı, rolplayler, vaka analizleri yapılarak modülün katılımcılar tarafından içselleştirilmesi hedeflenmektedir."
-        },
-        {
-            "id": "5",
-            "name": "Klinik Gözlem ve Deneyim Programı",
-            "image": "https://i.imgur.com/q05MvS5.png",
-            "eventHost": "Moodist Akademi",
-            "eventDate": "Nisan 2024",
-            "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSe2I-_QddDprIBAilO9nXmjtuEUr34RuW_yGQMGE1w2MrYx7w/viewform",
-            "description": "2 hafta boyunca gözlem yapma ve eğitimlere katılma fırsatı!\n\nTedavi Uygulamaları\nGrup Terapileri\nPsikopatoloji Eğitimleri\nMMPI Test Eğitimi ve Uygulayıcı Sertifikası"
-        },
-        {
             "id": "6",
             "name": "Terapi Odasında Çiftlerle Çalışmak",
             "image": "https://i.imgur.com/K9aioLY.png",
