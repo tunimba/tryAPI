@@ -1,18 +1,9 @@
 {
     "events": [
         {
-            "id": "7",
-            "name": "MMPI Sertifika Programı",
-            "image": "https://i.imgur.com/FDkExio.png",
-            "eventHost": "Psikoloji Akademisi",
-            "eventDate": "6-7 Nisan 2024",
-            "referenceLink": "https://psikolojiakademisi.com/sertifikalar/mmpi-sertifika-programi/",
-            "description": "Program İşleyişi\n\nKonu İçerikleri\n\n1.Minesota Çok Yönlü Kişilik Envanteri’nin (MMPI) teorik ve kuramsal içeriği;\n▫️MMPI’ın geliştirilme amacı ve süreci; psikometrik özelliklerinin aktarımı\n▫️MMPI’ın avantaj ve sınırlılıklarının vurgulanması\nTürkiye standardizasyon çalışmasının aktarımı\n▫️MMPI 2’ ye neden ihtiyaç duyulduğunun aktarımı\n\n2.MMPI’ın Uygulanması\n▫️Testin uygulanmasına dikkat edilmesi gereken noktalar (kimlere uygulanacağı, hangi fiziksel koşullarda uygulanacağı, kimlere uygulanamayacağı)\n▫️Test görüşmesinde ve test sürecinde dikkat edilmesi gerekenler\n▫️Gözlemlerin nasıl yorumlanacağı\n\n3.Minnesota Çok Yönlü kişilik Envanteri (MMPI) :\n▫️Geçerlilik ve klinik alt ölçeklerin tanıtılması\n▫️İkili Yükselme Tiplerinin belirlenmesi\n▫️Konfigürasyonların belirlenmesi ve yorumlanması\n▫️Psikotik ve nevrotik profillerin incelenmesi\n▫️Geçersiz profil örnekleri\n\n4.MMPI’ın Yorumlanması\n▫️MMPI profilinin nasıl çıkarılacağı ve nelere dikkat edileceği\n▫️Bilgisayarda hesaplama, Bilgisayar programının nasıl kullanılacağı\n▫️Örnek cevap anahtarı üzerinden uygulamalı olarak profil oluşturulması\n▫️Örnek profiller üzerinden geçerlik alt ölçeklerini tek tek ve bütünü ile ele alma\n▫️Klinik alt ölçeklerde yükselen ve alçalan ölçekleri yorumlama\n▫️Danışanın uyum düzeyinin belirlenmesi\nİkili, üçlü yükselmeleri yorumlama\n▫️Geçerlik ve klinik alt ölçeklerdeki spesifik örüntüleri ele alma\n▫️Geçerlik ve klinik alt ölçek bulgularını birlikte ele alarak profili bütünü ile yorumlama\n\n5.Profilin Raporlaştırılması\n▫️Raporlaştırmada dikkat edilmesi gereken noktalar\n▫️Klinik gözlem ile MMPI profilinin bütünleştirilmesi\n▫️Profilde belirlenen bulguların yazılı rapora dönüştürülmesi\n▫️Örnek raporlar üzerinde çalışma ve örnek raporların verilmesi"
-        },
-        {
             "id": "8",
             "name": "Davranışsal Bağımlılıkları Anlamak ve Çalışmak",
-            "image": "https://i.imgur.com/0h9lxQ9.png",
+            "image": "https://i.imgur.com/CumsEYn.png",
             "eventHost": "Poem Psikoloji",
             "eventDate": "15 Nisan-20 Mayıs 2024",
             "referenceLink": "https://form.jotform.com/240711260047243",
@@ -21,7 +12,7 @@
         {
             "id": "9",
             "name": "Terapistin Alet Çantası",
-            "image": "https://i.imgur.com/yuRKXUs.png",
+            "image": "https://i.imgur.com/EqbqEJr.png",
             "eventHost": "Psikoterapi Türkiye & POEM",
             "eventDate": "19 Nisan-22 Mayıs 2024",
             "referenceLink": "https://form.jotform.com/240746143110242",
@@ -30,7 +21,7 @@
         {
             "id": "10",
             "name": "Çiftler Arası Problem Çözme Teknikleri",
-            "image": "https://i.imgur.com/PfzKW4R.png",
+            "image": "https://i.imgur.com/KLwFHjR.png",
             "eventHost": "Kim Psikoloji",
             "eventDate": "20-21 Nisan 2024",
             "referenceLink": "https://www.kimpsikoloji.com/basvuru/egitim/",
@@ -39,7 +30,7 @@
         {
             "id": "11",
             "name": "Moxo Dikkat Testi Eğitimi",
-            "image": "https://i.imgur.com/zT1Uoj7.png",
+            "image": "https://i.imgur.com/vQtN5C6.png",
             "eventHost": "Kim Psikoloji",
             "eventDate": "21 Nisan 2024",
             "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSc8glxRSZQaVD_Xk6GlUVzRJfYQp3-ouuFevXSO_s8ZkSMZcQ/viewform?formkey=dGcxcFhLbkNveTRPLUthYW9wRmtIeHc6MQ",
