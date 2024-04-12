@@ -1,18 +1,9 @@
 {
     "events": [
         {
-            "id": "7",
-            "name": "MMPI Certification Program",
-            "image": "https://i.imgur.com/FDkExio.png",
-            "eventHost": "Psikoloji Akademisi",
-            "eventDate": "6-7 April 2024",
-            "referenceLink": "https://psikolojiakademisi.com/sertifikalar/mmpi-sertifika-programi/",
-            "description": "Program Operation\n\nSubject Contents\n\n1. Theoretical and Conceptual Content of the Minnesota Multiphasic Personality Inventory (MMPI):\n▫️The development purpose and process of the MMPI; transmission of its psychometric properties\n▫️Emphasizing the advantages and limitations of the MMPI\nTransmission of the Turkish standardization study\n▫️Explanation of why MMPI 2 was needed\n\n2. Application of the MMPI\n▫️Important considerations for administering the test (who it should be administered to, under what physical conditions, who it should not be administered to)\n▫️Considerations during the test interview and the testing process\n▫️How observations should be interpreted\n\n3. Minnesota Multiphasic Personality Inventory (MMPI):\n▫️Introduction of validity and clinical subscales\n▫️Identification of Dual Elevations\n▫️Determination and interpretation of configurations\n▫️Examination of psychotic and neurotic profiles\n▫️Examples of invalid profiles\n\n4. Interpretation of the MMPI\n▫️How to derive and what to pay attention to in the MMPI profile\n▫️Calculations on a computer, how to use the computer program\n▫️Practical profile creation using an example answer key\n▫️Handling validity subscales individually and as a whole through example profiles\n▫️Interpreting rising and falling scales in clinical subscales\n▫️Determining the client's level of adjustment\nInterpretation of dual and triple elevations\n▫️Addressing specific patterns in validity and clinical subscales\n▫️Interpreting the profile in its entirety by considering validity and clinical subscale findings together\n\n5. Reporting the Profile\n▫️Points to consider in reporting\n▫️Integrating clinical observation with the MMPI profile\n▫️Translating identified findings in the profile into a written report\n▫️Working on example reports and providing sample reports"
-        },
-        {
             "id": "8",
             "name": "Understanding and Working with Behavioral Addictions",
-            "image": "https://i.imgur.com/0h9lxQ9.png",
+            "image": "https://i.imgur.com/CumsEYn.png",
             "eventHost": "Poem Psychology",
             "eventDate": "15 April-20 May 2024",
             "referenceLink": "https://form.jotform.com/240711260047243",
@@ -21,7 +12,7 @@
         {
             "id": "9",
             "name": "Therapist's Toolbox",
-            "image": "https://i.imgur.com/yuRKXUs.png",
+            "image": "https://i.imgur.com/EqbqEJr.png",
             "eventHost": "Psikoterapi Türkiye & POEM",
             "eventDate": "19 April-22 May 2024",
             "referenceLink": "https://form.jotform.com/240746143110242",
@@ -30,7 +21,7 @@
         {
             "id": "10",
             "name": "Couple Problem Solving Techniques",
-            "image": "https://i.imgur.com/PfzKW4R.png",
+            "image": "https://i.imgur.com/KLwFHjR.png",
             "eventHost": "Kim Psychology",
             "eventDate": "20-21 April 2024",
             "referenceLink": "https://www.kimpsikoloji.com/basvuru/egitim/",
@@ -39,7 +30,7 @@
         {
             "id": "11",
             "name": "Moxo Attention Test Training",
-            "image": "https://i.imgur.com/zT1Uoj7.png",
+            "image": "https://i.imgur.com/vQtN5C6.png",
             "eventHost": "Kim Psychology",
             "eventDate": "21 April 2024",
             "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSc8glxRSZQaVD_Xk6GlUVzRJfYQp3-ouuFevXSO_s8ZkSMZcQ/viewform?formkey=dGcxcFhLbkNveTRPLUthYW9wRmtIeHc6MQ",
