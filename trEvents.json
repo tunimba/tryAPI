@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "id": "8",
+            "id": "1",
             "name": "Davranışsal Bağımlılıkları Anlamak ve Çalışmak",
             "image": "https://i.imgur.com/CumsEYn.png",
             "eventHost": "Poem Psikoloji",
@@ -10,7 +10,25 @@
             "description": "Psikoterapistler için davranışsal bağımlılıklar dediğimiz, Sosyal Medya, Oyun, Kumar ve Pornografi bağımlılıkları üzerine bir eğitim tasarlandı.\n\nToplam 6 Oturum\n\nKemal Sayar – Bağımlılıkları Anlamak, Ruhun Sıkışması (15 Nisan Pazartesi 21.00-22.00)\n\nHakan Türkçapar – BDT ile Bağımlılıkları Çalışmak (22 Nisan Pazartesi 21.00-22.00)\n\nEmre Yılmaz – Kumar Bağımlılığı ve Terapisi (29 Nisan Pazartesi 21.00-23.00)\n\nEren Murat Dinçer – Pornografi Bağımlılığı ve Terapisi (6 Mayıs Pazartesi 21.00-23.00)\n\nSüreyya Kitapçıoğlu – Oyun Bağımlılığı ve Terapisi (13 Mayıs Pazartesi 21.00-23.00)\n\nMehmet Büyükçorak – Sosyal Medya Bağımlılığı ve Terapisi (20 Mayıs Pazartesi 21.00-23.00)"
         },
         {
-            "id": "9",
+            "id": "2",
+            "name": "Onlara Farklılıklarıyla Değil İsimleriyle Seslen",
+            "image": "https://i.imgur.com/hOWKpqj.png",
+            "eventHost": "Zonguldak Bülent Ecevit Üniversitesi Psikoloji ve Yaşam Topluluğu",
+            "eventDate": "16 Nisan",
+            "referenceLink": "https://www.instagram.com/p/C47tBDANNvw/",
+            "description": "Psikoloji ve Yaşam Topluluğu iftiharla sunar✨\n\n❕OFDiS (Onlara Farklılıklarıyla Değil İsimleriyle Seslen) Projesi kapsamında;\n\n❣️Otizmli çocuklarımız ve ailelerinin sahne aldığı 10-16\n\nMayıs Dünya Engelliler Haftası’na özel düzenlediğimiz tiyatro ve halk oyunu etkinliklerimize hepiniz davetlisiniz🎭❤️🥳\n\nBilet ve Detaylı Bilgi İçin: DM\n\nPSİYAT ile Kalın..✨"
+        },
+        {
+            "id": "3",
+            "name": "Klinik Psikolog Kıvılcım Kıran ile Gone Girl Film Okuması",
+            "image": "https://i.imgur.com/m99THsk.png",
+            "eventHost": "BÜDAV",
+            "eventDate": "18 Nisan",
+            "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSdNHMEE-l59nWu_zXZFtxsgjU0CBbpdRNU1aclTkWM04DXS4w/viewform",
+            "description": "BÜDAV Film Okumaları alt kurulu olarak düzenlediğimiz Klinik Psikolog Kıvılcım Kıran ile Gone Girl Film Okuması’na davetlisiniz! ✉️\n\n18 Nisan Perşembe 18.30’da gerçekleşecek olan etkinliğimizin sınıf bilgisini sosyal medya ve mail yoluyla paylaşacağız.\n\nEtkinlik öncesi film gösterimi olmayacağı için filmi izleyip gelmenizi tavsiye eder, iyi seyirler dileriz 🍿\n\nEtkinliğimiz okul dışından katılımcılara da açıktır, hepinizi bekleriz 🤍"
+        },
+        {
+            "id": "4",
             "name": "Terapistin Alet Çantası",
             "image": "https://i.imgur.com/EqbqEJr.png",
             "eventHost": "Psikoterapi Türkiye & POEM",
@@ -19,7 +37,25 @@
             "description": "Psikoterapi pratiğimizde, hangi haritayı kullanırsak kullanalım, terapide bize rehberlik eden temel teknikler vardır. Bunlar, bir terapistin alet çantasını zenginleştiren, terapisti geliştiren ve ona esneklik sağlayan tekniklerdir. \n\nÖğrenci ve mezunlardan aldığımız talepler doğrultusunda böyle bir eğitim paketine ihtiyaç olduğunu gördük. Bizler de POEM ve Psikoterapi Türkiye olarak Terapistin Alet Çantası isimli bir dizi eğitim tasarladık.\n\nBu çalışmada katılımcılara, psikoterapi uygulamasında kullanılabilecek çeşitli tekniklerle ilgili teorik bilgi verilmesi, bu tekniklerin pratikte nasıl kullanılabileceği ile ilgili becerilerin kazandırılması ve örnek uygulamalarla terapi odasına dair tecrübe sahibi olmalarını desteklemek amaçlanmıştır."
         },
         {
-            "id": "10",
+            "id": "5",
+            "name": "Meme Kanserini Atlatmış Kadınlarla Psikodrama Grup Terapisi",
+            "image": "https://i.imgur.com/244VvPJ.png",
+            "eventHost": "Poiesis Psikoloji",
+            "eventDate": "20 Nisan",
+            "referenceLink": "https://www.instagram.com/p/C4xQg9ztIlK/",
+            "description": "Detaylı bilgi almak ve öngörüşme randevusu oluşturmak için iletisim@poiesispsikoloji.com adresine mail atabilirsiniz."
+        },
+        {
+            "id": "6",
+            "name": "IV. Psikoloji Günleri",
+            "image": "https://i.imgur.com/RtK7HsV.png",
+            "eventHost": "Bilkent Psikoloji Topluluğu",
+            "eventDate": "20-21 Nisan",
+            "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSd2etwbb12ShwclrMU0_31B6fMBMYwtJ52dgzrCuwALgoGhCg/viewform",
+            "description": "Bilkent Psikoloji Topluluğu olarak bu sene dördüncüsünü gerçekleştireceğimiz Psikoloji Günleri’ni sunmaktan gurur duyuyoruz!✨ 20-21 Nisan tarihlerinde @salusbenimle , @herby_tea sponsorluğu ve @yapikrediyayinlari işbirliği ile, birbirinden donanımlı ve alanlarında uzman hocalarımızı ağırlayacağımız IV. Psikoloji Günleri’ne sizleri davet ediyoruz.🥳 Program akışı ve kayıtlar için takipte kalmayı ve alarmlarınızı kurmayı unutmayın!!!✨\n\n‼️ Etkinlik dili Türkçe olacaktır.\n\nHer gün için 20 Ge250/51 puanı, toplam 40 Ge250/51 puanı verilecektir."
+        },
+        {
+            "id": "7",
             "name": "Çiftler Arası Problem Çözme Teknikleri",
             "image": "https://i.imgur.com/KLwFHjR.png",
             "eventHost": "Kim Psikoloji",
@@ -28,7 +64,7 @@
             "description": "Eğitimin amacı:\nİlişkilerde sorunların yapıcı bir şekilde yönetilmesi, partnerlerin karşılıklı olarak birbirini anlamasını sağlamak ve ilişkilerde mutluluk, açıklık, güçlülük, uyum ve doyum, değişim ve gelişim gibi olumlu etkilere sebep olmak. Problem çözme becerisi kazanmak.\n\nEğitimin içeriği:\nİlişkilerde yaşanan problemler, çözülemeyen sorunlar\nİletişimsizlik\nİlişkilerde değerli hissetme\nMutlu çift olmanın sırları\nİlişkilerde kriz yönetimi\nToksik ilişkiler ve kurtulma yolları\nEvlilikte Etkili İletişim\nEşler Arası İletişim Kopukluğu\nİlişkide İletişim Problemleri Nasıl Çözülür\nPartnerle Problem Çözme ve Evlilik Uyumu\nAnlaşamayan Eşler Ne Yapmalı\nSorunlar nasıl çözülmeli\nSorunun varlığını kabul etmek, sorunu doğru tanımlamak\nÇözüm için alternatifler üretmek\nNasıl uygulanacağı\nSonucu değerlendirmek\nEğitim Süresi: 3 Oturum, 6 Saat\nEğitim Ücreti: 750 TL\n\nEğitim Sonunda Verilecek Sertifika:\nRuh Sağlığı Derneği Onaylı Katılım Sertifikası"
         },
         {
-            "id": "11",
+            "id": "8",
             "name": "Moxo Dikkat Testi Eğitimi",
             "image": "https://i.imgur.com/vQtN5C6.png",
             "eventHost": "Kim Psikoloji",
@@ -37,7 +73,16 @@
             "description": "Eğitimin Amacı\nBu eğitim, Dikkat Eksikliği ve Hiperaktivite Bozukluğu olan bireylerle çalışma yöntemleri hakkında bilgi vermeyi ve profesyonellere MOXO testini tanıtarak onlara test uygulaması hakkında bilgi ve beceri kazandırmayı hedeflemektedir.\n\nMOXO Nedir ?\nMoxo Dikkat Testi, Dikkat, Zamanlama, Dürtüsellik ve Hiperaktivite performansını ölçen, uzmanlar tarafından uygulanan, görüş ve duygu içermeyen, online bir testtir.\n\nMOXO, Dikkat, Zamanlama, Dürtüsellik ve Hiperaktivite performans düzeylerinin ölçümünde oldukça etkili bulunmuştur; fakat testin hızla artmış olan popülaritesi, MOXO’da bulunan eşsiz Çeldirici Sistemi’nden kaynaklanmaktadır.\n\nBasit görünen bir MOXO görevine odaklanabilmek için, bireyin aynı günlük hayatta yapması gerektiği gibi, testte bulunan görsel ve işitsel çeldiricileri görmezden gelmesi gerekmektedir. Birey; bunu başarabilmek için çeldiricilerin aktif inhibisyonunu sağlamak zorunda bulunmakta, bu da testi çok daha zorlayıcı ve testin belirleyici niteliklerini de bir o kadar ileri düzeye getirmektedir.\n\nMOXO Çocuk Testi\nMOXO Çocuk testi, özel olarak 6-12 yaş arası çocuklar için tasarlanmış olup, uzmanlar için DEHB tanısı ve hasta gözlem süreçlerinde yardımcı bir araç görevi görmektedir. MOXO Çocuk Testi, çeşitli uyaran ve çeldiriciler içeren kısa ve online bir testtir.\n\nYaş ile uyumlu uyaranlar içeren, 15 dakikalık online test\nÇeşitli dillerde sesli yönergeler ve çocuklar tarafından kolayca anlaşılabilecek deneme oturumu\nBireyin performansının farklı çevresel koşullardaki seyrinin test edilmesine olanak sağlayan, eşsiz çeldirici seti\n6 yaş ve üstünü kapsayan, güncel norm tabanı\nBireyin performansının zaman içindeki değişimini (test süresi boyunca) ölçme olanağı sağlayan performans grafiği\nYalnızca klavye kullanılarak, herhangi bir ilave cihaz olmadan internete erişimi olan her bilgisayardan kolayca erişilebilen, online arayüz\nUSA-HIPPA gizlilik yasa ve yönetmelikleriyle yüksek düzeyde güvenliği sağlanan hasta bilgileri\n\nMOXO Genç & Yetişkin Testi\nMOXO Genç&Yetişkin testi; 13-65 yaş aralığını kapsayan, uzmanların DEHB tanısı ve hasta gözlem süreçlerinde hastanın dikkat profilini değerlendirmelerine yardımcı olan bir araçtır. MOXO Genç&Yetişkin DEHB Testi, eşsiz çeldirici sistemiyle bireyin günlük hayatta karşılaştığı çevresel koşulları modeller.\n\nUygun uyaran ve çeldiriciler içeren, 18 dakikalık online test\nBireyin performansının farklı çevresel koşullardaki seyrinin test edilmesine olanak sağlayan, eşsiz çeldirici seti\nFarklı ülkelerden toplamda 900 birey içeren, düzenli olarak güncellenen norm tabanı\nBireyin performansının zaman içindeki değişimini (test süresi boyunca) ölçme olanağı sağlayan performans grafiği\nYalnızca klavye kullanılarak, herhangi bir ilave cihaz olmadan internete erişimi olan her bilgisayardan kolayca erişilebilen, online ara yüz\nUSA-HIPPA gizlilik yasa ve yönetmelikleriyle yüksek düzeyde güvenliği sağlanan hasta bilgileri\n\nEğitime Kimler Katılabilir?\nPsikologlar, Psikiyatristler , Psikolojik Danışmanlar, Özel Eğitim Uzmanları ve ilgili branşların son sınıf öğrencilerine yönelik gerçekleştirilecektir.\n\nEğitim Sonunda Verilecek Belge\nMOXO Uygulayıcı Uzman Sertifikası verilecektir.\n\nKontenjan\nSınırlıdır.\n\nEğitimin Gerçekleşeceği Platform\nGoogle Meet\n\nEğitim Ücreti\n2000 TL’dir."
         },
         {
-            "id": "12",
+            "id": "9",
+            "name": "Cinsel Terapi Vaka Sunumu",
+            "image": "https://i.imgur.com/AGQTSFX.png",
+            "eventHost": "Arel Psikoloji Kulübü",
+            "eventDate": "21 Nisan",
+            "referenceLink": "https://www.instagram.com/p/C5ERBzCtMCX/",
+            "description": "Cinsel terapi alanında güncel gelişmeleri ve etkili müdahale yöntemlerini daha yakından tanımak için sizleri bir vaka sunumu etkinliğimize davet ediyoruz. Cinsel Terapi alanındaki deneyimli hocamız Melek EKİCİ VELİOĞLU, kapsamlı bir vaka sunumuyla karşınızda olacak.\n\nEğitim İçeriği:\n• Vaka Tanımı\n• Klinik Değerlendirme\n\n📆Tarih: 21.04.2024\n⏰Saat: 19.00\n📍Yer: Online (Sunum günü katılım linki sosyal medya hesaplarımızdan paylaşılacaktır, sosyal medya hesabımızı takip etmenizi tavsiye ederiz 🙃)\n\n👩🏼‍🏫 Sunum sonunda soru-cevap yapılacaktır. Katılımcılar soru sorabilecektir."
+        },
+        {
+            "id": "10",
             "name": "Antalya Psikoloji Kampı",
             "image": "https://i.imgur.com/e2SLEQQ.png",
             "eventHost": "Alfa Etkinlik",
@@ -46,7 +91,34 @@
             "description": "🔻Alfakamp Psikoloji Kampları 5 yıldır yaz ve kış formatları ile farklı şehirlerde farklı konuşmacıları ile yüzlerce insanı bir araya getirmiş, tatil, eğitim ve eğlenceyi aynı anda yaşatarak muhteşem bir deneyim imkanı sunmuştur!\n\n🗓️ 25-26-27-28 Nisan 2024\n📌 Vonresort Golden Beach Hotel Side Antalya (5 Yıldızlı Tatil Köyü)\n🍽️ Ultra Her Şey Dahil Konsept\n🏊🏻‍♀️ Denize Sıfır Hotel, Hotele Ait Beach, Hotel İçinde Aqua Park ve Birçok Havuz\n🎉 DJ Performans 90’Lar Partisi / Havuz Başı Pool Partiler\n📗 Gökhan Çınar, Mehmet Şakiroğlu ve Alanında Uzman Eğitmen Kadrosu İle Farkındalık Yaratacak Eğitimler\n\n⭐25-28 Nisan’da 5 Yıldızlı Vonresort Golden Beach Hotel’de gerçekleştireceğimiz kampımız 3 gece 4 gün boyunca alanında uzman eğitmenlerin konferansları sizi farkındalığa ve bilgiye, 5 Yıldızlı hotel konforu ile havuz, deniz, spa, ultra her şey dahil formatı ile sınırsız yeme içme gibi imkanlardan faydalanıp denize sıfır bir tatil köyünde yaza merhaba diyeceğiniz bir tatile, DJ performans ile 90’lar partisi ve ödüllü oyunlar ile eğlenceye doyuracaktır\n\n🔸Fiyatlandırma ve Ödeme Hakkında:\n▪️ Kredi Kartına 9 Taksit İmkanı\n▪️ Havale EFT Ödemelerinde %5 İndirim İmkanı\n▪️ Şubat, Mart, Nisan ayları fiyatları farklılık göstermektedir."
         },
         {
+            "id": "11",
+            "name": "Bir Film Bir Psikolog",
+            "image": "https://i.imgur.com/9Ns4Ao0.png",
+            "eventHost": "Türk Psikologlar Derneği Ankara Öğrenci Birimi",
+            "eventDate": "27 Nisan",
+            "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSeBYl-71lbm-OdXaCOAyV580crZlxeTqiilI1cq8Wa7DPLRyg/viewform",
+            "description": "Türk Psikologlar Derneği Ankara Öğrenci Birimi Temsilciler Komisyonundan herkese sağlıklı ve mutlu günler dileriz.🎈\n\nSinema bileti sizden mısırınız bizden! 🍿\n\n“Bir Film Bir Psikolog” isimli etkinliğimizde, Medya Psikoloğu & Terapist Gözde Aytulun Şen hocamızla birlikte Manchester by the Sea isimli filmi izleyeceğiz. Daha sonrasında hocamız ile birlikte bu filmi derinlemesine analiz etme şansı yakalayacağız. Film 12.00’de başlayacağından içecek ve mısırları alabilmek için en geç 11.30’da gelmenizi tavsiye ederiz. 🎥\n\n🗓 27 Nisan Cumartesi\n\n🕰 12.00\n\n📍Fade Stage&Coffee (Cinnah Caddesi, Farabi Sk. 39/A, 06690 Çankaya/Ankara)\n\n❗️Etkinliğimiz sadece psikoloji öğrencilerine açıktır.\n\n❗ Etkinlik ücretimiz 50 TL olup dekontunuzu yüklemeden formu dolduramayacağınızı belirtmek isteriz. Alınan ücretlerin iadesi yapılmayacaktır.\n\n❕Ücretinizi gönderirken İsim-Soyisim-Üniversite ismi yazmayı unutmayınız.\n\n❕Kontenjanımız sınırlıdır. Bu yüzden diğer başvuran katılımcı adaylarımıza haksızlık olmaması adına katılamama durumunuzda en az bir gün önceden “ogrenci@psikolog.org.tr” adresine bildirmenizi önemle rica ederiz."
+        },
+        {
+            "id": "12",
+            "name": "5. ODTÜ Sinirbilim Günleri",
+            "image": "https://i.imgur.com/Bz2KMvz.png",
+            "eventHost": "ODTÜ Biyogen ve ODTÜ Psikoloji Topluluğu",
+            "eventDate": "27-28 Nisan",
+            "referenceLink": "https://forms.gle/MzmpYF1hjybccGG48",
+            "description": "Herkese Merhabalar ! 🧠\n\nODTÜ Biyogen ve ODTÜ Psikoloji Topluluğu olarak bu yıl 27/28 Nisan tarihlerinde 5.sini düzenleyeceğimiz Sinirbilim Günlerini sizlerle paylaşmaktan heyecan duyuyoruz🥳\n\nEtkinliğimiz dışarıdan katılımlara açıktır."
+        },
+        {
             "id": "13",
+            "name": "7. Türkiye Psikoterapi Zirvesi",
+            "image": "https://i.imgur.com/dYEQsCo.png",
+            "eventHost": "Psikoterapi Türkiye",
+            "eventDate": "27-28 Nisan",
+            "referenceLink": "https://form.jotform.com/240443839345258",
+            "description": "🎉Zirvede 7. Yıl🎉\n\nTürkiye Psikoterapi Zirvesinin 7.sini sizlerle paylaştığımız için çok heyecanlıyız🥳\n\nBu yılın teması: Aile ve Çift Terapisi\n\n7 yıldır sizlerle, psikoterapinin önde gelen isimlerini buluşturuyor ve psikoterapi yaklaşımlarının güncel bilgilerini sizlere aktarmaya çalışıyoruz.\n\n27-28 Nisan'da Aile ve Çift Terapisi temasıyla, eşsiz bir psikoterapi zirvesi sunmaya çalışacağız."
+        },
+        {
+            "id": "14",
             "name": "Nöropsikolojik Testler Eğitimi",
             "image": "https://i.imgur.com/zs5Fsoc.png",
             "eventHost": "Moodist Akademi",
@@ -55,7 +127,7 @@
             "description": "🖥️ Eğitim Online Platformu üzerinden gerçekleşecektir.\n\n✔️ Katılımcılara Moodist Akademi Onaylı Eğitim Belgesi verilecektir.\n\n❓Eğitime Kimler Katılabilir?\n-Psikoloji Bölümü, Psikolojik Danışmanlık ve Rehberlik Bölümü, Çocuk Gelişimi ve Eğitimi ve benzeri bölüm mezunları, belirtilen bölümlerin 3.- 4. sınıfında okumakta olan kişiler katılabilir.\n\n🎯Eğitimin Amacı\n-Nöropsikoloji, nöropsikolojik değerlendirme, nöropsikolojik testler hakkında genel bilgi vermek; testlerin geçerliğinin yani ne ölçtüğünün aktarılması, bu testleri uygulama, puanlama, yorumlama becerisinin kazandırılması.\n\n🖇️ Testler eğitim ücretine dahil değildir."
         },
         {
-            "id": "14",
+            "id": "15",
             "name": "Psikoterapide Kullanılan 35 Temel Teknik S.P.",
             "image": "https://i.imgur.com/KgVJwu8.png",
             "eventHost": "Psikoloji Akademisi",
@@ -64,7 +136,7 @@
             "description": "Program kapsamında katılımcılara hangi ekolle çalışıyor olurlarsa olsun, alet çantalarından eksik etmemeleri gereken, psikoterapi sırasında zorlanıldığında danışan da değişimi hızlıca sağlayan farklı ekollerden 35 temel teknik teorik ve uygulamalı bir şekilde aktarılacaktır.\n\nProgram da katılımcılara birçok farklı ekole ait ve terapide İşlevsel olarak kullanılan birçok temel tekniği uygulama yetkinliğinin kazandırılması hedeflenmektedir.\nProgram boyunca etkinliği kanıtlanmış terapi ekollerinin etkin ve işlevsel olan teknikleri katılımcılara teorik bir şekilde aktarılacaktır. Bu aktarımdan sonra katılımcılara vakalar üzerinden tekniklerin nasıl uygulanacağı detaylıca anlatılacak ve katılımcılara bu teknikler rolplayler ile tecrübe ettirilecektir. Böylece hem teorik hem de teorik bilginin nasıl uygulanacağına dair bilgi birikimiyle program tamamlanacaktır."
         },
         {
-            "id": "15",
+            "id": "16",
             "name": "Online Zirve Psikoloji",
             "image": "https://i.imgur.com/exGW5HK.png",
             "eventHost": "Alfa Etkinlik",
@@ -73,13 +145,31 @@
             "description": "🗓️18-25 Mayıs 2024\n📜21 Oturum 21 Dijital Belge\n📍İnteraktif Oturumlar, Soru-Cevap İmkanı\n📂İsteğe Bağlı Üniversite Onaylı E-devlette Görünebilir Belge\n\nAlfa Etkinlik olarak uzun yıllardır gerçekleştirdiğimiz Psikoloji Zirvelerinin yenisi Mayıs ayında sizlerle olacak. Herkesin katılım gösterebileceği farkındalık ve gelişim konferansı olan bu etkinlik, ilişkiler, yaşam becerileri, çocukluk travmaları, anksiyete ve depresyon, iyi olma ve birçok konuda size katkı sağlayacak şekilde özenle tasarlanmıştır."
         },
         {
-            "id": "16",
+            "id": "17",
             "name": "Çocuk ve Ergenlerde BDT Programı",
             "image": "https://i.imgur.com/VxKOiG0.png",
             "eventHost": "Poem Psikoloji",
             "eventDate": "25 Mayıs- 28 Temmuz 2024",
             "referenceLink": "https://form.jotform.com/240686871616264",
             "description": "Çocuk ve Ergenlerde BDT Programı Mayıs Dönemi başvuruları açıldı! 🎉\n\nToplamda 10 oturumdan oluşan eğitimimizin ilk oturumu 25 Mayıs 2024’te başlıyor!\n\n⏰ Eğitim Saatleri: 09.30-16.30"
+        },
+        {
+            "id": "18",
+            "name": "Başarı(sız) Bi'Şeyler",
+            "image": "https://i.imgur.com/9CLJLIb.png",
+            "eventHost": "Bi'Şey Psikoloji",
+            "eventDate": "26 Mayıs",
+            "referenceLink": "https://www.biseypsikoloji.com/4-basarisiz-biseyler-cok-yakinda/",
+            "description": "Herkese merhaba!💥\n\nÇok sevilen, çok merak edilen, sabırsızlıkla beklenen o gün geldi! 👀\n\nBaşarı(sız) Bi'Şeyler ile tekrardan karşınızdayız.💃\n\nBu sene 4. kez gerçekleştireceğimiz Başarı(sız) Bi’Şeyler 26 Mayıs Pazar günü Beşiktaş Akatlar Kültür Merkezinde sizlerle olacak! 😎"
+        },
+        {
+            "id": "19",
+            "name": "VI. Ulusal Psikoloji Lisansüstü Öğrencileri Kongresi",
+            "image": "https://i.imgur.com/vTsTbmD.png",
+            "eventHost": "Ankara Yıldırım Beyazıt Üniversitesi Psikoloji Bölümü & TPD",
+            "eventDate": "7-8-9 Haziran",
+            "referenceLink": "https://www.aybu.edu.tr/uplok",
+            "description": "Aybü Psikoloji’den herkese merhaba 🤗\n\nTürk Psikologlar Derneği tarafından Ankara Yıldırım Beyazıt Üniversitesi Psikoloji Bölümü ev sahipliğinde 7-9 Haziran 2024 tarihleri arasında düzenlenecek olan “Bozulan Ezberler, Değişen Sorular, Yeni Yaklaşımlar” temalı VI. Ulusal Psikoloji Lisansüstü Öğrencileri Kongresi’nde sizlerle beraber olmaktan mutluluk duyarız. ✨\n\nTürk Psikologlar Derneği (TPD) ve VI. Ulusal Psikoloji Lisansüstü Öğrencileri Kongresi (UPLOK 2024) Düzenleme Kurulu Adına,\n\nKongre Eş Başkanları: 👥\nProf. Dr. Aslı Göncü- Köse ve Dr. Öğr. Üyesi Emine İnan\n\nKongre Web Sitesi: 🖥️\nwww.aybu.edu.tr/uplok\n\nKongre Yeri: 📌\nAnkara Yıldırım Beyazıt Üniversitesi Milli İrade Yerleşkesi\nGazze Caddesi No:7\nEtlik- Keçiören/ ANKARA\n\nKongre Takvimi: 🗓️\nÖzet gönderim son tarihi: 01.05.2024\nKongre programı yayınlanma tarihi: 31.05.2024"
         }
     ]
 }
