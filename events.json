@@ -1,15 +1,6 @@
 {
     "events": [
         {
-            "id": "1",
-            "name": "Understanding and Working with Behavioral Addictions",
-            "image": "https://i.imgur.com/CumsEYn.png",
-            "eventHost": "Poem Psychology",
-            "eventDate": "15 April-20 May",
-            "referenceLink": "https://form.jotform.com/240711260047243",
-            "description": "A training has been designed for psychotherapists on behavioral addictions such as Social Media, Gaming, Gambling, and Pornography addictions.\n\nTotal of 6 Sessions\n\nKemal Sayar - Understanding Addictions, The Soul's Confinement (April 15, Monday 21.00-22.00)\n\nHakan Türkçapar - Working with Addictions using CBT (April 22, Monday 21.00-22.00)\n\nEmre Yılmaz - Gambling Addiction and Its Therapy (April 29, Monday 21.00-23.00)\n\nEren Murat Dinçer - Pornography Addiction and Its Therapy (May 6, Monday 21.00-23.00)\n\nSüreyya Kitapçıoğlu - Gaming Addiction and Its Therapy (May 13, Monday 21.00-23.00)\n\nMehmet Büyükçorak - Social Media Addiction and Its Therapy (May 20, Monday 21.00-23.00)"
-        },
-        {
             "id": "2",
             "name": "Call Them By Their Names, Not By Their Differences",
             "image": "https://i.imgur.com/hOWKpqj.png",
@@ -92,6 +83,15 @@
         },
         {
             "id": "11",
+            "name": "15th Psychology Days: Colorful Psychology",
+            "image": "https://i.imgur.com/yTuAr7a.jpeg",
+            "eventHost": "Istanbul Okan University Department of Psychology",
+            "eventDate": "26-27 April",
+            "referenceLink": "https://docs.google.com/forms/d/1a3vjjPmwRA2Rv0MYzB0qjA-26ko0EFZ-5-YZ2OzA-vc/edit",
+            "description": "Everything speaks in its own language;\n\nEven if darkness covers it\n\nIt continues in the night, in various colors\n\nOn the tree branch, in the wind;\n\nEverything speaks in its own color.\n\nCan Yücel, Green Poem\n\nWe are organizing this event for undergraduate psychology students and newly graduated psychology enthusiasts. Our aim is to bring together young individuals at the beginning of their journey with those who have dedicated years to various disciplines of psychology. Thus, we want to connect young psychologists or candidates who are seeking their own path with different role models and create an active interaction environment where emotions, thoughts, and experiences are shared...\n\nWhere did the idea of 'Colorful Psychology' come from? Let's explain by quoting from the text I wrote while introducing the Psychology Department on Okan University's Psychology Department website: Imagine for a moment that you want to paint a wall in your house. Needless to say, before obtaining your color, you need to make some preparations to color the wall. First, you must repair and prime the wall. Then, with the right information, you mentally prepare the color, quality, and suitability of the actual coloring you will apply in multiple layers. Undergraduate education in psychology is like this initial stage to achieve the desired outcome and establish a solid foundation. Your color choice occurs as a final step that reflects your desire and goal. Let's continue with our coloring analogy. There are so many colors to choose from that each one can open the doors to a different world for you...\n\nWe couldn't cover all the colors in this first meeting. There are many more colors to come. Let's get started. We are waiting for all students. See you soon..\n\nProf. Dr. Arif Haldun SOYGÜR"
+        },
+        {
+            "id": "12",
             "name": "A Movie, A Psychologist",
             "image": "https://i.imgur.com/9Ns4Ao0.png",
             "eventHost": "Turkish Psychologists Association Ankara Student Unit",
@@ -100,7 +100,7 @@
             "description": "Greetings from the Student Representatives Commission of the Turkish Psychologists Association Ankara Branch, wishing everyone healthy and happy days.🎈\n\nThe movie ticket is on you, the popcorn is on us! 🍿\n\nIn our event named “One Movie One Psychologist,” we will watch the movie Manchester by the Sea with our Media Psychologist & Therapist Gözde Aytulun Şen. Afterwards, we will have the chance to analyze this movie in depth with our instructor. As the film starts at 12:00, we recommend arriving no later than 11:30 to get drinks and popcorn. 🎥\n\n🗓 27th of April, Saturday\n\n🕰 12:00\n\n📍Fade Stage&Coffee (Cinnah Street, Farabi Street No: 39/A, 06690 Çankaya/Ankara)\n\n❗️Our event is only open to psychology students.\n\n❗️Our event fee is 50 TL, and please note that you cannot fill out the form without uploading your receipt. Payments are non-refundable.\n\n❕Please don’t forget to include your Name-Surname-University name when sending your payment.\n\n❕Our capacity is limited. Therefore, in order to avoid unfairness to other applicants, we kindly ask you to inform us at least one day in advance at “ogrenci@psikolog.org.tr” if you cannot attend."
         },
         {
-            "id": "12",
+            "id": "13",
             "name": "5th METU Neuroscience Days",
             "image": "https://i.imgur.com/Bz2KMvz.png",
             "eventHost": "METU Biyogen and METU Psychology Society",
@@ -109,7 +109,7 @@
             "description": "Hello everyone! 🧠\n\n ODTÜ Biyogen and ODTÜ Psychology Society are excited to share with you the 5th Neuroscience Days we will be organizing on April 27/28 this year 🥳 \n\nOur event is open to external participants."
         },
         {
-            "id": "13",
+            "id": "14",
             "name": "7th Türkiye Psychotherapy Summit",
             "image": "https://i.imgur.com/dYEQsCo.png",
             "eventHost": "Psychotherapy Türkiye",
@@ -118,7 +118,7 @@
             "description": "🎉7th Year at the Summit🎉\n\nWe are thrilled to share with you the 7th Turkey Psychotherapy Summit 🥳\n\nThis year's theme: Family and Couples Therapy\n\nFor 7 years, we've been bringing together the leading figures in psychotherapy and striving to provide you with the latest information on psychotherapy approaches.\n\nOn April 27-28, we will endeavor to present a unique psychotherapy summit with the theme of Family and Couples Therapy."
         },
         {
-            "id": "14",
+            "id": "15",
             "name": "Neuropsychological Tests Training",
             "image": "https://i.imgur.com/zs5Fsoc.png",
             "eventHost": "Moodist Academy",
@@ -127,7 +127,7 @@
             "description": "🖥️ The training will be conducted via an Online Training Platform.\n\n✔️ Participants will receive a Training Certificate approved by Moodist Academy.\n\n❓Who Can Attend the Training?\n-Graduates and senior students (3rd and 4th year) of Psychology, Psychological Counseling and Guidance, Child Development and Education, and similar departments are eligible to attend.\n\n🎯Objective of the Training\n-To provide general information about neuropsychology, neuropsychological assessment, neuropsychological tests; to transfer what these tests measure, their validity, and to impart skills in administering, scoring, and interpreting these tests.\n\n🖇️ Tests are not included in the training fee."
         },
         {
-            "id": "15",
+            "id": "16",
             "name": "35 Basic Techniques Used in Psychotherapy",
             "image": "https://i.imgur.com/KgVJwu8.png",
             "eventHost": "Psikoloji Akademisi",
@@ -136,7 +136,7 @@
             "description": "Within the scope of the program, regardless of the school they practice, participants will be provided with 35 fundamental techniques from various approaches, essential for their toolkit. These techniques are designed to facilitate swift change in clients, especially when encountering challenges during psychotherapy sessions.\n\nThe objective of the program is to impart practical skills in applying a wide array of fundamental techniques functional in therapy and derived from many different schools. Throughout the program, participants will be introduced to the theoretical underpinnings of effective and functional techniques from evidence-based therapeutic schools.\n\nFollowing this theoretical presentation, participants will be given detailed instructions on how to apply these techniques through case studies, and will have the opportunity to practice these techniques through role-plays. This approach ensures that participants complete the program with both a theoretical understanding and practical experience in applying these key techniques."
         },
         {
-            "id": "16",
+            "id": "17",
             "name": "Online Psychology Summit",
             "image": "https://i.imgur.com/exGW5HK.png",
             "eventHost": "Alfa Etkinlik",
@@ -145,7 +145,7 @@
             "description": "🗓️ May 18-25, 2024\n📜 21 Sessions 21 Digital Certificates\n📍 Interactive Sessions, Q&A Opportunity\n📂 Optional University-Approved Certificate Visible on E-government\n\nAs Alfa Events, the new edition of our long-standing Psychology Summits will be with you in May. This event, a conference on awareness and development open to everyone's participation, has been carefully designed to contribute to you in various areas such as relationships, life skills, childhood traumas, anxiety and depression, well-being, and many more."
         },
         {
-            "id": "17",
+            "id": "18",
             "name": "CBT Program for Children and Adolescents",
             "image": "https://i.imgur.com/VxKOiG0.png",
             "eventHost": "Poem Psychology",
@@ -154,7 +154,7 @@
             "description": "Applications for the CBT Program for Children and Adolescents for the May Period are now open! 🎉\n\nOur training, consisting of a total of 10 sessions, starts with its first session on May 25, 2024!\n\n⏰ Training Hours: 09:30-16:30"
         },
         {
-            "id": "18",
+            "id": "19",
             "name": "(Un)successful Things",
             "image": "https://i.imgur.com/9CLJLIb.png",
             "eventHost": "Bi'Şey Psychology",
@@ -163,7 +163,7 @@
             "description": "Hello everyone! 💥\n\nThe much-loved, eagerly anticipated day has finally arrived! 👀\n\nWe're back with (Un)successful Things, ready to rock your world once again. 💃\n\nJoin us for the 4th edition of Başarı(sız) Bi’Şeyler, happening on Sunday, May 26th, at the Beşiktaş Akatlar Cultural Center! 😎"
         },
         {
-            "id": "19",
+            "id": "20",
             "name": "VI. National Psychology Graduate Students Congress",
             "image": "https://i.imgur.com/vTsTbmD.png",
             "eventHost": "Ankara Yıldırım Beyazıt University Department of Psychology & TPD",
