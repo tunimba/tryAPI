@@ -1,15 +1,6 @@
 {
     "events": [
         {
-            "id": "4",
-            "name": "Terapistin Alet Çantası",
-            "image": "https://i.imgur.com/EqbqEJr.png",
-            "eventHost": "Psikoterapi Türkiye & POEM",
-            "eventDate": "19 Nisan-22 Mayıs",
-            "referenceLink": "https://form.jotform.com/240746143110242",
-            "description": "Psikoterapi pratiğimizde, hangi haritayı kullanırsak kullanalım, terapide bize rehberlik eden temel teknikler vardır. Bunlar, bir terapistin alet çantasını zenginleştiren, terapisti geliştiren ve ona esneklik sağlayan tekniklerdir. \n\nÖğrenci ve mezunlardan aldığımız talepler doğrultusunda böyle bir eğitim paketine ihtiyaç olduğunu gördük. Bizler de POEM ve Psikoterapi Türkiye olarak Terapistin Alet Çantası isimli bir dizi eğitim tasarladık.\n\nBu çalışmada katılımcılara, psikoterapi uygulamasında kullanılabilecek çeşitli tekniklerle ilgili teorik bilgi verilmesi, bu tekniklerin pratikte nasıl kullanılabileceği ile ilgili becerilerin kazandırılması ve örnek uygulamalarla terapi odasına dair tecrübe sahibi olmalarını desteklemek amaçlanmıştır."
-        },
-        {
             "id": "5",
             "name": "Meme Kanserini Atlatmış Kadınlarla Psikodrama Grup Terapisi",
             "image": "https://i.imgur.com/244VvPJ.png",
