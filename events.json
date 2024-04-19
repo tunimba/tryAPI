@@ -1,15 +1,6 @@
 {
     "events": [
         {
-            "id": "4",
-            "name": "Therapist's Toolbox",
-            "image": "https://i.imgur.com/EqbqEJr.png",
-            "eventHost": "Psikoterapi Türkiye & POEM",
-            "eventDate": "19 April-22 May",
-            "referenceLink": "https://form.jotform.com/240746143110242",
-            "description": "In our psychotherapy practice, regardless of which map we use, there are fundamental techniques that guide us in therapy. These are the techniques that enrich a therapist's toolkit, develop the therapist, and provide flexibility.\n\nResponding to the demands from our students and graduates, we recognized the need for such a training package. Thus, we, POEM and Psychotherapy Turkey, have designed a series of trainings called 'The Therapist's Toolkit.'\n\nThis program aims to provide participants with theoretical knowledge about various techniques that can be used in psychotherapy practice, equip them with skills on how these techniques can be practically applied, and support them in gaining experience about the therapy room through example applications."
-        },
-        {
             "id": "5",
             "name": "Psychodrama Group Therapy with Women Who Have Survived Breast Cancer",
             "image": "https://i.imgur.com/244VvPJ.png",
