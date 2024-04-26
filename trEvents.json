@@ -1,15 +1,6 @@
 {
     "events": [
         {
-            "id": "10",
-            "name": "Antalya Psikoloji Kampı",
-            "image": "https://i.imgur.com/e2SLEQQ.png",
-            "eventHost": "Alfa Etkinlik",
-            "eventDate": "25-28 Nisan",
-            "referenceLink": "https://alfaetkinlik.com/kampdetay.aspx?kamp=antalya-psikoloji-kampi-25-28-nisan-2024",
-            "description": "🔻Alfakamp Psikoloji Kampları 5 yıldır yaz ve kış formatları ile farklı şehirlerde farklı konuşmacıları ile yüzlerce insanı bir araya getirmiş, tatil, eğitim ve eğlenceyi aynı anda yaşatarak muhteşem bir deneyim imkanı sunmuştur!\n\n🗓️ 25-26-27-28 Nisan 2024\n📌 Vonresort Golden Beach Hotel Side Antalya (5 Yıldızlı Tatil Köyü)\n🍽️ Ultra Her Şey Dahil Konsept\n🏊🏻‍♀️ Denize Sıfır Hotel, Hotele Ait Beach, Hotel İçinde Aqua Park ve Birçok Havuz\n🎉 DJ Performans 90’Lar Partisi / Havuz Başı Pool Partiler\n📗 Gökhan Çınar, Mehmet Şakiroğlu ve Alanında Uzman Eğitmen Kadrosu İle Farkındalık Yaratacak Eğitimler\n\n⭐25-28 Nisan’da 5 Yıldızlı Vonresort Golden Beach Hotel’de gerçekleştireceğimiz kampımız 3 gece 4 gün boyunca alanında uzman eğitmenlerin konferansları sizi farkındalığa ve bilgiye, 5 Yıldızlı hotel konforu ile havuz, deniz, spa, ultra her şey dahil formatı ile sınırsız yeme içme gibi imkanlardan faydalanıp denize sıfır bir tatil köyünde yaza merhaba diyeceğiniz bir tatile, DJ performans ile 90’lar partisi ve ödüllü oyunlar ile eğlenceye doyuracaktır\n\n🔸Fiyatlandırma ve Ödeme Hakkında:\n▪️ Kredi Kartına 9 Taksit İmkanı\n▪️ Havale EFT Ödemelerinde %5 İndirim İmkanı\n▪️ Şubat, Mart, Nisan ayları fiyatları farklılık göstermektedir."
-        },
-        {
             "id": "11",
             "name": "15. Psikoloji Günleri: Rengarenk Psikoloji",
             "image": "https://i.imgur.com/yTuAr7a.jpeg",
@@ -26,6 +17,15 @@
             "eventDate": "27 Nisan",
             "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSeBYl-71lbm-OdXaCOAyV580crZlxeTqiilI1cq8Wa7DPLRyg/viewform",
             "description": "Türk Psikologlar Derneği Ankara Öğrenci Birimi Temsilciler Komisyonundan herkese sağlıklı ve mutlu günler dileriz.🎈\n\nSinema bileti sizden mısırınız bizden! 🍿\n\n“Bir Film Bir Psikolog” isimli etkinliğimizde, Medya Psikoloğu & Terapist Gözde Aytulun Şen hocamızla birlikte Manchester by the Sea isimli filmi izleyeceğiz. Daha sonrasında hocamız ile birlikte bu filmi derinlemesine analiz etme şansı yakalayacağız. Film 12.00’de başlayacağından içecek ve mısırları alabilmek için en geç 11.30’da gelmenizi tavsiye ederiz. 🎥\n\n🗓 27 Nisan Cumartesi\n\n🕰 12.00\n\n📍Fade Stage&Coffee (Cinnah Caddesi, Farabi Sk. 39/A, 06690 Çankaya/Ankara)\n\n❗️Etkinliğimiz sadece psikoloji öğrencilerine açıktır.\n\n❗ Etkinlik ücretimiz 50 TL olup dekontunuzu yüklemeden formu dolduramayacağınızı belirtmek isteriz. Alınan ücretlerin iadesi yapılmayacaktır.\n\n❕Ücretinizi gönderirken İsim-Soyisim-Üniversite ismi yazmayı unutmayınız.\n\n❕Kontenjanımız sınırlıdır. Bu yüzden diğer başvuran katılımcı adaylarımıza haksızlık olmaması adına katılamama durumunuzda en az bir gün önceden “ogrenci@psikolog.org.tr” adresine bildirmenizi önemle rica ederiz."
+        },
+        {
+            "id": "21",
+            "name": "Travma Sonrası Stres Bozukluğu Webinarı",
+            "image": "https://i.imgur.com/8GtMA95.png",
+            "eventHost": "Harvard Uzatma Okulu Psikoloji Öğrenci Topluluğu",
+            "eventDate": "27 Nisan",
+            "referenceLink": "https://tinyurl.com/HESPSSptsd",
+            "description": "Post-travmatik stres bozukluğunun (PTSD) keşfi için bize katılın, sivil, gazeteci ve çok kültürlü bağlamlardan bakış açılarını içeren. Değerli konuşmacılarımız, PTSD'nin klinik boyutlarına dalmak için, çeşitli nüfuslar arasında belirtileri ve tedavi yöntemlerini aydınlatarak bilgi birikimini sergileyecekler.\n\nYüksek dereceli bir Ordu gazisi ve Boston VA Sağlık Sistemi'nin mevcut Ruh Sağlığı Hizmetleri Direktörü olan Dr. John Bradley, 20 yılı aşkın PTSD araştırma ve klinik deneyimini kapsayan geniş bir bilgi birikimine sahiptir.\n\nÖdüllü Harvard ve Columbia ders veren Dr. Mayron Piccolo, farklı kültürlerde PTSD tedavisi ve meydana gelişinin karmaşıklığını keşfeder.\n\nEski Ordu Subayı ve şu anda araştırmacı olan Dr. Ben Bellet, travma, tetikleme uyarıları ve yas üzerine keskin çağdaş araştırmalar sunar.\n\nHemen kaydolun ve birlikte bu hayati konuyu keşfedin!"
         },
         {
             "id": "13",
