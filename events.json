@@ -1,15 +1,6 @@
 {
     "events": [
         {
-            "id": "10",
-            "name": "Antalya Psychology Camp",
-            "image": "https://i.imgur.com/e2SLEQQ.png",
-            "eventHost": "Alfa Etkinlik",
-            "eventDate": "25-28 April",
-            "referenceLink": "https://alfaetkinlik.com/kampdetay.aspx?kamp=antalya-psikoloji-kampi-25-28-nisan-2024",
-            "description": "🔻Alfakamp Psychology Camps have been bringing hundreds of people together in different cities with different speakers in summer and winter formats for 5 years, offering an amazing experience by simultaneously providing holiday, education, and entertainment!\n\n🗓️ April 25-26-27-28, 2024\n📌 Vonresort Golden Beach Hotel Side Antalya (5-Star Resort)\n🍽️ Ultra All-Inclusive Concept\n🏊🏻‍♀️ Beachfront Hotel, Private Beach, Aqua Park Inside the Hotel and Many Pools\n🎉 DJ Performance 90’s Party / Poolside Pool Parties\n📗 Training Sessions That Create Awareness with Gökhan Çınar, Mehmet Şakiroğlu, and a Team of Expert Instructors in Their Field\n\n⭐Our camp, taking place at the 5-Star Vonresort Golden Beach Hotel from April 25-28, will indulge you for 3 nights and 4 days with conferences by expert instructors leading to awareness and knowledge, 5-Star hotel comfort with pool, sea, spa, and the ultra all-inclusive format offering unlimited food and beverage, welcoming summer in a beachfront resort, and will satisfy you with entertainment through a DJ performance with a 90’s party and award-winning games\n\n🔸Pricing and Payment Information:\n▪️ Credit Card Payment in 9 Installments Option\n▪️ 5% Discount for Direct Bank Transfer (EFT) Payments\n▪️ Prices vary for February, March, and April."
-        },
-        {
             "id": "11",
             "name": "15th Psychology Days: Colorful Psychology",
             "image": "https://i.imgur.com/yTuAr7a.jpeg",
@@ -26,6 +17,15 @@
             "eventDate": "27 April",
             "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSeBYl-71lbm-OdXaCOAyV580crZlxeTqiilI1cq8Wa7DPLRyg/viewform",
             "description": "Greetings from the Student Representatives Commission of the Turkish Psychologists Association Ankara Branch, wishing everyone healthy and happy days.🎈\n\nThe movie ticket is on you, the popcorn is on us! 🍿\n\nIn our event named “One Movie One Psychologist,” we will watch the movie Manchester by the Sea with our Media Psychologist & Therapist Gözde Aytulun Şen. Afterwards, we will have the chance to analyze this movie in depth with our instructor. As the film starts at 12:00, we recommend arriving no later than 11:30 to get drinks and popcorn. 🎥\n\n🗓 27th of April, Saturday\n\n🕰 12:00\n\n📍Fade Stage&Coffee (Cinnah Street, Farabi Street No: 39/A, 06690 Çankaya/Ankara)\n\n❗️Our event is only open to psychology students.\n\n❗️Our event fee is 50 TL, and please note that you cannot fill out the form without uploading your receipt. Payments are non-refundable.\n\n❕Please don’t forget to include your Name-Surname-University name when sending your payment.\n\n❕Our capacity is limited. Therefore, in order to avoid unfairness to other applicants, we kindly ask you to inform us at least one day in advance at “ogrenci@psikolog.org.tr” if you cannot attend."
+        },
+        {
+            "id": "21",
+            "name": "PTSD Webinar",
+            "image": "https://i.imgur.com/8GtMA95.png",
+            "eventHost": "Harvard Extension School Psychology Student Society",
+            "eventDate": "27 April",
+            "referenceLink": "https://tinyurl.com/HESPSSptsd",
+            "description": "Join us for an exploration of post-traumatic stress disorder (PTSD), encompassing perspectives from civilian, veteran, and multicultural contexts. Our esteemed speakers will delve into the clinical dimensions of PTSD, shedding light on its manifestations and treatment modalities across diverse populations.\n\nAs a highly decorated Army veteran and the current Director of Mental Health Services for the Boston VA Healthcare System, Dr. John Bradley brings a wealth of knowledge spanning more than two decades of PTSD research and clinical experience.\n\~Award-winning Harvard and Columbia lecturer Dr. Mayron Piccolo explores the complexity of PTSD treatment and occurrence across different cultures.\n\nFormer Army Officer and current researcher Dr. Ben Bellet offers cutting edge contemporary research on trauma, trigger warnings, and grief.\n\nRegister now and join us as we explore this vital topic together!"
         },
         {
             "id": "13",
