@@ -39,11 +39,11 @@
         {
             "id": "35",
             "name": "Musicophilia: The Psychology and Mystery of Music",
-            "image": https://i.imgur.com/LDjLikh.png",
+            "image": "https://i.imgur.com/LDjLikh.png",
             "eventHost": "TPÖÇG Mersin-Adana Local Structure Academic Activity Teams",
             "eventDate": "30 April",
             "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSepT0yKBOn6GwsSEHAN9PUqbOpCYfU5Z2QGYev2zjP1Wij7UA/viewform",
-            "description": "From the TPÖÇG Mersin-Adana Local Academic Events Team, warm greetings to all! ✨ In our event "Musicophilia: The Psychology and Mystery of Music," we will explore the psychological foundations of music, which holds a significant place in our lives with its different melodies, and discuss how it psychologically affects us in our daily lives.\n\nDate: April 30\nTime: 20:00\nLocation: Zoom\n\nNote: Our event has a limited capacity."
+            "description": "From the TPÖÇG Mersin-Adana Local Academic Events Team, warm greetings to all! ✨ In our event 'Musicophilia: The Psychology and Mystery of Music,' we will explore the psychological foundations of music, which holds a significant place in our lives with its different melodies, and discuss how it psychologically affects us in our daily lives.\n\nDate: April 30\nTime: 20:00\nLocation: Zoom\n\nNote: Our event has a limited capacity."
         },
         {
             "id": "22",
@@ -137,7 +137,7 @@
         },
         {
             "id": "30",
-            "name": "XIII. Psychology Days - Cellar: Relationships"",
+            "name": "XIII. Psychology Days - Cellar: Relationships",
             "image": "https://i.imgur.com/5zWi28P.png",
             "eventHost": "İstanbul Beykent University Psychology Club",
             "eventDate": "11-12 May",
