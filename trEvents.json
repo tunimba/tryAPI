@@ -1,42 +1,6 @@
 {
     "events": [
         {
-            "id": "27",
-            "name": "13. Psikoloji Günleri",
-            "image": "https://i.imgur.com/sQmubAs.png",
-            "eventHost": "İstanbul Üniversitesi Psikoloji Kulübü",
-            "eventDate": "4-5 Mayıs",
-            "referenceLink": "https://forms.gle/XBrG8eXt1SradQsP8",
-            "description": "İstanbul Üniversitesi Psikoloji Kulübü olarak düzenlediğimiz 13. Psikoloji Günleri, 'Mistisizm' teması ile sizlerle. ✨\n\nVaroluşu sorgulayan insan, değişen dünya ile birlikte kim olduğunu tanımaya yönelik daha fazla soru sormaya başladı. Bilincinin derinliklerine inip mistik yollara çıktı. Yer yer iç huzur, yer yer buhran hissetti. Bulduğu cevaplar yeni sorular ortaya çıkardı. Kimisi olgulara başvururken kimisi geleneksel yöntemleri kullandı. Bu yolculukta bir pusula gibi yol gösterecek konuşmacılarımız, modern psikoloji aracılığıyla mistisizime konu olan sorulara ışık tutacak.\n\nEtkinliğimiz 4-5 Mayıs 2024 tarihinde Ord. Prof. Dr. Cemil Bilsel Konferans Salonu'nda gerçekleşecektir.🤍\n\n❗Etkinliğimiz ücretsiz ve herkese açıktır.\n\n❗Etkinliğimizin kapı açılışı 09.15'tir."
-        },
-        {
-            "id": "70",
-            "name": "Yeme Bozuklukları",
-            "image": "https://i.imgur.com/SlLtK6F.png",
-            "eventHost": "Kim Psikoloji",
-            "eventDate": "4-5 Mayıs",
-            "referenceLink": "https://www.kimpsikoloji.com/basvuru/egitim/",
-            "description": "Yeme Bozukluklarını Tanıma\nDSM – 5 Tanı Kriterleri\nAnoreksiya Nervosa\nBulimia Nervosa\nTıkınırcasına Yeme Bozukluğu\nAtipik Anoreksiya Nervosa\nGece Yeme Sendromu\nDuygusal açlık\nTravma ve Yeme Bozuklukları İlişkisi\nBenlik Saygısı, Özgüven ve Beden İmajı Etkisi\nİlk Görüşmede Öykünün Alınması ve Örnek Vaka\nBilişsel Davranışçı Yaklaşım Üzerinden Yeme Bozukluklarına Bakış\nKognitif Yapılandırma ve Sorun Çözme Eğitimi\nKlinik değerlendirme ve Tedavi Yolları\nDeğerlendirme\nEğitim Süresi: 2 Oturum, 7 Saat\n\nEğitim Ücreti: 750 TL\n\nEğitim Sonunda Verilecek Sertifika:\nRuh Sağlığı Derneği Onaylı Katılım Sertifikası"
-        },
-        {
-            "id": "26",
-            "name": "IX. Ulusal Psikoloji Günleri: Umut",
-            "image": "https://i.imgur.com/uZmhtTE.png",
-            "eventHost": "Bilgi Üniversitesi Psikoloji Kulübü",
-            "eventDate": "4-5 Mayıs",
-            "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSf6Zr70R4gqg0z1nE-IznpPv3nIaUh1GZDFhYSfd8GdGJm-ug/viewform",
-            "description": "Herkese Merhaba!\n\nSizleri heyecanımıza ortak etmeye hazırız. Bu seneki IX. Ulusal Bilgi Psikoloji Günleri’nin temasını duyuruyoruz; UMUT!\n\nUzun süredir üzerinde çalıştığımız bu değerli etkinliğimizin temasının Umut olmasını biz çok uygun bulduk.\n\nGeçtiğimiz sene boyunca içimize döndük, yorulduk, kırıldık ve hatta kızdık ama en çok da umutsuz hissettik. Şimdiyse baharın gelişiyle birlikte içimizdeki umut çiçeklerini yeşertmeye karar verdik. Umut temasının çok farklı perspektiflerden ele alınacağı IX. Ulusal Psikoloji Günleri’ne hepiniz davetlisiniz."
-        },
-        {
-            "id": "15",
-            "name": "Nöropsikolojik Testler Eğitimi",
-            "image": "https://i.imgur.com/zs5Fsoc.png",
-            "eventHost": "Moodist Akademi",
-            "eventDate": "4-12 Mayıs",
-            "referenceLink": "https://docs.google.com/forms/d/16swSMMlZE_wSAor_nOZCYJpnYfur3C4oWla9493QMpI/viewform?edit_requested=true",
-            "description": "🖥️ Eğitim Online Platformu üzerinden gerçekleşecektir.\n\n✔️ Katılımcılara Moodist Akademi Onaylı Eğitim Belgesi verilecektir.\n\n❓Eğitime Kimler Katılabilir?\n-Psikoloji Bölümü, Psikolojik Danışmanlık ve Rehberlik Bölümü, Çocuk Gelişimi ve Eğitimi ve benzeri bölüm mezunları, belirtilen bölümlerin 3.- 4. sınıfında okumakta olan kişiler katılabilir.\n\n🎯Eğitimin Amacı\n-Nöropsikoloji, nöropsikolojik değerlendirme, nöropsikolojik testler hakkında genel bilgi vermek; testlerin geçerliğinin yani ne ölçtüğünün aktarılması, bu testleri uygulama, puanlama, yorumlama becerisinin kazandırılması.\n\n🖇️ Testler eğitim ücretine dahil değildir."
-        },
-        {
             "id": "29",
             "name": "Psikolojide Duygu Çalışması Şefkat Atölyesi",
             "image": "https://i.imgur.com/5zWi28P.png",
