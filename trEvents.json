@@ -1,15 +1,6 @@
 {
     "events": [
         {
-            "id": "29",
-            "name": "Psikolojide Duygu Çalışması Şefkat Atölyesi",
-            "image": "https://i.imgur.com/5zWi28P.png",
-            "eventHost": "Kadir Has Üniversitesi Psikoloji Kulübü",
-            "eventDate": "6 Mayıs",
-            "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLScINRGh_nFQh_ggl5JpiLZVwtS8KeiygPG6LVlxHgMw-oNrrg/viewform",
-            "description": "Kadir Has Üniversitesi Psikoloji Kulübü ve Genç Psikologlar Dayanışma Platformu tarafından düzenlenen etkinliğimize katılmak için başvuru formunu doldurmanız yeterli.\n\nPsikolojide Duygu Çalışması Şefkat Atölyesi\n\nUzman Klinik Psikolog Esra Çetinkaya \n\n6 Mayıs 2024 18.30 \n\nKadir Has Üniversitesi Cibali Kampüsü/ Fener Salonu\n\nAdres: Cibali, Kadir Has Cd., 34083 Cibali / Fatih/Fatih/İstanbul\n\nDışarıdan gelecekler için Cibali tramvayı ve Haliç metro ile ulaşımı sağlayabilirsiniz."
-        },
-        {
             "id": "30",
             "name": "XIII. Psikoloji Günleri - Mahzen: İlişkiler",
             "image": "https://i.imgur.com/tFrq3hx.png",
