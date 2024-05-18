@@ -1,42 +1,6 @@
 {
     "events": [
         {
-            "id": "25",
-            "name": "5. Psikoloji Günleri",
-            "image": "https://i.imgur.com/JB5mJqm.png",
-            "eventHost": "Yeditepe Üniversitesi Psikoloji Kulübü",
-            "eventDate": "16-17 Mayıs",
-            "referenceLink": "https://forms.gle/byyewQxbo5iKfsTH7",
-            "description": "Herkese merhaba! Bu yıl. 5.sini düzenlediğimiz Psikoloji Günleri ile karşınızdayız. Etkinliğimiz 16-17 Mayıs tarihlerinde Yeditepe Üniversitesi Güzel Sanatlar Fakültesi Konferans Salonu'nda gerçekleştirilecektir. Her biri alanında uzman konuşmacılarımız, çeşitli atölyeler ve fuaye alanımızda yer alacak stantlar ile dopdolu bir program hazırladık. Etkinlik herkesin katılımına açıktır ve katılımcılara katılım sertifikası verilecektir. Kozyatağı metrodan kampüse gidiş-dönüş servis sağlanacak ve ikramlarımız olacaktır. İlgili detaylar formumuz içerisinde yer almaktadır, size uyan seçenekleri işaretleyebilirsiniz.\n\nNotlar:\n\n- Etkinliğin içerisinde yer alan atölyeler kontenjanla sınırlıdır.\n\n- Atölyelere katılmayarak yalnızca konuşma oturumlarına katılmak mümkündür. Atölyelere katılım göstermek isteyen katılımcılarımızın katılmak istediği atölyeyi seçmesi gerekmektedir.\n\n- Etkinliğimiz ücretlidir ve ücretler aşağıda belirtildiği gibidir.\n\nİki günlük tüm konuşmalara katılım ücreti = 100₺\n\nİki günlük tüm konuşmalara ek olarak bir atölyeye katılım ücreti = 150₺"
-        },
-        {
-            "id": "28",
-            "name": "7. Psikoloji Günleri: Dünden Sonra Yarından Önce: Umut Biter Mi?",
-            "image": "https://i.imgur.com/Y5vbxQg.png",
-            "eventHost": "İstanbul Aydın Üniversitesi Psikoloji Kulübü",
-            "eventDate": "17-18 Mayıs",
-            "referenceLink": "https://marmarapsikoloji.com.tr/dunden-sonra-yarindan-once-umut-biter-mi",
-            "description": "İstanbul Aydın Üniversitesi Psikoloji Kulübü’nün Marmara Psikoloji işbirliği ile düzenlediği 7. Psikoloji Günleri 'Dünden Sonra Yarından Önce: Umut Biter Mi?' temasıyla 17-18 Mayıs tarihlerinde sizlerle buluşuyor. 2 gün boyunca birbirinden değerli konuşmacıların yer alacağı sempozyum için yerini ayırmayı unutma !\n\nSempozyuma tam katılım gösteren kişilere ise sempozyum sonunda 'Katılım Belgesi' verilecektir. Kontenjan sınırlıdır!\n\nNot: Sempozyuma katılan kişilere özel tüm eğitimlerimizde geçerli %10 indirim uygulanacaktır."
-        },
-        {
-            "id": "132",
-            "name": "II. Beyin ve Davranış Sempozyumu",
-            "image": "https://i.imgur.com/O6Iu9I6.png",
-            "eventHost": "Yeditepe Psikoloji Kulübü",
-            "eventDate": "18-19 Mayıs",
-            "referenceLink": "https://forms.gle/GrWrGhvfM2BiVNX18",
-            "description": "Herkese merhaba! Geçtiğimiz yıl ilkini gerçekleştirdiğimiz Beyin ve Davranış Sempozyumu’nun ikincisini sizlerle paylaşmaktan mutluluk duyuyoruz. Etkinliğimize katkıda bulunanlara teşekkürü borç biliriz. Sempozyumumuz herkesin katılımına açıktır."
-        },
-        {
-            "id": "17",
-            "name": "Online Zirve Psikoloji",
-            "image": "https://i.imgur.com/exGW5HK.png",
-            "eventHost": "Alfa Etkinlik",
-            "eventDate": "18-25 Mayıs",
-            "referenceLink": "https://alfaetkinlik.com/etkinlikdetay.aspx?seminer=online-zirve-psikoloji-semineri-18-25-mayis-2024",
-            "description": "🗓️18-25 Mayıs 2024\n📜21 Oturum 21 Dijital Belge\n📍İnteraktif Oturumlar, Soru-Cevap İmkanı\n📂İsteğe Bağlı Üniversite Onaylı E-devlette Görünebilir Belge\n\nAlfa Etkinlik olarak uzun yıllardır gerçekleştirdiğimiz Psikoloji Zirvelerinin yenisi Mayıs ayında sizlerle olacak. Herkesin katılım gösterebileceği farkındalık ve gelişim konferansı olan bu etkinlik, ilişkiler, yaşam becerileri, çocukluk travmaları, anksiyete ve depresyon, iyi olma ve birçok konuda size katkı sağlayacak şekilde özenle tasarlanmıştır."
-        },
-        {
             "id": "133",
             "name": "VII. Hacettepe Ruh Sağlığı Sempozyumu",
             "image": "https://i.imgur.com/L3D4QCp.png",
