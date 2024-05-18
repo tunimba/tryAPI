@@ -1,41 +1,5 @@
 {
     "events": [
-        {
-    "id": "25",
-    "name": "5th Psychology Days",
-    "image": "https://i.imgur.com/JB5mJqm.png",
-    "eventHost": "Yeditepe University Psychology Club",
-    "eventDate": "May 16-17",
-    "referenceLink": "https://forms.gle/byyewQxbo5iKfsTH7",
-    "description": "Hello everyone! We are here with the 5th edition of the Psychology Days. Our event will be held on May 16-17 at the Yeditepe University Faculty of Fine Arts Conference Hall. We have prepared a full program with expert speakers, various workshops, and stands in our foyer area. The event is open to everyone, and participation certificates will be given to participants. Shuttle service from Kozyatağı metro to the campus will be provided, and there will be refreshments. Relevant details are included in our form, and you can select the options that suit you.\n\nNotes:\n\n- Workshops within the event are limited in capacity.\n\n- It is possible to participate only in the speech sessions without attending the workshops. Participants who wish to attend the workshops must select the workshop they want to join.\n\n- Our event is paid, and the fees are as follows.\n\nParticipation fee for all speeches over two days = 100₺\n\nParticipation fee for all speeches over two days plus one workshop = 150₺"
-},
-{
-    "id": "28",
-    "name": "7th Psychology Days: After Yesterday Before Tomorrow: Does Hope End?",
-    "image": "https://i.imgur.com/Y5vbxQg.png",
-    "eventHost": "Istanbul Aydın University Psychology Club",
-    "eventDate": "May 17-18",
-    "referenceLink": "https://marmarapsikoloji.com.tr/dunden-sonra-yarindan-once-umut-biter-mi",
-    "description": "Istanbul Aydın University Psychology Club, in collaboration with Marmara Psychology, presents the 7th Psychology Days with the theme 'After Yesterday Before Tomorrow: Does Hope End?' on May 17-18. Don't forget to reserve your place for this symposium, which will feature valuable speakers over two days!\n\nA 'Certificate of Participation' will be given to those who attend the symposium fully. Seating is limited!\n\nNote: A 10% discount will be applied to all our training programs for participants of the symposium."
-},
-{
-    "id": "132",
-    "name": "II. Brain and Behavior Symposium",
-    "image": "https://i.imgur.com/O6Iu9I6.png",
-    "eventHost": "Yeditepe Psychology Club",
-    "eventDate": "May 18-19",
-    "referenceLink": "https://forms.gle/GrWrGhvfM2BiVNX18",
-    "description": "Hello everyone! We are delighted to share with you the second edition of the Brain and Behavior Symposium, following the first one we held last year. We owe a debt of gratitude to those who contributed to our event. Our symposium is open to everyone."
-},
-{
-    "id": "17",
-    "name": "Online Summit Psychology",
-    "image": "https://i.imgur.com/exGW5HK.png",
-    "eventHost": "Alfa Event",
-    "eventDate": "May 18-25",
-    "referenceLink": "https://alfaetkinlik.com/etkinlikdetay.aspx?seminer=online-zirve-psikoloji-semineri-18-25-mayis-2024",
-    "description": "🗓️ May 18-25, 2024\n📜 21 Sessions 21 Digital Certificates\n📍 Interactive Sessions, Q&A Opportunities\n📂 Optional University-Approved Certificate Visible on E-Government\n\nAs Alfa Event, we are pleased to present the new edition of our long-standing Psychology Summits in May. This awareness and development conference, open to everyone's participation, has been carefully designed to benefit you in areas such as relationships, life skills, childhood traumas, anxiety and depression, well-being, and more."
-},
  {
     "id": "133",
     "name": "VII. Hacettepe Mental Health Symposium",
