@@ -1,15 +1,6 @@
 {
     "events": [
         {
-            "id": "5",
-            "name": "Projektif Testler Eğitimi",
-            "image": "https://i.imgur.com/y3eiInX.png",
-            "eventHost": "Kim Psikoloji",
-            "eventDate": "22-23 Haziran",
-            "referenceLink": "https://www.kimpsikoloji.com/projektif-testler-egitimi/",
-            "description": "Projektif testler, bireylerin iç dünyalarını, düşünce, duygu ve algılarını anlamak için kullanılan psikolojik ölçüm araçlarıdır. Bu testler, genellikle açık uçlu ve çok yönlü malzemeler kullanarak kişilerin özgürce ifade etmelerini sağlar ve bu ifadelerden yola çıkarak kişilik özellikleri, duygusal durum ve bilinçaltı düşünceler hakkında bilgiler edinilir. Aşağıda, eğitim programınız için önerilen projektif testler ve bunların temel özellikleri hakkında bilgiler bulacaksınız."
-        },
-        {
             "id": "10",
             "name": "Çocuklarla Travma Çalışmak",
             "image": "https://i.imgur.com/hKsYzLK.png",
