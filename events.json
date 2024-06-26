@@ -1,15 +1,6 @@
 {
     "events": [
         {
-            "id": "5",
-            "name": "Projective Tests Training",
-            "image": "https://i.imgur.com/y3eiInX.png",
-            "eventHost": "Kim Psychology",
-            "eventDate": "22-23 June",
-            "referenceLink": "https://www.kimpsikoloji.com/projektif-testler-egitimi/",
-            "description": "Projective tests are psychological measurement tools used to understand individuals' inner worlds, thoughts, feelings, and perceptions. These tests generally use open-ended and multifaceted materials to allow individuals to express themselves freely, providing insights into personality traits, emotional states, and subconscious thoughts. Below, you will find information about the recommended projective tests for your training program and their main features."
-        },
-        {
             "id": "10",
             "name": "Working with Trauma in Children",
             "image": "https://i.imgur.com/hKsYzLK.png",
