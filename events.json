@@ -1,15 +1,6 @@
 {
     "events": [
         {
-            "id": "10",
-            "name": "Working with Trauma in Children",
-            "image": "https://i.imgur.com/hKsYzLK.png",
-            "eventHost": "Korto Psychology",
-            "eventDate": "27 June",
-            "referenceLink": "https://finans.kortopsikoloji.com/urun/selin-anahar-egitim-bedeli-27-haziran/",
-            "description": "In this training, the theoretical background of trauma in children and adolescents, how children experience trauma, what to consider during assessment and intervention stages, structured games that can be incorporated into the psychotherapy process while working with trauma, and case presentations will be addressed."
-        },
-        {
             "id": "1",
             "name": "Therapeutic Skills in the Grief Process",
             "image": "https://i.imgur.com/ndFPklz.png",
