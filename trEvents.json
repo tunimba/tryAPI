@@ -1,15 +1,6 @@
 {
     "events": [
         {
-            "id": "10",
-            "name": "Çocuklarla Travma Çalışmak",
-            "image": "https://i.imgur.com/hKsYzLK.png",
-            "eventHost": "Korto Psikoloji",
-            "eventDate": "27 Haziran",
-            "referenceLink": "https://finans.kortopsikoloji.com/urun/selin-anahar-egitim-bedeli-27-haziran/",
-            "description": "Bu eğitimde çocuk ve gençlerde travma konusunun teorik altyapısı, çocukların travmayı nasıl deneyimlediği, değerlendirme ve müdahale aşamalarında dikkat edilmesi gerekenler, travma çalışırken psikoterapi sürecine dahil edilebilecek yapılandırılmış oyunlar ve vaka sunumu ele alınacaktır."
-        },
-        {
             "id": "1",
             "name": "Yas Sürecinde Terapötik Beceriler",
             "image": "https://i.imgur.com/ndFPklz.png",
