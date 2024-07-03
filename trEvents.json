@@ -1,33 +1,6 @@
 {
     "events": [
         {
-            "id": "1",
-            "name": "Yas Sürecinde Terapötik Beceriler",
-            "image": "https://i.imgur.com/ndFPklz.png",
-            "eventHost": "Moodist Akademi",
-            "eventDate": "28-30 Haziran",
-            "referenceLink": "https://forms.gle/ZzWRxnfGsnLoEJgE8",
-            "description": "📢 28-30 Haziran tarihlerinde Uzman Klinik Psikolog Saime Serpil Özgül ile gerçekleştirilecek olan 'Yas Sürecinde Terapötik Beceriler' eğitimi kayıtları açıldı!\n\n✔️ Eğitimimize Psikoloji, Psikolojik Danışmanlık ve Rehberlik bölümleri öğrencileri ve mezunları katılabilir.\n\n✨Katılımcılara Moodist Akademi Onaylı Sertifika verilecektir."
-        },
-        {
-            "id": "4",
-            "name": "Objektif Testler Eğitimi",
-            "image": "https://i.imgur.com/8dFVEaL.png",
-            "eventHost": "Kim Psikoloji",
-            "eventDate": "29-30 Haziran",
-            "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSc8glxRSZQaVD_Xk6GlUVzRJfYQp3-ouuFevXSO_s8ZkSMZcQ/viewform?formkey=dGcxcFhLbkNveTRPLUthYW9wRmtIeHc6MQ",
-            "description": "Eğitimin içeriğinde toplamda 18 test bulunmaktadır. Bu eğitimde testlerin nasıl uygulanacağını, nasıl puanlanacağını, nasıl yorumlanıp değerlendirileceğini ve nasıl dönüt verileceğini sunumlar, vaka analizleri, uygulama örnekleri ve görseller eşliğinde öğreneceksiniz. Test uygulamak kadar rehberlik yapmanın da öneminin vurgulandığı bir eğitimdir. Bu eğitimi tamamladığınızda çocukları daha yakından tanıyabileceksiniz. Zekâ, bellek planlama ve dikkat, dil ve motor beceriler, görsel ve işitsel algı gibi yetenek alanlarında objektif ve somut değerlendirme yapma imkânına sahip olacaksınız."
-        },
-        {
-            "id": "9",
-            "name": "Perla Kitap Kulübü (Bağlanma: İlişkilerde Aşkı Bulmanın ve Korumanın Bilimsel Yolları)",
-            "image": "https://i.imgur.com/4xzWAre.jpeg",
-            "eventHost": "PERLA Psikoloji",
-            "eventDate": "30 Haziran",
-            "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSdf46MYE0C1CTJvxATtIJZ2Tmhendisw7AQ_h_hDcyX9_3HAw/viewform",
-            "description": "Herkese merhaba📚\n\nBizim için oldukça keyifli ve heyecanlı bir haberi paylaşmak isteriz. Bu ay @psikolojiperla’da kitap kulübümüz için buluşuyoruz 🎊\n\nTemamız: İlişkiler\n\nKitabımız: Amir Levine ve Rachel Heller'ın 'Bağlanma: İlişkilerde Aşkı Bulmanın ve Korumanın Bilimsel Yolları'.\n\nBu etkileyici kitap, ilişkilerdeki bağlanma stillerini (güvenli, kaygılı ve kaçıngan) anlamamıza yardımcı oluyor ve sağlıklı ilişkiler geliştirmek için pratik stratejiler sunuyor. Kulübümüzde, bağlanma stillerinin geçmiş deneyimlerle nasıl şekillendiğini, ilişkilerde güvenin nasıl inşa edilebileceğini ve farklı bağlanma stillerinin nasıl uyumlu hale getirilebileceğini tartışacağız. Ayrıca, kitabın kaygılı ve kaçıngan bağlanma stili üzerine sunduğu içgörüler ve öneriler üzerinde duracağız. Herkesi bu derinlemesine ve aydınlatıcı tartışmaya katılmaya davet ediyoruz!\n\nNot: Kitap kulübüne katılmanız için okur sever olmanız yeterlidir. Uzmanlık veya meslek aranmamaktadır.🤞\n\nBilgi ve kayıt için formu doldurmanızı rica ederiz.💐 Kontenjanımız 20 kişi ile sınırlı. 🤞"
-        },
-        {
             "id": "6",
             "name": "Çocuk Resim Analizi ve Çizim Teknikleri",
             "image": "https://i.imgur.com/OOb7a7H.png",
