@@ -1,22 +1,148 @@
 {
-  "events": [
-    {
-      "id": "8",
-      "name": "MMPI Certificate Program",
-      "image": "https://i.imgur.com/l23MfOq.png",
-      "eventHost": "Psychology Academy",
-      "eventDate": "20-21 July",
-      "referenceLink": "https://psikolojiakademisi.com/sertifikalar/mmpi-sertifika-programi/",
-      "description": "Content\n\n1. The theoretical and conceptual content of the Minnesota Multiphasic Personality Inventory (MMPI);\n▫️Purpose and process of developing MMPI; transmission of its psychometric properties\n\n▫️Emphasizing the advantages and limitations of MMPI\n\nExplanation of the standardization study in Turkey\n\n▫️Why MMPI 2 is needed\n\n2. Application of MMPI\n▫️Points to be considered in the application of the test (who it is applied to, under what physical conditions it is applied, who it is not applied to)\n\n▫️Points to be considered in the test interview and test process\n\n▫️How observations are interpreted\n\n3. Minnesota Multiphasic Personality Inventory (MMPI):\n▫️Introduction to validity and clinical subscales\n\n▫️Determination of dual elevation types\n\n▫️Determination and interpretation of configurations\n\n▫️Examination of psychotic and neurotic profiles\n\n▫️Examples of invalid profiles\n\n4. Interpretation of MMPI\n▫️How the MMPI profile is created and what to pay attention to\n\n▫️Computer calculation, how to use the computer program\n\n▫️Creating a profile through an example answer key\n\n▫️Considering validity subscales individually and as a whole through example profiles\n\n▫️Interpreting rising and falling scales in clinical subscales\n\n▫️Determining the client's level of adaptation\n\nInterpreting dual and triple elevations\n\n▫️Considering specific patterns in validity and clinical subscales\n\n▫️Interpreting the profile as a whole by considering validity and clinical subscale findings together\n\n5. Reporting the Profile\n▫️Points to consider in reporting\n\n▫️Integrating clinical observation with the MMPI profile\n\n▫️Converting the findings determined in the profile into a written report\n\n▫️Working on sample reports and providing sample reports"
-    },
-    {
-      "id": "10",
-      "name": "Play Therapy and Basic Techniques Training",
-      "image": "https://i.imgur.com/1QNIlkQ.png",
-      "eventHost": "Kim Psychology",
-      "eventDate": "21-28 July",
-      "referenceLink": "https://www.kimpsikoloji.com/oyun-terapisine-giris-ve-temel-teknikler-egitimi-online-egitim/",
-      "description": "Training Content\n\nWhat to do when optimal conditions for play therapy cannot be met?\nWhat is Theraplay? How is it applied?\nIn which fields of work can Theraplay be used?\nWhich problems can it be used in?\nEducation with Sample Cases\nTheoretical Knowledge About Play Therapy\nTheraplay Protocols\nTheraplay Techniques\nTheraplay Activities"
-    }
-  ]
+    "events": [
+        {
+            "id": "8",
+            "name": "Play Therapy and Basic Techniques Training",
+            "image": "https://i.imgur.com/1QNIlkQ.png",
+            "eventHost": "Kim Psychology",
+            "eventDate": "21-28 July",
+            "referenceLink": "https://www.kimpsikoloji.com/oyun-terapisine-giris-ve-temel-teknikler-egitimi-online-egitim/",
+            "description": "Training Content\n\nWhat to do when optimal conditions for play therapy cannot be met?\nWhat is Theraplay? What are its areas of use?\nHow should play therapy interventions be conducted in processes that need to be carried out online?\nThe use of the therapeutic power of play in disaster and social trauma processes.\nThe training will be conducted over 5 days (32 hours) in total. Training materials are included.\n\nTraining Objectives\n\nTo gain competence in the therapeutic use of play,\nTo inform about ensuring optimal conditions for material and environment preparation,\nTo determine the roadmaps to follow in selecting techniques specific to the client,\nTo specify the convergent and divergent points in play therapy through schools,\nTo develop practical skills with the help of basic knowledge and theoretical approaches.\nParticipation Requirements:\nPsychologists, Psychological Counselors, 3rd and 4th-year students of the departments, and graduate and postgraduate students can participate in our training."
+        },
+        {
+            "id": "14",
+            "name": "Eating Disorders",
+            "image": "https://i.imgur.com/ZvQFiUZ.png",
+            "eventHost": "Kim Psychology",
+            "eventDate": "3-4 August",
+            "referenceLink": "https://www.kimpsikoloji.com/yeme-bozukluklari/",
+            "description": "Training Content:\n\n-Recognizing Eating Disorders\n-DSM – 5 Diagnostic Criteria\n-Anorexia Nervosa\n-Bulimia Nervosa\n-Binge Eating Disorder\n-Atypical Anorexia Nervosa\n-Night Eating Syndrome\n-Emotional Hunger\n-The Relationship Between Trauma and Eating Disorders\n-The Effect of Self-Esteem, Confidence, and Body Image\n-Taking History in the First Interview and Sample Case\n-Approach to Eating Disorders Through Cognitive Behavioral Therapy\n-Cognitive Structuring and Problem Solving Training\n-Clinical Assessment and Treatment Methods\n-Evaluation"
+        },
+        {
+            "id": "26",
+            "name": "Working in Preschool Institutions",
+            "image": "https://i.imgur.com/vmsvz0H.png",
+            "eventHost": "Koena Psychology Institute",
+            "eventDate": "3-10 August",
+            "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSc8EIGnQUpSE8uHKKrLoy-Fv2qqLTVlz3Pa_nW6Joseq0CrKA/viewform",
+            "description": "Working in the field of preschool education is an area chosen with excitement for some of us, a 'start somewhere' door for others, and an indispensable world for those who 'just stopped by'.\n\nAt a time when scientists and the literature shout 'Early childhood period is very important', it is wise to benefit from colleagues who have dedicated years to this field and can answer questions with their experience.\n\nOur team member Uzm.Psk.Gözde Alper, even while focusing on clinical studies, has always had one foot in schools until recently. She will share her knowledge and experience with us again after a long time with practical, concrete examples, and applications. For those who will work in this field, the process will become clearer, and it will surely become easier for those already working.\n\nThe aim of the training is to provide in-depth knowledge and skills in this field, from communicating with children to duties in the institution, for those working or planning to work in the psychological support unit of preschool institutions. The content of the training includes many topics, from tracking the development of children to meeting with families, collaborating with teachers, and planning content.\n\nWe will digest some application-oriented topics with our active participation, and in the second session, we will discuss how to accompany the school, family, and child dimensions through frequent case studies."
+        },
+        {
+            "id": "32",
+            "name": "Psychology Workshop",
+            "image": "https://i.imgur.com/SA3DK1w.png",
+            "eventHost": "Alfa Event",
+            "eventDate": "4 August",
+            "referenceLink": "https://alfaetkinlik.com/etkinlikdetay.aspx?seminer=istanbul-psikoloji-atolyesi-4-4-agustos-2024-pazar",
+            "description": "We are meeting face-to-face at the Psychology Workshop in Istanbul Bakırköy!\n\nThe quota is limited to 40 people.\n\n🔻The workshop with Expert Psychologist and Author Dilay SÜLOĞLU on 'CALMNESS' will last for 2 hours, you will gain new information and get answers to your questions.\n\n🔻Anyone who wants to improve themselves can participate in this workshop.\n\n🗓️ 4 August 2024 Sunday\n🕖 10.00-12.00\n📍 Miesta Coffee Dessert\n🎟️ 350₺ (includes the workshop, digital certificate, and VAT.)"
+        },
+        {
+            "id": "9",
+            "name": "Neuropsychological Tests Training",
+            "image": "https://i.imgur.com/Hr5J6gr.png",
+            "eventHost": "Moodist Academy",
+            "eventDate": "10-11 August",
+            "referenceLink": "https://docs.google.com/forms/d/1xeAnhqPoFUwTojsvoF51hvtN3vOPSMYBOpOubhqwXng/viewform?edit_requested=true",
+            "description": "NEUROPSYCHOLOGICAL TESTS (NPT) TRAINING WITH PROF. DR. SİREL KARAKAŞ AND HER TEAM IS STARTING FOR THE 6TH TIME!\n\n🖥️ Our training will be held online.\n\n✔️ Participants will receive a Moodist Academy Approved Training Certificate.\n\n❓Who Can Participate in the Training?\n-Graduates and students of Psychology, Psychological Counseling and Guidance, Child Development and Education, and similar departments, and those studying in the 3rd-4th year of the specified departments can participate.\n\n🎯Training Objective\n\nTo provide general information about neuropsychology, neuropsychological assessment, and neuropsychological tests; to convey the validity of these tests, i.e., what they measure, and to gain the ability to apply, score, and interpret these tests.\n\n🖇️ Tests are not included in the training fee."
+        },
+        {
+            "id": "22",
+            "name": "CBT Program for Children and Adolescents",
+            "image": "https://i.imgur.com/1eTN9Ar.png",
+            "eventHost": "Poem Psychology",
+            "eventDate": "17 August",
+            "referenceLink": "https://poem.thinkific.com/courses/cocuk-ve-ergenlerde-bdt-agustos-2024",
+            "description": "CBT Program for Children and Adolescents August Session starts on August 17! 🎉\n\nOur training, consisting of 10 sessions in total, starts on August 17, 2024!\n\n⏰ Training Hours: 09.30-16.30"
+        },
+        {
+            "id": "30",
+            "name": "Psychology Camp (Fethiye)",
+            "image": "https://i.imgur.com/q0Qp3lS.png",
+            "eventHost": "Alfa Event",
+            "eventDate": "25-28 August",
+            "referenceLink": "https://alfaetkinlik.com/kampdetay.aspx?kamp=fethiye-psikoloji-kampi-25-26-27-28-agustos-2024",
+            "description": "🌞 Early Reservation Opportunity for Vacation, Entertainment, and Education Combined at Our Psychology Camp in Fethiye from 25-28 August!\n\n🔻EARLY RESERVATION REGISTRATIONS FOR A SHORT TIME ON THE 5TH ANNIVERSARY!\n\n🔻Alfakamp Psychology Camps have brought together hundreds of people with different speakers in different cities for 5 years with summer and winter formats, providing a magnificent experience by offering vacation, education, and entertainment simultaneously!\n\n🗓️ 25-26-27-28 August 2024\n📌Kaizen Gate Hotel & Güneş Boutique Hotel\n🍽️ Half Board Concept\n🎉 DJ Performance 90’s Party / Poolside Pool Parties\n📗 Creating Awareness with Trainings from Beyhan BUDAK, Ziya ÜNLÜTÜRK, Aslı and Uğur DALAN\n\n⭐Our camp, which will be held on August 25-28, will provide awareness and knowledge through conferences with expert trainers for 3 nights and 4 days, benefiting from facilities such as pool, half board format with food and drink, and enjoying the summer atmosphere in Fethiye. The DJ performance will fill you with fun with a 90’s party and award-winning games!\n\n🔸About Pricing and Payment:\n▪️ 9 Installment Option with Credit Card\n▪️ 5% Discount on Wire Transfer Payments\n\n👁️‍🗨️ You can review us from Google and Instagram comments, and check past camp promotions from the Youtube/AlfaTalks channel.\n\n✅ Information & Reservation\n📱 0554 687 1994 (Available Weekdays 10.00-19.00)\n📞 0850 346 55 06 (Available Weekdays 10.00-19.00)\n💻 www.alfaetkinlik.com (Visit 24/7 to access all details and make a reservation.)"
+        },
+        {
+            "id": "15",
+            "name": "Moxo Attention Test Training",
+            "image": "https://i.imgur.com/JLu5pl8.png",
+            "eventHost": "Kim Psychology",
+            "eventDate": "1 September",
+            "referenceLink": "https://www.kimpsikoloji.com/dehb-ile-calismak-ve-moxo-dikkat-performans-testi-egitimi/",
+            "description": "This training aims to provide information on methods of working with individuals with Attention Deficit and Hyperactivity Disorder and to introduce professionals to the MOXO test, giving them the knowledge and skills to apply the test."
+        },
+        {
+            "id": "23",
+            "name": "Narrative Therapy Training",
+            "image": "https://i.imgur.com/0BRxXdv.png",
+            "eventHost": "Poem Psychology",
+            "eventDate": "3 September",
+            "referenceLink": "https://poem.thinkific.com/courses/narrative-terapi-aile-modulu-5-modul",
+            "description": "Narrative Therapy Training 5th Module dates have been updated🥳\n\nOur Narrative Therapy training with the theme of 'Couples and Families' starts on Tuesday, September 3."
+        },
+        {
+            "id": "16",
+            "name": "SPSS Data Analysis",
+            "image": "https://i.imgur.com/EXNaMkU.png",
+            "eventHost": "Kim Psychology",
+            "eventDate": "7-8 September",
+            "referenceLink": "https://www.kimpsikoloji.com/spss-veri-analizi-online-egitimi/",
+            "description": "Introducing SPSS, creating a data file and data entry, descriptive analyses, reliability, normality, correlation, t-test, ANOVA analysis, regression, and non-parametric analyses with examples\n\nAt the end of this training, you will be able to do your own thesis.\n\nParticipants must install the SPSS program on their computers before the training."
+        },
+        {
+            "id": "20",
+            "name": "Cognitive Behavioral Therapy Program for Avoidant/Restrictive Food Intake Disorder",
+            "image": "https://i.imgur.com/Qkut8FU.png",
+            "eventHost": "Poem Psychology",
+            "eventDate": "10 September-1 October",
+            "referenceLink": "https://poem.thinkific.com/courses/kacingan-kisitli-yiyecek-alim-bozuklugu",
+            "description": "Avoidant/Restrictive Food Intake Disorder (ARFID) is a heterogeneous psychiatric disorder characterized by individuals avoiding certain foods or food categories due to increased sensitivity to sensory characteristics (e.g., taste, texture, appearance, smell) of food and/or restricting intake in quantity. One of the most common reasons for avoidance and restriction in ARFID is increased sensitivity to sensory characteristics of food. Individuals diagnosed with ARFID may also avoid or restrict food due to fear of unwanted outcomes such as choking, vomiting, or gastrointestinal pain. These individuals often experience a trauma related to food and then begin to avoid certain foods to protect themselves from another adverse experience. Individuals with ARFID also often show a lack of interest in food or eating and may maintain a limited diet in terms of quantity. Those with lack of interest describe eating as a chore, and this is often reflected in a low appetite.\n\nPsychological therapies are prominent in the treatment of ARFID. A cognitive-behavioral therapy (CBT-AR) has been developed for ARFID. This therapy includes three optional modules that the therapist can apply depending on the patient’s primary maintenance mechanism. This therapy can be applied in an individual format or with family support, depending on the patient's age, and can last 20-30 sessions depending on the severity of the eating disorder. This training will address ARFID treatment from a psychotherapeutic perspective.\n\nThis program consists of 4 sessions and a total of 8 hours."
+        },
+        {
+            "id": "11",
+            "name": "Free Webinar: Safe Haven: Psychotherapy with Children and Adolescents",
+            "image": "https://i.imgur.com/18nhLaJ.png",
+            "eventHost": "Psychology Istanbul",
+            "eventDate": "12 September",
+            "referenceLink": "https://us02web.zoom.us/webinar/register/WN_6uwQUovLR0yXbSRlgZqhqg#/",
+            "description": "Participation is open to everyone and a digital participation certificate will be shared with live viewers.\n\nWe are coming together on the evening of September 12, 2024, at 21.00 to talk about the 'safe haven'.\n\nThe safe haven is a concept developed by Dr. Darcia Narvaez that describes the necessary care system for babies, children, and adolescents to reach their potential. The safe haven aims to meet the emotional, social, and physiological needs of children with evolutionary proven care practices and environmental conditions.\n\nHow to create a safe haven? How can psychotherapy and psychoeducation be used to provide a safe haven for babies, children, and adolescents? How can psychotherapists, parents, and educators collaborate to support the healthy development of children?\n\nLet’s come together to grow and create a safe and supportive haven for our babies, children, and adolescents. Looking forward to seeing you on September 12 at 21:00."
+        },
+        {
+            "id": "13",
+            "name": "Cognitive Behavioral Therapy Certification Program",
+            "image": "https://i.imgur.com/Ae9gz7t.png",
+            "eventHost": "Psychology Academy",
+            "eventDate": "14-15 September",
+            "referenceLink": "https://psikolojiakademisi.com/sertifikalar/bilissel-davranisci-terapi-sertifika-programi/",
+            "description": "The CBT Certification Program organized by Assoc. Dr. Itır Tarı Cömert consists of 10 modules and 130 hours. The content of the program is shaped parallel to the Beck Institute training program, developed in light of Assoc. Dr. Itır Tarı Cömert’s 20 years of CBT experiences. Participants will gain practical experience in using these techniques effectively and formulating them with the theoretical knowledge of CBT's basic concepts and techniques. The program is supported by various learning methods, such as applied sessions, example session videos, role plays, supervision-supported repeat sessions, and case analyses. This certification program aims to provide participants with comprehensive knowledge and skills in CBT. Assoc. Dr. Itır Tarı Cömert’s knowledge and experiences form an important resource to enhance the program's quality and offer participants an effective learning experience."
+        },
+        {
+            "id": "12",
+            "name": "Free Webinar: Our New Assistant AI",
+            "image": "https://i.imgur.com/K1fvQOh.png",
+            "eventHost": "Psychology Istanbul",
+            "eventDate": "3 October",
+            "referenceLink": "https://us02web.zoom.us/webinar/register/WN_FW4Qp3ReTSefGxCCLT9wUA#/",
+            "description": "Participation is open to everyone and a digital participation certificate will be shared with live viewers.\n\nWe are coming together on the evening of October 3, 2024, at 21.00 to talk about the new era of our profession.\n\nCan artificial intelligence do therapy, can it replace the therapist? How can psychologists benefit from artificial intelligence in psychotherapy, community mental health, schools, etc.?\n\nLet’s grow and learn together. Looking forward to seeing you on October 3 at 21:00."
+        },
+        {
+            "id": "10",
+            "name": "Free Webinar: Body in Couple Therapy",
+            "image": "https://i.imgur.com/pg8xBqy.png",
+            "eventHost": "Psychology Istanbul",
+            "eventDate": "10 October",
+            "referenceLink": "https://us02web.zoom.us/webinar/register/WN_0AyLNPx7RFyErSQ5p223XA#/registration",
+            "description": "Participation is open to everyone and a digital participation certificate will be shared with live viewers.\n\nWe are coming together on the evening of October 10, 2024, at 21.00 to talk about body-oriented work in couple therapy with Jennifer Gardner, an instructor from the International Sensorimotor Psychotherapy Institute.\n\nHow can we benefit from body-oriented work while working with couples? What are the body-oriented practices and techniques we can use to strengthen the couple's relationship?\n\nLet’s grow and learn together. Looking forward to seeing you on October 10 at 21:00."
+        },
+        {
+            "id": "31",
+            "name": "Online Psychology Summit",
+            "image": "https://i.imgur.com/iONL2mY.png",
+            "eventHost": "Alfa Event",
+            "eventDate": "1-4 November",
+            "referenceLink": "https://alfaetkinlik.com/etkinlikdetay.aspx?seminer=online-psikoloji-zirvesi-1-4-kasim-2024#kaydol",
+            "description": "WITH ITS GREAT LINEUP, WE ARE WITH YOU WITH A PSYCHOLOGY SUMMIT THAT HAS NEVER BEEN DONE IN TURKEY BEFORE!\n\nWHY ONLINE EVENT?\n\nCONNECT AND WATCH FROM YOUR HOME, WORKPLACE, OR WHEREVER YOU WANT\n\nLISTEN TO MORE SPEAKERS AND EARN MORE CERTIFICATES WITH LOWER TICKET FEES\n\nREPEAT AND REINFORCE THE SESSIONS YOU WATCHED ONLINE FOR 30 DAYS\n\nHAVE MORE INTERACTIVE Q&A SESSIONS WITH THE TRAINERS\n\n4 DAYS, 12 SPEAKERS, 12 DIGITAL CERTIFICATES WITH OUR ONLINE PSYCHOLOGY SUMMIT ON 1-2-3-4 NOVEMBER!\n\nDON’T MISS THIS GREAT CONFERENCE, GET YOUR TICKET NOW! 12 ONLINE SESSIONS, 12 DIGITAL CERTIFICATES! WATCH AGAIN FOR 30 DAYS!"
+        }
+    ]
 }
