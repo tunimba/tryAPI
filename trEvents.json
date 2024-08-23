@@ -1,60 +1,6 @@
 {
     "events": [
         {
-            "id": "8",
-            "name": "Oyun Terapisi ve Temel Teknikler Eğitimi",
-            "image": "https://i.imgur.com/1QNIlkQ.png",
-            "eventHost": "Kim Psikoloji",
-            "eventDate": "21-28 Temmuz",
-            "referenceLink": "https://www.kimpsikoloji.com/oyun-terapisine-giris-ve-temel-teknikler-egitimi-online-egitim/",
-            "description": "Eğitim İçeriği\n\nOyun terapisinin optimal şartları sağlanamadığında neler yapılır?\nTheraplay nedir? Kullanım alanları nelerdir?\nOnlıne yürütülmesi gereken süreçlerde oyun terapisi müdahaleleri nasıl yürütülmelidir?\nAfet ve toplumsal travma süreçlerinde oyunun terapötik gücünün gücünün kullanımı.\nEğitim toplamda 5 gün (32 saat) olarak gerçekleştirilecektir. Eğitime materyal dahildir.\n\nEğitimin Amaçları\n\nOyunun terapötik amaçla kullanımında yetkinlik kazandırmak,\nMateryal ve ortam oluşturulmasında optimal şartların sağlanması konusunda bilgilendirmek,\nDanışana özgü tekniklerin seçiminde izlenecek yol haritalarının belirlenmesi,\nEkoller üzerinden oyun terapisinde benzeşen ve farklılaşan noktaları belirtmek,\nTemel bilgilerin ve kuramsal yaklaşımların yardımıyla uygulama becerilerini geliştirmektir.\nKatılım Şartları:\nEğitimimize Psikologlar, Psikolojik Danışmanlar, bölümlerin 3. Ve 4.\nSınıf öğrencileri, yüksek lisans öğrenci ve mezunları katılabilir."
-        },
-        {
-            "id": "14",
-            "name": "Yeme Bozuklukları",
-            "image": "https://i.imgur.com/ZvQFiUZ.png",
-            "eventHost": "Kim Psikoloji",
-            "eventDate": "3-4 Ağustos",
-            "referenceLink": "https://www.kimpsikoloji.com/yeme-bozukluklari/",
-            "description": "Eğitimin İçeriği:\n\n-Yeme Bozukluklarını Tanıma\n-DSM – 5 Tanı Kriterleri\n-Anoreksiya Nervosa\n-Bulimia Nervosa\n-Tıkınırcasına Yeme Bozukluğu\n-Atipik Anoreksiya Nervosa\n-Gece Yeme Sendromu\n-Duygusal açlık\n-Travma ve Yeme Bozuklukları İlişkisi\n-Benlik Saygısı, Özgüven ve Beden İmajı Etkisi\n-İlk Görüşmede Öykünün Alınması ve Örnek Vaka\n-Bilişsel Davranışçı Yaklaşım Üzerinden Yeme Bozukluklarına Bakış\n-Kognitif Yapılandırma ve Sorun Çözme Eğitimi\n-Klinik değerlendirme ve Tedavi Yolları\n-Değerlendirme"
-        },
-        {
-            "id": "26",
-            "name": "Okul Öncesi Kurumlarında Çalışmak",
-            "image": "https://i.imgur.com/vmsvz0H.png",
-            "eventHost": "Koena Psikoloji Enstitüsü",
-            "eventDate": "3-10 Ağustos",
-            "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSc8EIGnQUpSE8uHKKrLoy-Fv2qqLTVlz3Pa_nW6Joseq0CrKA/viewform",
-            "description": "Okul öncesi eğitim alanında çalışmak kimimiz için heyecanla seçilen bir alan, kimimiz için 'bir yerden başlayayım' kapısı, kimimiz için de 'geçerken uğradım' deyip vazgeçilmez olan bir dünya.\n\nBilim insanlarının, literatürün 'Erken çocukluk dönemi çok önemli' diye bas bas bağırdığı bu zamanda, çocuklara eğitim alanında temas eden/edecekler olarak bu alana yıllarını vermiş, deneyimle sorulara cevap olabilen meslektaşlarımızdan faydalanmak akıllıca.\n\nEkibimizden Uzm.Psk.Gözde Alper’in klinik çalışmalarına odaklandığı süreçte dahi yakın zamana kadar bir ayağı hep okullardaydı. İşe yarar, somut örnek ve uygulamalarla bilgisini, deneyimini uzun zaman sonra tekrar bizlerle paylaşacak. Bu alanda çalışacak kişiler için süreç berraklaşacak, çalışan için bir şeyler mutlaka kolaylaşacak.\n\nEğitimin amacı, okul öncesi kurumların psikolojik destek biriminde çalışan veya çalışmayı planlayanlar için çocuklarla iletişim kurmaktan kurumdaki görevlerine kadar bu alanda derinlemesine bilgi ve beceriler kazandırmaktır. Eğitim içeriğinde; çocukların gelişim takibinden, ailelerle görüşmeye; öğretmenlerle işbirliğinden, içerik planlamaya kadar çokça başlık var.\n\nUygulamaya dönük bazı başlıkları aktif katılımımızla sindirecek, ikinci oturumda sunulacak vaka paylaşımları sayesinde sıkça gelen konular üzerinden okul, aile ve çocuk boyutlarına nasıl eşlik edeceğimizi tartışacağız."
-        },
-        {
-            "id": "32",
-            "name": "Psikoloji Atölyesi",
-            "image": "https://i.imgur.com/SA3DK1w.png",
-            "eventHost": "Alfa Etkinlik",
-            "eventDate": "4 Ağustos",
-            "referenceLink": "https://alfaetkinlik.com/etkinlikdetay.aspx?seminer=istanbul-psikoloji-atolyesi-4-4-agustos-2024-pazar",
-            "description": "İstanbul Bakırköy’de yüz yüze Psikoloji Atölyesi ile buluşuyoruz!\n\nKontenjan 40 kişi ile sınırlıdır.\n\n🔻Uzman Psikolog, Yazar Dilay SÜLOĞLU ile 'SAKİNLİK' üzerine yapacağımız atölye çalışması 2 saat sürecek, hem yeni bilgiler edinecek hem de kafanıza takılan soruların cevaplarını alacaksınız.\n\n🔻Kendini geliştirmek isteyen herkes bu atölye çalışmasına katılabilir.\n\n🗓️ 4 Ağustos 2024 Pazar\n🕖 10.00-12.00\n📍 Miesta Coffee Dessert\n🎟️ 350₺ (atölye, dijital sertifika ve KDV dahildir.)"
-        },
-        {
-            "id": "9",
-            "name": "Nöropsikolojik Testler Eğitimi",
-            "image": "https://i.imgur.com/Hr5J6gr.png",
-            "eventHost": "Moodist Akademi",
-            "eventDate": "10-11 Ağustos",
-            "referenceLink": "https://docs.google.com/forms/d/1xeAnhqPoFUwTojsvoF51hvtN3vOPSMYBOpOubhqwXng/viewform?edit_requested=true",
-            "description": "PROF. DR. SİREL KARAKAŞ VE EKİBİ İLE NÖROPSİKOLOJİK TESTLER (NPT) EĞİTİMİ 6.KEZ BAŞLIYOR!\n\n🖥️ Eğitimimiz Online olarak gerçekleşecektir.\n\n✔️ Katılımcılara Moodist Akademi Onaylı Eğitim Belgesi verilecektir.\n\n❓Eğitime Kimler Katılabilir?\n-Psikoloji Bölümü, Psikolojik Danışmanlık ve Rehberlik Bölümü, Çocuk Gelişimi ve Eğitimi ve benzeri bölüm mezunları, belirtilen bölümlerin 3.- 4. sınıfında okumakta olan kişiler katılabilir.\n\n🎯Eğitimin Amacı\n\n-Nöropsikoloji, nöropsikolojik değerlendirme, nöropsikolojik testler hakkında genel bilgi vermek; testlerin geçerliğinin yani ne ölçtüğünün aktarılması, bu testleri uygulama, puanlama, yorumlama becerisinin kazandırılması.\n\n🖇️ Testler eğitim ücretine dahil değildir."
-        },
-        {
-            "id": "22",
-            "name": "Çocuk ve Ergenlerde BDT Programı",
-            "image": "https://i.imgur.com/1eTN9Ar.png",
-            "eventHost": "Poem Psikoloji",
-            "eventDate": "17 Ağustos",
-            "referenceLink": "https://poem.thinkific.com/courses/cocuk-ve-ergenlerde-bdt-agustos-2024",
-            "description": "Çocuk ve Ergenlerde BDT Programı Ağustos Dönemi 17 Ağustos’ta başlıyor! 🎉\n\nToplamda 10 oturumdan oluşan eğitimimizin ilk oturumu 17 Ağustos 2024’te başlıyor!\n\n⏰ Eğitim Saatleri: 09.30-16.30"
-        },
-        {
             "id": "30",
             "name": "Psikoloji Kampı (Fethiye)",
             "image": "https://i.imgur.com/q0Qp3lS.png",
