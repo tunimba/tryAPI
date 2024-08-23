@@ -1,60 +1,6 @@
 {
     "events": [
         {
-            "id": "8",
-            "name": "Play Therapy and Basic Techniques Training",
-            "image": "https://i.imgur.com/1QNIlkQ.png",
-            "eventHost": "Kim Psychology",
-            "eventDate": "21-28 July",
-            "referenceLink": "https://www.kimpsikoloji.com/oyun-terapisine-giris-ve-temel-teknikler-egitimi-online-egitim/",
-            "description": "Training Content\n\nWhat to do when optimal conditions for play therapy cannot be met?\nWhat is Theraplay? What are its areas of use?\nHow should play therapy interventions be conducted in processes that need to be carried out online?\nThe use of the therapeutic power of play in disaster and social trauma processes.\nThe training will be conducted over 5 days (32 hours) in total. Training materials are included.\n\nTraining Objectives\n\nTo gain competence in the therapeutic use of play,\nTo inform about ensuring optimal conditions for material and environment preparation,\nTo determine the roadmaps to follow in selecting techniques specific to the client,\nTo specify the convergent and divergent points in play therapy through schools,\nTo develop practical skills with the help of basic knowledge and theoretical approaches.\nParticipation Requirements:\nPsychologists, Psychological Counselors, 3rd and 4th-year students of the departments, and graduate and postgraduate students can participate in our training."
-        },
-        {
-            "id": "14",
-            "name": "Eating Disorders",
-            "image": "https://i.imgur.com/ZvQFiUZ.png",
-            "eventHost": "Kim Psychology",
-            "eventDate": "3-4 August",
-            "referenceLink": "https://www.kimpsikoloji.com/yeme-bozukluklari/",
-            "description": "Training Content:\n\n-Recognizing Eating Disorders\n-DSM – 5 Diagnostic Criteria\n-Anorexia Nervosa\n-Bulimia Nervosa\n-Binge Eating Disorder\n-Atypical Anorexia Nervosa\n-Night Eating Syndrome\n-Emotional Hunger\n-The Relationship Between Trauma and Eating Disorders\n-The Effect of Self-Esteem, Confidence, and Body Image\n-Taking History in the First Interview and Sample Case\n-Approach to Eating Disorders Through Cognitive Behavioral Therapy\n-Cognitive Structuring and Problem Solving Training\n-Clinical Assessment and Treatment Methods\n-Evaluation"
-        },
-        {
-            "id": "26",
-            "name": "Working in Preschool Institutions",
-            "image": "https://i.imgur.com/vmsvz0H.png",
-            "eventHost": "Koena Psychology Institute",
-            "eventDate": "3-10 August",
-            "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSc8EIGnQUpSE8uHKKrLoy-Fv2qqLTVlz3Pa_nW6Joseq0CrKA/viewform",
-            "description": "Working in the field of preschool education is an area chosen with excitement for some of us, a 'start somewhere' door for others, and an indispensable world for those who 'just stopped by'.\n\nAt a time when scientists and the literature shout 'Early childhood period is very important', it is wise to benefit from colleagues who have dedicated years to this field and can answer questions with their experience.\n\nOur team member Uzm.Psk.Gözde Alper, even while focusing on clinical studies, has always had one foot in schools until recently. She will share her knowledge and experience with us again after a long time with practical, concrete examples, and applications. For those who will work in this field, the process will become clearer, and it will surely become easier for those already working.\n\nThe aim of the training is to provide in-depth knowledge and skills in this field, from communicating with children to duties in the institution, for those working or planning to work in the psychological support unit of preschool institutions. The content of the training includes many topics, from tracking the development of children to meeting with families, collaborating with teachers, and planning content.\n\nWe will digest some application-oriented topics with our active participation, and in the second session, we will discuss how to accompany the school, family, and child dimensions through frequent case studies."
-        },
-        {
-            "id": "32",
-            "name": "Psychology Workshop",
-            "image": "https://i.imgur.com/SA3DK1w.png",
-            "eventHost": "Alfa Event",
-            "eventDate": "4 August",
-            "referenceLink": "https://alfaetkinlik.com/etkinlikdetay.aspx?seminer=istanbul-psikoloji-atolyesi-4-4-agustos-2024-pazar",
-            "description": "We are meeting face-to-face at the Psychology Workshop in Istanbul Bakırköy!\n\nThe quota is limited to 40 people.\n\n🔻The workshop with Expert Psychologist and Author Dilay SÜLOĞLU on 'CALMNESS' will last for 2 hours, you will gain new information and get answers to your questions.\n\n🔻Anyone who wants to improve themselves can participate in this workshop.\n\n🗓️ 4 August 2024 Sunday\n🕖 10.00-12.00\n📍 Miesta Coffee Dessert\n🎟️ 350₺ (includes the workshop, digital certificate, and VAT.)"
-        },
-        {
-            "id": "9",
-            "name": "Neuropsychological Tests Training",
-            "image": "https://i.imgur.com/Hr5J6gr.png",
-            "eventHost": "Moodist Academy",
-            "eventDate": "10-11 August",
-            "referenceLink": "https://docs.google.com/forms/d/1xeAnhqPoFUwTojsvoF51hvtN3vOPSMYBOpOubhqwXng/viewform?edit_requested=true",
-            "description": "NEUROPSYCHOLOGICAL TESTS (NPT) TRAINING WITH PROF. DR. SİREL KARAKAŞ AND HER TEAM IS STARTING FOR THE 6TH TIME!\n\n🖥️ Our training will be held online.\n\n✔️ Participants will receive a Moodist Academy Approved Training Certificate.\n\n❓Who Can Participate in the Training?\n-Graduates and students of Psychology, Psychological Counseling and Guidance, Child Development and Education, and similar departments, and those studying in the 3rd-4th year of the specified departments can participate.\n\n🎯Training Objective\n\nTo provide general information about neuropsychology, neuropsychological assessment, and neuropsychological tests; to convey the validity of these tests, i.e., what they measure, and to gain the ability to apply, score, and interpret these tests.\n\n🖇️ Tests are not included in the training fee."
-        },
-        {
-            "id": "22",
-            "name": "CBT Program for Children and Adolescents",
-            "image": "https://i.imgur.com/1eTN9Ar.png",
-            "eventHost": "Poem Psychology",
-            "eventDate": "17 August",
-            "referenceLink": "https://poem.thinkific.com/courses/cocuk-ve-ergenlerde-bdt-agustos-2024",
-            "description": "CBT Program for Children and Adolescents August Session starts on August 17! 🎉\n\nOur training, consisting of 10 sessions in total, starts on August 17, 2024!\n\n⏰ Training Hours: 09.30-16.30"
-        },
-        {
             "id": "30",
             "name": "Psychology Camp (Fethiye)",
             "image": "https://i.imgur.com/q0Qp3lS.png",
