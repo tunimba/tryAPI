@@ -1,24 +1,6 @@
 {
     "events": [
         {
-            "id": "30",
-            "name": "Psikoloji Kampı (Fethiye)",
-            "image": "https://i.imgur.com/q0Qp3lS.png",
-            "eventHost": "Alfa Etkinlik",
-            "eventDate": "25-28 Ağustos",
-            "referenceLink": "https://alfaetkinlik.com/kampdetay.aspx?kamp=fethiye-psikoloji-kampi-25-26-27-28-agustos-2024",
-            "description": "🌞 Erken Rezervasyon Fırsatı İle Tatil, Eğlence ve Eğitimin Bir Arada Olduğu Psikoloji Kampımız 25-28 Ağustos’ta Fethiye’de!\n\n🔻5. YILA ÖZEL KISA BİR SÜRE ERKEN REZERVASYON KAYITLAR BAŞLAMIŞTIR!\n\n🔻Alfakamp Psikoloji Kampları 5 yıldır yaz ve kış formatları ile farklı şehirlerde farklı konuşmacıları ile yüzlerce insanı bir araya getirmiş, tatil, eğitim ve eğlenceyi aynı anda yaşatarak muhteşem bir deneyim imkanı sunmuştur!\n\n🗓️ 25-26-27-28 Ağustos 2024\n📌Kaizen Gate Hotel & Güneş Boutique Hotel\n🍽️ Yarım Pansiyon Konsept\n🎉 DJ Performans 90’Lar Partisi / Havuz Başı Pool Partiler\n📗 Beyhan BUDAK, Ziya ÜNLÜTÜRK Aslı ve Uğur DALAN İle Farkındalık Yaratacak Eğitimler\n\n⭐25-28 Ağustos tarihlerinde gerçekleştireceğimiz kampımız 3 gece 4 gün boyunca alanında uzman eğitmenlerin konferansları sizi farkındalığa ve bilgiye, Butik hotel konforu ile havuz, yarım pansiyon formatı ile yeme içme gibi imkanlardan faydalanıp Fethiye atmosferi ile Ağustos sıcağında yazın tadını çıkaracağınız bir tatile, DJ performans ile 90’lar partisi ve ödüllü oyunlar ile eğlenceye doyuracaktır!\n\n🔸Fiyatlandırma ve Ödeme Hakkında:\n▪️ Kredi Kartına 9 Taksit İmkanı\n▪️ Havale EFT Ödemelerinde %5 İndirim İmkanı\n\n👁️‍🗨️ Bizi Google ve İnstagram yorumlarından inceleyebilir, Youtube/AlfaTalks kanalından geçmiş kamp tanıtımlarını inceleyebilirsiniz.\n\n✅ Bilgi & Rezervasyon\n📱 0554 687 1994 (Hafta İçi 10.00-19.00 Arası Ulaşabilirsiniz.)\n📞 0850 346 55 06 (Hafta İçi 10.00-19.00 Arası Ulaşabilirsiniz.)\n💻 www.alfaetkinlik.com (7/24 Ziyaret Edip Tüm Detaylara Erişebilir ve Rezervasyon Yaptırabilirsiniz.)"
-        },
-        {
-            "id": "15",
-            "name": "Moxo Dikkat Testi Eğitimi",
-            "image": "https://i.imgur.com/JLu5pl8.png",
-            "eventHost": "Kim Psikoloji",
-            "eventDate": "1 Eylül",
-            "referenceLink": "https://www.kimpsikoloji.com/dehb-ile-calismak-ve-moxo-dikkat-performans-testi-egitimi/",
-            "description": "Bu eğitim, Dikkat Eksikliği ve Hiperaktivite Bozukluğu olan bireylerle çalışma yöntemleri hakkında bilgi vermeyi ve profesyonellere MOXO testini tanıtarak onlara test uygulaması hakkında bilgi ve beceri kazandırmayı hedeflemektedir."
-        },
-        {
             "id": "23",
             "name": "Narrative Terapi Eğitimi",
             "image": "https://i.imgur.com/0BRxXdv.png",
