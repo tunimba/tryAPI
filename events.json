@@ -1,31 +1,31 @@
 {
     "events": [
         {
-            "id": "23",
-            "name": "Narrative Therapy Training",
-            "image": "https://i.imgur.com/0BRxXdv.png",
-            "eventHost": "Poem Psychology",
-            "eventDate": "3 September",
-            "referenceLink": "https://poem.thinkific.com/courses/narrative-terapi-aile-modulu-5-modul",
-            "description": "Narrative Therapy Training 5th Module dates have been updated🥳\n\nOur Narrative Therapy training with the theme of 'Couples and Families' starts on Tuesday, September 3."
-        },
-        {
             "id": "16",
             "name": "SPSS Data Analysis",
             "image": "https://i.imgur.com/EXNaMkU.png",
             "eventHost": "Kim Psychology",
             "eventDate": "7-8 September",
             "referenceLink": "https://www.kimpsikoloji.com/spss-veri-analizi-online-egitimi/",
-            "description": "Introducing SPSS, creating a data file and data entry, descriptive analyses, reliability, normality, correlation, t-test, ANOVA analysis, regression, and non-parametric analyses with examples\n\nAt the end of this training, you will be able to do your own thesis.\n\nParticipants must install the SPSS program on their computers before the training."
+            "description": "Introduction to SPSS, creating a data file and entering data, descriptive analyses, reliability, normality, correlation, t-test, ANOVA, regression, non-parametric analysis explanation and practical examples.\n\nBy the end of this training, you will be able to conduct your own thesis.\n\nParticipants are required to install SPSS on their computers before the training."
+        },
+        {
+            "id": "1010",
+            "name": "Play Therapy and Basic Techniques Training",
+            "image": "https://i.imgur.com/vhN3PJ6.png",
+            "eventHost": "Kim Psychology",
+            "eventDate": "8-15 September",
+            "referenceLink": "https://www.kimpsikoloji.com/oyun-terapisine-giris-ve-temel-teknikler-egitimi-online-egitim/",
+            "description": "Basic theoretical framework of play therapy, objectives.\nDifferent methods used in play therapy in literature.\nCharacteristics of the relationship, environment, and materials in play therapy.\nPositions, observations, and roadmaps suitable for problems in the therapy process.\nMethods related to emotional transfer process, focusing on practical solutions.\nCase analysis and play therapy rehearsals through dramatization.\nFunctions, rituals, and symbols in play.\nMaking situations and processes functional that may arise during practice."
         },
         {
             "id": "20",
             "name": "Cognitive Behavioral Therapy Program for Avoidant/Restrictive Food Intake Disorder",
             "image": "https://i.imgur.com/Qkut8FU.png",
             "eventHost": "Poem Psychology",
-            "eventDate": "10 September-1 October",
+            "eventDate": "10 September - 1 October",
             "referenceLink": "https://poem.thinkific.com/courses/kacingan-kisitli-yiyecek-alim-bozuklugu",
-            "description": "Avoidant/Restrictive Food Intake Disorder (ARFID) is a heterogeneous psychiatric disorder characterized by individuals avoiding certain foods or food categories due to increased sensitivity to sensory characteristics (e.g., taste, texture, appearance, smell) of food and/or restricting intake in quantity. One of the most common reasons for avoidance and restriction in ARFID is increased sensitivity to sensory characteristics of food. Individuals diagnosed with ARFID may also avoid or restrict food due to fear of unwanted outcomes such as choking, vomiting, or gastrointestinal pain. These individuals often experience a trauma related to food and then begin to avoid certain foods to protect themselves from another adverse experience. Individuals with ARFID also often show a lack of interest in food or eating and may maintain a limited diet in terms of quantity. Those with lack of interest describe eating as a chore, and this is often reflected in a low appetite.\n\nPsychological therapies are prominent in the treatment of ARFID. A cognitive-behavioral therapy (CBT-AR) has been developed for ARFID. This therapy includes three optional modules that the therapist can apply depending on the patient’s primary maintenance mechanism. This therapy can be applied in an individual format or with family support, depending on the patient's age, and can last 20-30 sessions depending on the severity of the eating disorder. This training will address ARFID treatment from a psychotherapeutic perspective.\n\nThis program consists of 4 sessions and a total of 8 hours."
+            "description": "Avoidant/Restrictive Food Intake Disorder (ARFID) is a heterogeneous psychiatric disorder in which individuals avoid certain foods or food categories, limiting their diet in terms of variety and/or restrict their intake in terms of quantity. One of the most common reasons for avoidance or restriction in ARFID is increased sensitivity to the sensory properties of food (e.g., taste, texture, appearance, smell). Individuals with ARFID may also avoid or restrict foods due to fears of unwanted outcomes, such as choking, vomiting, or gastrointestinal pain. Often, these individuals have experienced trauma related to food and begin to avoid certain foods to protect against another negative experience. In ARFID, a lack of interest in food or eating is also common, and individuals may maintain a limited diet in terms of quantity. Those with a lack of interest often describe eating as a chore, which manifests as a low appetite.\n\nPsychological therapies are at the forefront of ARFID treatment. A cognitive-behavioral therapy (CBT-AR) was developed for ARFID. This therapy includes three optional modules that the therapist can apply based on the patient’s primary maintaining mechanism. It can be delivered in an individual or family-supported format, depending on the patient’s age, and lasts 20-30 sessions depending on the severity of the eating disorder. This program will address ARFID treatment from a psychotherapeutic perspective.\n\nThis program consists of 4 sessions, totaling 8 hours."
         },
         {
             "id": "11",
@@ -34,7 +34,16 @@
             "eventHost": "Psychology Istanbul",
             "eventDate": "12 September",
             "referenceLink": "https://us02web.zoom.us/webinar/register/WN_6uwQUovLR0yXbSRlgZqhqg#/",
-            "description": "Participation is open to everyone and a digital participation certificate will be shared with live viewers.\n\nWe are coming together on the evening of September 12, 2024, at 21.00 to talk about the 'safe haven'.\n\nThe safe haven is a concept developed by Dr. Darcia Narvaez that describes the necessary care system for babies, children, and adolescents to reach their potential. The safe haven aims to meet the emotional, social, and physiological needs of children with evolutionary proven care practices and environmental conditions.\n\nHow to create a safe haven? How can psychotherapy and psychoeducation be used to provide a safe haven for babies, children, and adolescents? How can psychotherapists, parents, and educators collaborate to support the healthy development of children?\n\nLet’s come together to grow and create a safe and supportive haven for our babies, children, and adolescents. Looking forward to seeing you on September 12 at 21:00."
+            "description": "Open to all participants, and digital participation certificates will be shared with those who watch live.\n\nWe come together on the evening of 12 September 2024 at 21:00 to talk about the 'safe haven'.\n\nSafe haven is a concept developed by Dr. Darcia Narvaez, defining the care system necessary for babies, children, and adolescents to reach their potential, grounded in evolutionarily proven care practices and environmental conditions to meet emotional, social, and physiological needs.\n\nHow is a safe haven created? How can psychotherapy and psychoeducation be used with families to provide a safe haven for babies, children, and adolescents? How can psychotherapists, parents, and educators collaborate to support healthy development in children?\n\nLet’s grow together and create a safe and supportive haven for our babies, children, and adolescents. See you on 12 September at 21:00..."
+        },
+        {
+            "id": "1200",
+            "name": "Psychotherapy Techniques Symposium",
+            "image": "https://i.imgur.com/BNnYG25.png",
+            "eventHost": "Young Psychologists Council",
+            "eventDate": "14-15 September",
+            "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSejTbgbS9_iQILNIWfpeHcIczFZFhAne3vIB3NmRzkHIIY-wQ/viewform?usp=send_form",
+            "description": "We are excited to announce a symposium with 5 different schools of thought, presented by 5 expert psychologists!\n\nFor years, we have been supporting both the professional and personal development of psychologists and psychology students through various activities as the Young Psychologists Council.\n\nOne of the activities we have organized to meet the needs of the field is the 'PSYCHOTHERAPY TECHNIQUES SYMPOSIUM'.\n\n📅 14-15 September / Saturday - Sunday\n⏳ 13:00 - 17:15\n🚀 Each session lasts 1 hour and 15 minutes.\n📄 Participation Certificate\n📌 Registration form in bio.\n‼️ Limited Seats\n\nWith science, love, and solidarity."
         },
         {
             "id": "13",
@@ -43,7 +52,43 @@
             "eventHost": "Psychology Academy",
             "eventDate": "14-15 September",
             "referenceLink": "https://psikolojiakademisi.com/sertifikalar/bilissel-davranisci-terapi-sertifika-programi/",
-            "description": "The CBT Certification Program organized by Assoc. Dr. Itır Tarı Cömert consists of 10 modules and 130 hours. The content of the program is shaped parallel to the Beck Institute training program, developed in light of Assoc. Dr. Itır Tarı Cömert’s 20 years of CBT experiences. Participants will gain practical experience in using these techniques effectively and formulating them with the theoretical knowledge of CBT's basic concepts and techniques. The program is supported by various learning methods, such as applied sessions, example session videos, role plays, supervision-supported repeat sessions, and case analyses. This certification program aims to provide participants with comprehensive knowledge and skills in CBT. Assoc. Dr. Itır Tarı Cömert’s knowledge and experiences form an important resource to enhance the program's quality and offer participants an effective learning experience."
+            "description": "Organized by Assoc. Prof. Itır Tarı Cömert, the CBT Certification Program consists of 10 modules and lasts for 130 hours. The content of the program is shaped in parallel with the Beck Institute training program, developed under the 20 years of CBT experience of Assoc. Prof. Itır Tarı Cömert. Participants will gain theoretical knowledge of the basic concepts and techniques of CBT, as well as practical experience on how these techniques can be effectively used by the therapist and how to create formulations. The program is supported by various learning methods such as practical sessions, example session videos, role-playing, supervision-supported review sessions, and case analyses. This certification program aims to provide participants with comprehensive knowledge and skills in CBT. The knowledge and experience of Assoc. Prof. Itır Tarı Cömert are important resources for increasing the quality of the program and offering participants an effective learning experience."
+        },
+        {
+            "id": "3000",
+            "name": "Parent Counseling Specialist Training",
+            "image": "https://i.imgur.com/0ORAOXk.png",
+            "eventHost": "Moodist Academy",
+            "eventDate": "17 September - 8 October",
+            "referenceLink": "https://docs.google.com/forms/d/1qfhMAZ8lgZtg0-aYT0UzIt16G8q3eJuMUkUZLQF_DJ0/viewform?edit_requested=true",
+            "description": "🖥️ Our training will be held online.\n\n✔️ Graduates and students of Psychology, Guidance and Counseling, Medicine, Psychiatric Nursing, Social Work departments can participate in the training.\n\n✔️ Participants will be given a Moodist Academy Approved Training Certificate."
+        },
+        {
+            "id": "1005",
+            "name": "Addiction Therapy Practitioner Training",
+            "image": "https://i.imgur.com/2SwoNhV.png",
+            "eventHost": "Kim Psychology",
+            "eventDate": "17-18 September",
+            "referenceLink": "https://www.kimpsikoloji.com/bagimlilik-terapisi-uygulayici-egitim/",
+            "description": "Learn about therapeutic cards used as an expressive technique in the psychotherapy and counseling process, and experience the process firsthand."
+        },
+        {
+            "id": "1001",
+            "name": "35 Fundamental Techniques Used in Psychotherapy",
+            "image": "https://i.imgur.com/jsJ4HaK.png",
+            "eventHost": "Psychology Academy",
+            "eventDate": "21-22 September",
+            "referenceLink": "https://psikolojiakademisi.com/sertifikalar/psikoterapide-kullanilan-35-temel-teknik-sertifika-programi/",
+            "description": "On 21-22 September, the “35 Fundamental Techniques Used in Psychotherapy Certification Program” will be conducted by Assoc. Prof. Itır Tarı Cömert. You can register by filling out the application form from the link in the profile.\n\nThe program will theoretically and practically convey 35 fundamental techniques from different schools of thought that should not be missing from the toolkits of therapists, regardless of the school they work with. The program aims to provide participants with the competence to apply many essential techniques from various schools of psychotherapy.\n\nParticipants will learn how to apply proven effective techniques from therapy schools through theoretical sessions, case analyses, and role-playing exercises, ensuring both theoretical knowledge and practical application. The program will conclude by providing participants with the knowledge and skills to apply these techniques."
+        },
+        {
+            "id": "1100",
+            "name": "Temperament Training, Temperament-Based Communication Skills, Pathology and Preventive Mental Health",
+            "image": "https://i.imgur.com/6X9GU83.png",
+            "eventHost": "Kim Psychology",
+            "eventDate": "27 September",
+            "referenceLink": "https://www.kimpsikoloji.com/mizac-temelli-iletisim-becerileri-patoloji-ve-koruyucu-ruh-sagligi/",
+            "description": "Purpose:\nTo better understand and know ourselves, our families, colleagues, and those around us.\nTo assess potential pathologies based on the temperaments of clients.\nTo develop skills to protect our mental health against anger and stress.\nTo recognize the attitudes and behaviors of our managers and colleagues at school and work.\nTo identify the personality traits that form the learning styles of our personnel, understand their limitations and potentials, and respond appropriately.\n\nScope:\nAfter learning the temperament approach, temperament test usage will be studied. Then, potential pathology and preventive work will be evaluated. Students will be provided with a temperament test and presentation."
         },
         {
             "id": "12",
@@ -52,25 +97,34 @@
             "eventHost": "Psychology Istanbul",
             "eventDate": "3 October",
             "referenceLink": "https://us02web.zoom.us/webinar/register/WN_FW4Qp3ReTSefGxCCLT9wUA#/",
-            "description": "Participation is open to everyone and a digital participation certificate will be shared with live viewers.\n\nWe are coming together on the evening of October 3, 2024, at 21.00 to talk about the new era of our profession.\n\nCan artificial intelligence do therapy, can it replace the therapist? How can psychologists benefit from artificial intelligence in psychotherapy, community mental health, schools, etc.?\n\nLet’s grow and learn together. Looking forward to seeing you on October 3 at 21:00."
+            "description": "Open to all participants, and digital participation certificates will be shared with those who watch live.\n\nOn the evening of 3 October 2024 at 21:00, we come together to discuss the new era of our profession.\n\nCan artificial intelligence provide therapy or replace a therapist? How can psychologists benefit from AI in fields such as psychotherapy, community mental health, schools, etc.?\n\nLet’s grow together and learn together. See you on 3 October at 21:00..."
         },
         {
             "id": "10",
-            "name": "Free Webinar: Body in Couple Therapy",
+            "name": "Free Webinar: The Body in Couples Therapy",
             "image": "https://i.imgur.com/pg8xBqy.png",
             "eventHost": "Psychology Istanbul",
             "eventDate": "10 October",
             "referenceLink": "https://us02web.zoom.us/webinar/register/WN_0AyLNPx7RFyErSQ5p223XA#/registration",
-            "description": "Participation is open to everyone and a digital participation certificate will be shared with live viewers.\n\nWe are coming together on the evening of October 10, 2024, at 21.00 to talk about body-oriented work in couple therapy with Jennifer Gardner, an instructor from the International Sensorimotor Psychotherapy Institute.\n\nHow can we benefit from body-oriented work while working with couples? What are the body-oriented practices and techniques we can use to strengthen the couple's relationship?\n\nLet’s grow and learn together. Looking forward to seeing you on October 10 at 21:00."
+            "description": "Open to all participants, and digital participation certificates will be shared with those who watch live.\n\nOn the evening of 10 October 2024 at 21:00, we come together with Jennifer Gardner, an instructor from the International Sensorimotor Psychotherapy Institute, to discuss body-focused practices in couples therapy.\n\nHow can we benefit from body-focused practices when working with couples? What body-focused techniques can we use to strengthen the relationship?\n\nLet’s grow together and learn together. See you on the evening of 10 October at 21:00..."
         },
         {
             "id": "31",
             "name": "Online Psychology Summit",
             "image": "https://i.imgur.com/iONL2mY.png",
-            "eventHost": "Alfa Event",
+            "eventHost": "Alfa Events",
             "eventDate": "1-4 November",
             "referenceLink": "https://alfaetkinlik.com/etkinlikdetay.aspx?seminer=online-psikoloji-zirvesi-1-4-kasim-2024#kaydol",
-            "description": "WITH ITS GREAT LINEUP, WE ARE WITH YOU WITH A PSYCHOLOGY SUMMIT THAT HAS NEVER BEEN DONE IN TURKEY BEFORE!\n\nWHY ONLINE EVENT?\n\nCONNECT AND WATCH FROM YOUR HOME, WORKPLACE, OR WHEREVER YOU WANT\n\nLISTEN TO MORE SPEAKERS AND EARN MORE CERTIFICATES WITH LOWER TICKET FEES\n\nREPEAT AND REINFORCE THE SESSIONS YOU WATCHED ONLINE FOR 30 DAYS\n\nHAVE MORE INTERACTIVE Q&A SESSIONS WITH THE TRAINERS\n\n4 DAYS, 12 SPEAKERS, 12 DIGITAL CERTIFICATES WITH OUR ONLINE PSYCHOLOGY SUMMIT ON 1-2-3-4 NOVEMBER!\n\nDON’T MISS THIS GREAT CONFERENCE, GET YOUR TICKET NOW! 12 ONLINE SESSIONS, 12 DIGITAL CERTIFICATES! WATCH AGAIN FOR 30 DAYS!"
+            "description": "WE ARE WITH YOU WITH A PSYCHOLOGY SUMMIT THAT HAS NEVER BEEN DONE BEFORE IN TURKEY, WITH AN AMAZING LINEUP!\n\nWHY AN ONLINE EVENT?\n\nWATCH FROM YOUR HOME, WORKPLACE, OR ANYWHERE YOU WANT.\n\nWITH LOWER TICKET PRICES, GET A CHANCE TO LISTEN TO MORE SPEAKERS AND OBTAIN MORE CERTIFICATES.\n\nREWATCH THE SESSIONS YOU ATTENDED ONLINE FOR 30 DAYS TO REINFORCE WHAT YOU’VE LEARNED.\n\nEXPERIENCE MORE INTERACTIVE Q&A SESSIONS WITH THE SPEAKERS.\n\n4 DAYS, 12 SPEAKERS, 12 SPECIAL DIGITAL CERTIFICATES!\n\nDON'T MISS THIS AMAZING CONFERENCE, GET YOUR TICKET NOW! 12 ONLINE SESSIONS, 12 DIGITAL CERTIFICATES! REWATCH FOR 30 DAYS!"
+        },
+        {
+            "id": "1000",
+            "name": "Solution-Focused Brief Therapy for Children and Schools",
+            "image": "https://i.imgur.com/XsAfytI.png",
+            "eventHost": "Psychology Academy",
+            "eventDate": "2-3 November",
+            "referenceLink": "https://psikolojiakademisi.com/sertifikalar/cocuk-ve-okul-odakli-kisa-sureli-cozum-odakli-terapi-sertifika-programi/",
+            "description": "Solution-focused brief therapy consists of a set of special techniques that therapists and counselors can use during the counseling process. This certification program aims to teach how to apply this set of techniques to children.\n\nThese techniques help the client focus on their strengths and the times when the problem does not occur and are supported by various tasks and exercises. With a “problem occurs, solution found” perspective, change is initiated by encouraging the client to try ways they have never attempted before, recall periods when the problem was manageable, and tap into their positive sides. Change is achieved, and developmental contributions are made to sustain this change. The focus is on Here and Now, not the past or future. By keeping workable solutions and changing ineffective ones, continuity of change is ensured. This certification program aims to equip professionals working with children and in school settings with the skills to apply Solution-Focused Brief Therapy techniques.\n\nProgram Content\n\nHistory and development of solution-focused brief therapy\nBasic principles of solution-focused brief therapy and its areas of use in therapy\nBuilding a therapeutic relationship with child clients,\nObtaining a problem description and setting goals with the child client and family.\nRevealing exceptional situations and grading the problem\nDirecting the client towards solutions with miracle questions\nExamples of solution-focused counseling approach questions through role plays\nApplying solution-focused brief therapy techniques to child clients\n\nInstructor: Uzm. Kl. Psk. Pınar Gümüş Sarı\n\nCertification Program Dates\n2-3 November\nParticipant eligibility: Only 3rd and 4th year students and graduates of psychology and psychological counseling and guidance can participate in this program."
         }
     ]
 }
