@@ -1,20 +1,20 @@
 {
   "jobListings": [
     {
+      "id": 10000,
+      "companyName": "Sez Psikoloji ve Danışmanlık Merkezi",
+      "title": "Psikolog",
+      "link": "https://www.linkedin.com/jobs/view/4013125208",
+      "location": "İstanbul(Kadıköy)",
+      "description": "Sez Psikoloji Ve Danışmanlık Merkezi olarak Kadıköy / Kozyatağı'nda bulunan ofisimizi ergen, yetişkin ve çift alanlarında psikoterapi hizmeti veren meslektaşlarımıza ofis paylaşımı şeklinde açıyoruz.\n\n•Günlük/aylık/saatlik kiralamalar için uygundur.\n•Bireysel ve çift terapi odası bulunmaktadır.\n\nEtik kurallar çerçevesinde çalışan, kendi danışan portföyüne sahip meslektaşlarımız aşağıdaki iletişim bilgilerine ulaşarak detaylı bilgi alabilirler.\n\nSuadiye Marmaray'a ve Emin Ali Paşa Metrosu'na yürüyerek 10 dk, minibüs caddesine yürüyerek 1 dakika mesafededir."
+    },
+    {
       "id": 1,
       "companyName": "1001 Terapist",
       "title": "Klinik Psikolog",
       "link": "https://www.linkedin.com/jobs/view/3973713236",
       "location": "Uzaktan",
       "description": "1001Terapist Platformu; Psikolog, Psikiyatrist ve Psikolojik Danışmanlık Alanında Çalışan Ruh Sağlığı Uzmanları ile Psikolojik Destek Almak İsteyen Kişileri Bir Araya Getiren Bir Platformdur. 1001Terapist Platformu, Başvurusu Olumlu Değerlendirilmiş Olan ve Abonelik Paketi Hizmeti Alan Terapistleri Çevrimiçi Bir Şekilde Listeler. Danışan Uygun Filtrelemelerle Kendisine En Uygun Terapistten Online veya Yüz yüze Randevu Talep Edebilir.\n\nDanışanların Daha Hızlı Ve Pratik Bir Şekilde 1001Terapist.com'a Kayıtlı Terapistlerden Hizmet Almasını Kolaylaştıracak Her Türlü Dijital Yeniliğe Yönelik Kendimizi Güncel Tutuyoruz. Arama Motorlarında Görünürlüğünüzü En Üst Seviyeye Taşımak Ve Danışanların Web Site İçerisinde Kaliteli Vakit Geçirmesini Sağlamak Amacı İle Sınırları Zorluyoruz. Platformumuza Kayıtlı Terapistlerimizin Etik İlkeleri Ön Planda Tutan ve Kendi Alanlarında Uzman Olan Terapistlerden Oluşması Birinci Önceliğimizdir.\n\n1001Terapist Platformu Başvurularında Dikkate Alınacak Kriterler:\n\n● Psikoloji lisans bölümünden mezun,\n● Terapi uygulamalarına hâkim,\n● Danışan takibi tecrübesi olan,\n● Alanıyla ilgili yöntem ve yeni gelişmelere hâkim olan,\n● Süpervizyon almış ya da halen almakta olan,\n● Etik değerlere önem veren"
-    },
-    {
-      "id": 2,
-      "companyName": "Uzm. Dr. Burak Toprak Kliniği",
-      "title": "Klinik Psikolog",
-      "link": "https://www.linkedin.com/jobs/view/4003671709",
-      "location": "İstanbul(Kadıköy)",
-      "description": "Merhabalar, alanında deneyimli, kendi danışan portföyüne sahip, Klinik Psikolog ekip arkadaşları arıyoruz. Psikoterapi hizmetlerinde yetkin, çeşitli psikolojik rahatsızlıklar ve yaşam zorlukları ile başa çıkma konusunda danışanlara destek verebilecek bir uzman arayışındayız. Eğer siz de kendi danışan kitlenizle hizmet vermeye devam etmek istiyor ve aynı zamanda profesyonel bir ekip ile çalışmak istiyorsanız, başvurunuzu bekliyoruz!\n\nAranan Nitelikler:\n\n• Üniversitelerin Psikoloji bölümünden mezun, Klinik Psikoloji alanında yüksek lisans yapmış.\n• En az [5] yıl deneyim sahibi.\n• Kendi danışan portföyüne sahip.\n• Psikoterapi teknikleri ve etik kurallar konusunda bilgi sahibi.\n• İnsan ilişkilerinde güçlü, empati yeteneği gelişmiş.\n• Mesleki gelişimine önem veren ve düzenli olarak süpervizyon alan.\n• Terapi sürecini etik ve gizlilik ilkelerine uygun şekilde yönetebilecek.\n\nSorumluluklar:\n\n• Danışanlarla bireysel seanslar gerçekleştirmek.\n• Danışanların ihtiyaçlarına yönelik terapi planı oluşturmak ve uygulamak.\n• Gerekli durumlarda değerlendirme testleri uygulamak.\n• Danışan süreçlerini ve ilerlemelerini düzenli olarak takip etmek ve kayıt altına almak.\n• Diğer ekip üyeleri ile işbirliği içinde çalışmak.\n\nNe Sunuyoruz:\n\n• Profesyonel ve destekleyici bir çalışma ortamı.\n• Sürekli eğitim ve gelişim imkanları.\n• Esnek çalışma saatleri ve kendi programınızı oluşturma fırsatı.\n\nEğer bu pozisyon ilginizi çekiyorsa ve belirtilen niteliklere sahipseniz, lütfen özgeçmişinizi ve niyet mektubunuzu buraktoprakklinigi@hotmail.com adresine gönderin."
     },
     {
       "id": 3,
@@ -25,100 +25,12 @@
       "description": "Hiwell, danışanların kendilerini daha iyi tanımalarını, daha iyi hissetmelerini ve hayata karşı daha pozitif bir bakış açısı geliştirmelerini sağlamak için kurulmuş ve 1000 kişilik psikolog havuzuyla birlikte 350.000'den fazla danışanın tercih ettiği Türkiye'nin en büyük online terapi platformudur. Web sitemiz ve mobil uygulamamız aracılığıyla danışanlar ve uzman psikologlar arasında bir köprü oluşturarak en sağlıklı iletişimin kurulmasını amaçlıyoruz.\n\nNasıl Çalışıyoruz?\n\nMobil uygulamamız sayesinde danışanlarımız daha hızlı ve pratik bir şekilde uzman psikologlarımızdan hizmet alabiliyorlar. Danışanlarımıza en iyi şekilde hizmet sağlayabilmek adına kendi alanlarında uzman olan psikologlar ile çalışıyoruz. Uzman psikolog ekibimizin; yüksek lisansını Klinik Psikoloji ya da Aile ve Çift Terapisi alanlarında tamamlamış, süpervizyon alan/almış, etik çalışmayı ön planda tutan psikologlardan oluşması birinci önceliğimiz.\n\nHiwell tamamen online çalışma imkanı sunar. Bu nedenle istediğiniz zamanda, istediğiniz şehirden çalışmak sizin kontrolünüzdedir.\n\n● Psikoloji lisans bölümünden mezun,\n● Klinik Psikoloji ya da Aile ve Çift Terapisi yüksek lisans diplomasına sahip,\n● Terapi uygulamalarına hâkim,\n● Danışan takibi tecrübesi olan,\n● Alanıyla ilgili yöntem ve teknolojilere hâkim,\n● Süpervizyon almış ya da halen almakta olan,\n● Etik değerlere önem veren\n\nEğer yukarıda belirtilen niteliklere sahipseniz başvurunuzu heyecanla bekliyoruz!"
     },
     {
-      "id": 4,
-      "companyName": "Rehber Klinik",
-      "title": "Psikoloji Stajyeri",
-      "link": "https://www.linkedin.com/jobs/view/3953377649",
-      "location": "Uzaktan",
-      "description": "Şirketimiz, klinik psikoloji departmanında staj yapmak isteyen yetenekli ve öğrenmeye açık stajyerler arıyor. Öğrenci veya yeni mezunsanız, Rehber Klinik'in 'klinik psikoloji' staj programımızda online staj yapma imkanı bulabilirsiniz. Staj programımız kapsamında ailemizin bir parçası olup, kurum kültürümüzü yakından tanıma ve kurumsal ortam içerisinde değerli deneyimlere katılma fırsatı yakalayabilirsiniz.\n\nGörevler ve Sorumluluklar\n\nSpor Psikolojisi, Mindfulness Temelli Terapi, Bilişsel Davranışçı Terapi ve Sanat Terapisi alanlarında ilgili departmana katkıda bulunmak,\nKlinik Psikoloji departmanının süpervizyon süreçleri içinde bulunmak.\nKlinik Psikoloji departmanının danışman sürecine destekte bulunmak.\nKlinik Psikoloji departmanının kurumsal iletişim modellerinde destek sağlamak.\nKlinik Psikoloji projelerine katılmak ve veri analizi yapmak.\n\nAranan Nitelikler\n\nÜniversitelerin Psikoloji, Psikolojik Danışmanlık ve Rehberlik bölümlerinde lisans veya yüksek lisans öğrencisi yada mezunu olmak.\nİnsan ilişkilerinde güçlü iletişim becerilerine sahip olmak.\nEkip çalışmasına yatkın olmak ve öğrenmeye istekli olmak.\n\nNot: Staj süreci online olduğu için stajyerlere herhangi bir ücret ödenmemektedir ve programa katılım ücretsizdir. Sertifika, referans mektubu, portfolyo dosyası ve yurt dışı staj programı burs hakkı ücretsizdir."
-    },
-    {
-      "id": 5,
-      "companyName": "Therapia Psikoloji",
-      "title": "Psikolog",
-      "link": "https://www.linkedin.com/jobs/view/3793836869",
-      "location": "İstanbul",
-      "description": "Bireysel / Ergen / Aile / Çift / Oyun Terapisi alanlarında yarı zamanlı/danışan yönlendirmek üzere çalışabilecek psikolog arayışımız bulunmaktadır.\nKendisini eğitim ve süpervizyonlar ile geliştiren,\nEn az bir terapi ekolünde uzmanlaşmış ve uygulayabilen,\nDanışan sürdürebilirliğini sağlayabilen,\nBakırköy ve Gaziosmanpaşa' da bulunan merkezimizde psikolog, psikolojik danışman çalışma arkadaşları aramaktayız."
-    },
-    {
-      "id": 6,
-      "companyName": "Değişim Psikoloji",
-      "title": "Psikolog",
-      "link": "https://www.linkedin.com/jobs/view/4004987201",
-      "location": "Ankara(Keçiören)",
-      "description": "**Stajyer Psikolog/Psikolojik Danışman İş İlanı**\n\n**İş Tanımı:**\nGelişen ve dinamik ekibimize katılacak bir Stajyer Psikolog/ psikolojik danışman arıyoruz. Bu pozisyon, üniversitelerin psikoloji ve Psikolojik Danışmanlık ve Rehberlik bölümlerinde öğrenim gören öğrencilerin yaz döneminde gönüllü stajı için bir fırsat sunmaktadır.\n\n**Görev ve Sorumluluklar:**\n- Danışanlarla grup görüşmelerini kurum psikolojik danışmanı koordinatörlüğünde gözlemlemek,\n- Psikolojik değerlendirmeler ve testler uygulama sürecinde gözlemlemek,\n- Çocuk ve ergenlerle dikkat-algı çalışmalarında müdahaleler, etkinlikler planlamak ve uzman koordinatörlüğünde uygulamak\n- Gelişimsel raporlar hazırlamak\n- Danışan dosyalarını düzenli ve güncel tutmak\n- Süpervizyon toplantılarına katılmak ve geri bildirim almak\n- Eğitim ve seminerler, atölyelere katılmak\n\n**Aranan Nitelikler:**\n- Üniversitelerin Psikoloji/PDR bölümünde lisans 3.-4. Sınıf öğrencisi olmak ya da yeni mezun\n- Etkili iletişim ve empati yeteneğine sahip olmak\n- Problem çözme ve analitik düşünme becerilerine sahip olmak\n- Ekip çalışmasına yatkın olmak\n- Microsoft Office programlarını kullanabilmek\n- Stajyer olarak haftada en az 3 gün çalışabilecek olmak\n\n**Neler Sunuyoruz:**\n- Profesyonel ve destekleyici bir çalışma ortamı\n- Sürekli eğitim ve gelişim fırsatları\n- Süpervizyon ve mentorluk\n- Kariyer planlama ve gelişim desteği\n- Uygun görülen adaylara nihai staj katılım belgesi ve referans mektubu\n\n**Başvuru:**\nBaşvurmak isteyen adayların, güncel özgeçmişlerini ve niyet mektuplarını “ psik.dan.egeberyuz@gmail.com “adresine göndermeleri gerekmektedir. Başvurular titizlikle değerlendirilecek ve uygun adaylarla iletişime geçilecektir.\n\n**İletişim Bilgileri:**\nDeğişim Psikolojik Danışmanlık Merkezi\nAdres: Kavacık mah. Şehit Ömer Halisdemir Bul. No:69 Subayevleri, Keçiören/ANKARA"
-    },
-    {
-      "id": 7,
-      "companyName": "Serüven Psikoloji",
-      "title": "Psikolog",
-      "link": "https://www.linkedin.com/jobs/view/4002561042",
-      "location": "Ankara",
-      "description": "*PAYLAŞIMLI OFİS İLANI*\n\nSerüven Psikoloji’de yetişkin çocuk ve çiftler için psikolojik destek, danışmanlık ve psikoterapi, psikolojik değerlendirme ve psikolojik test hizmeti sunulmakta. Bireysel görüşme için, çiftlerle görüşme için, oyun terapisi için odalarımızın yanısıra bekleme salonumuz, eğitim toplantı alanımız ve dinlenirken kahvenizi alabileceğiniz alanımız bulunmaktadır. Ankara’nın merkezinde, Kızılay meydanına yakın Mithatpaşa Caddesindeyiz.\nKurumumuz;\n-Psikolog\n-Psikiyatrist\n-Psikolojik Danışman\n-Dil ve Konuşma Terapisti\n-Çocuk Gelişim Uzmanı \n\n-Diyetisyen \n\niçin kullanıma açıktır."
-    },
-    {
       "id": 8,
       "companyName": "Özne Danışma Merkezi",
       "title": "Psikolog (Oda Paylaşım)",
       "link": "https://www.linkedin.com/jobs/view/4004914611",
       "location": "İzmir",
       "description": "Seans odalarımız ( 2 yetişkin 1 çocuk odası ) alanında deneyimli meslektaşlarımız için paylaşıma açılmıştır. Uzmanlar kendi danışanları ile başvurabilir."
-    },
-    {
-      "id": 9,
-      "companyName": "Pilea Psikoloji Merkezi",
-      "title": "Psikolog",
-      "link": "https://www.linkedin.com/jobs/view/3999090533",
-      "location": "İzmir",
-      "description": "Bostanlı Karşıyaka’da bulunan ofisimiz Pilea Psikoloji için çalışma arkadaşı arıyoruz. \n-Kendi danışan portföyü ile çalışan,\n-Mesleki etik ilkelere önem veren, \n-En az iki yıldır aktif danışan takip eden,\n-Temel psikoterapi ekollerinden en az bir tanesini süpervizyon süreci ile tamamlamış,\nuzmanlar ilana başvurabilirler."
-    },
-    {
-      "id": 10,
-      "companyName": "Yalı Psikoloji",
-      "title": "Psikolog",
-      "link": "https://www.linkedin.com/jobs/view/3738183839",
-      "location": "İzmir",
-      "description": "Ofis Paylaşımı\n\nGüzelyalı mevkinde bulunan Yalı Psikoloji Danışmanlık Merkezi ofis paylaşımına açılmıştır. Kendi danışanlarıyla çalışmak isteyen, mesleki etik ve ilkelere özen gösteren uzmanlarımız için saatlik ofis paylaşımı yapmaktayız.\n\nMerkezimizde bir görüşme ve bir oyun odası bulunmaktadır."
-    },
-    {
-      "id": 11,
-      "companyName": "Klinik Psikolog Yağız Karataşoğlu",
-      "title": "Stajyer Psikolog",
-      "link": "https://www.linkedin.com/jobs/view/4005324447",
-      "location": "İstanbul(Nişantaşı)",
-      "description": "Nişantaşı/ Osmanbey bulunan kliniğim için stajyer arayışım bulunmaktadır.\n\nAranan Nitelikler\n\n*Psikoloji ve PDR Bölümü 4. Sınıf, Yeni Mezun ya da Klinik Psikoloji YL öğrencileri başvurabilir.\n\n* Psikodinamik / Psikanalitik Yaklaşım ve Kişilik Bozukluklarına ilgi duyan bu konularla ilgili en az giriş düzeyinde ders/eğitim almış olması beklenmektedir.\n\n*Staj süresi haftada 1 gün olmak üzere 12 Hafta olarak planlanmaktadır.\n\n*Staj programı tamamen ücretsizdir. \n\n*Staja başvurmayı düşünen adaylar; pskyagizkaratasoglu@gmail.com adresine ön yazılarını ve CV’lerini iletebilirler. ( Almış oldukları dersleri de içerebilir. )\n\n*Ayrıca klnpskyagizkaratasoglu instagram hesabından da başvuru yapabilir, güncel staj ve eğitimlerle ilgili bilgi alabilirsiniz. \n\n* Her 12 Haftalık sürecin sonunda yeni stajyerler alıma kabul edilecek ve onlarla iletişime geçilerek programa davet edilecektir."
-    },
-    {
-      "id": 12,
-      "companyName": "Neo Auvra",
-      "title": "Bilişsel Bilimci / Bilişsel Psikolog",
-      "link": "https://www.linkedin.com/jobs/view/3985654244",
-      "location": "İstanbul",
-      "description": "Hızla büyüyen Teknoloji şirketimiz için Bilişsel Bilimci/ Bilişsel Psikolog arıyoruz. Bu tam zamanlı ve ofis içi bir pozisyondur.\n\nSorumluluklar\nVR tabanlı platformlar aracılığıyla geçerli, güvenilir, son teknoloji bilişsel ölçümler geliştirmek\nÇok çeşitli bilişsel yetenekleri ölçmek için VR tabanlı deneyimler tasarlamak\nDerinlemesine literatür araştırması yapmak ve özetler hazırlamak\nVeri toplama, temizleme ve analiz işlemlerini yürütmek\nVeri analizi sonuçlarını iletişimle aktarmak\nÜrün geliştirme sürecinin tüm aşamalarına katılmak\nÖlçüm geliştirme, veri toplama, veri analizi ve ölçüm iyileştirme sürecinin tüm adımlarını belgelemek\n\nGereksinimler\n\nLaboratuvar araştırmalarında en az 5 yıllık deneyim\n\nBilişsel Bilim/ Bilişsel Psikoloji alanında en az Yüksek Lisans derecesi\nPsikoloji, Bilişsel Bilim veya Bilişsel Psikoloji alanında saygın bir üniversiteden Doktora derecesi bir artıdır\nBilimsel literatürü okuma ve özetleme konusunda mükemmel beceriler\nR, Matlab veya Python bilgisi\nAkademik araştırma, istatistik ve veri analizi konusunda mükemmel beceriler\nÖzellikle veri içgörülerini iletişimle aktarma konusunda mükemmel iletişim becerileri\nTeknoloji ve bilişsel bilime tutku\nDeğerlendirme tekniklerini hızlı öğrenme yeteneği\nBilişsel Bilim literatürüne iyi bir hakimiyet\nİngilizce dilinde mükemmel derecede hakimiyet\nİstanbul'da ikamet eden (veya taşınmaya istekli). Altunizade'ye ulaşım sağlayabilecek durumda olmak"
-    },
-    {
-      "id": 13,
-      "companyName": "Berre İncekara Beslenme ve Danışmanlık Merkezi",
-      "title": "Psikolog",
-      "link": "https://www.linkedin.com/jobs/view/4006271365",
-      "location": "Bursa",
-      "description": "Merhaba! \n\nFSM Bulvar 224’te yeni açılacak ofisimizde bizimle yol arkadaşlığı edecek bir kadın psikolog arayışımız var.\n\nHem yeme bozuklukları alanında beraber çalışabileceğimiz hem de ofisimizde kendine ait odasında kendi danışanlarını alabilecek, binevi yolculuğumuza ortak olacak biriyle çalışmak istiyoruz.\n\nŞartlar:\n-Üniversitelerin Psikoloji veya Psikolojik Danışmanlık Bölümü’nden mezun olan\n-Yeme bozuklukları alanına ilgili\n-Güleryüzlü, pozitif ve danışanlarla iyi iletişim kuran\n-Kendi danışan profiline sahip\n-Kişisel bakımına özen gösteren\n-Takım çalışmasına yatkın adaylar iletişim kurabilir. \n\nNot: Oda kirası üzerinden şartlar konuşulacak ortak alan kullanıma dahil olacaktır."
-    },
-    {
-      "id": 14,
-      "companyName": "Peace Therapist",
-      "title": "Psikolog",
-      "link": "https://www.linkedin.com/jobs/view/4002387148",
-      "location": "Kahramanmaraş",
-      "description": "İş İlanı: Psikososyal Destek Atölyeleri İçin Psikolog Aranıyor\nŞirket/Dernek: Peace Therapist\nProje: Psikososyal Destek Atölyeleri\nKonum: Kahramanmaraş, Türkiye\nÇalışma Şekli: Yüz yüze, Proje Bazlı\n\nİş Tanımı:\n\nPeace Therapist olarak, Kahramanmaraş'ta yaşayan 12-16 yaş grubundaki çocuklar ve 17-30 yaş arasındaki gençlere yönelik psikososyal destek atölyeleri düzenlemek üzere deneyimli bir psikolog arıyoruz. Bu atölyeler, katılımcıların erken iyileşme süreçlerine katkıda bulunmayı amaçlamaktadır.\n\nSorumluluklar:\n12-16 yaş grubu çocuklar ve 17-30 yaş arasındaki gençlere yönelik grup oturumları düzenlemek.\n7 ay boyunca toplam 32 atölye gerçekleştirmek.\nKatılımcıların iyileşme süreçlerine katkıda bulunmak ve oturumların etkinliğini değerlendirmek.\nAra ve final raporları hazırlamak.\n\nAranan Nitelikler:\nPsikoloji lisans veya yüksek lisans mezunu.\nÇocuklar, ergenler ve gençlerle çalışma deneyimi olan.\nGrup terapi ve travma yönetimi konusunda en az\n2 yıl deneyim sahibi.\nTravma sonrası stres yönetimi eğitimi almış olmak.\nPsikososyal grup etkinlikleri düzenleme deneyimine sahip.\nSüpervizyon almış ve bu bilgiyi paylaşabilecek.\nSivil toplum alanında çalışma deneyimi olan.\nKahramanmaraş'ta ikamet ediyor olmak.\n\nAvantajlar:\nKahramanmaraş'ta gerçekleşecek projede yer alarak afet bölgesindeki çocuklar ve gençlere destek olma fırsatı.\nProfesyonel gelişim ve süpervizyon imkanı.\nTopluma katkı sağlayacak anlamlı bir projede yer alma.\n\nBaşvuru: Başvurunuzu özgeçmişiniz ve referanslarınızla birlikte peacetherapist@gmail.com adresine iletmenizi rica ederiz. Başvuruların son tarihi 30.08.2024 olarak belirlenmiştir.\nPeace Therapist olarak, toplumun ihtiyaçlarına yönelik projelerimizde bizimle çalışacak, dinamik ve deneyimli bir ekip arkadaşı arıyoruz."
-    },
-    {
-      "id": 15,
-      "companyName": "Sensa Sağlık ve Psikolojik Danışmanlık Merkezi",
-      "title": "Psikolog",
-      "link": "https://www.linkedin.com/jobs/view/4004289575",
-      "location": "Konya",
-      "description": "Kiralık Oda\n\nSensa Sağlık ve Psikolojik Danışmanlık Merkezi\n\nMeram Havzan bölgesinde bulunan Sensa Sağlık ve Psikolojik Danışmanlık Merkezi olarak, bünyemizde bulunan bir adet boş odamızı, sabit aylık kullanım gerektiren bir psikolojik danışmana, psikoloğa, diyetisyene veya aile danışmanına kiralamak istiyoruz. Merkezimizde yer alan bu oda, meslektaşlarımızın ihtiyaçlarına uygun olarak düzenlenmiş olup, düzenli kullanım için ideal bir ortam sunmaktadır.\n\nAradığımız psikolojik danışmana, psikolog, diyetisyen veya aile danışmanı kendi danışanları ile ilgilenmek üzere odayı sabit bir ücret karşılığında aylık olarak kiralayabilecektir.\n\nEğer siz de profesyonel bir ortamda hizmet sunmak istiyorsanız, bizimle iletişime geçebilirsiniz."
     },
     {
       "id": 16,
@@ -129,12 +41,52 @@
       "description": "Hakkımızda:\n\n360 Sağlık, Türkiye'nin en hızlı büyüyen sağlık teknolojileri startup'ıdır. Sağlık Bakanlığı tarafından onaylanmış, güçlü bir teknoloji ekibine sahip olan firmamız, kendi altyapısı üzerinden evde bakım ve laboratuvar hizmetlerini optimum şekilde sunmayı hedeflemektedir. Misyonumuz, dijital sağlık hizmetleri ve mobil sağlık ekibimiz aracılığıyla sağlık hizmetlerini herkes için erişilebilir ve kolay hale getirmektir.\n\nİş Tanımı:\n\n360 Sağlık olarak, klinik psikoloji alanında uzmanlaşmış, online ve yüz yüze terapi hizmetlerinde en az 2 yıl deneyimli Klinik Psikolog arayışındayız. Bu pozisyonda, danışanlarımıza etik çerçeveler içinde psikoterapi hizmetleri sunacak ve 360 Sağlık'ın yenilikçi sağlık çözümlerinin uygulanmasına katkı sağlanması gerekmektedir.\n\nGörev ve Sorumluluklar:\nBireysel, çift ve grup terapileri gerçekleştirerek, danışanların psikolojik ihtiyaçlarını değerlendirmek ve kişiye özel tedavi planları geliştirmek,\nOnline platformlar aracılığıyla düzenli olarak danışanlarla terapi seansları yürütmek,\nGizlilik ilkelerine sıkı sıkıya bağlı kalarak, tüm vaka dosyalarını ve terapötik notları titizlikle tutmak,\nSağlık hizmetlerimizin kalitesini artırmaya yönelik geri bildirim sağlamak ve bu süreçte aktif rol almak,\nYeni psikoterapi yaklaşımlarını ve teknolojik gelişmeleri yakından takip ederek, sürekli mesleki gelişimi desteklemek.\n\nAranan Nitelikler:\n\nKlinik Psikoloji alanında YÖK onaylı Yüksek Lisans derecesine (Zorunlu) sahip olmak,\nOnline terapi hizmetlerinde deneyim sahibi olmak,\nPsikoterapi teknikleri konusunda benimsediği psikoloji ekolünde ileri düzey bilgi, uygulama becerisi ve yetkinliğe sahip olmak,\nEtik değerlere bağlılık,\nGüçlü iletişim becerileri ve ekip çalışmasına yatkınlık,\nKendini geliştirmeye açıklık,\nMesleki gelişimine katkı sağlayacak kurs, seminer, süpervizyonlara katılmaya meraklı,\nBireysel terapi sürecini tamamlamış ya da başlamış olmak,\nSerbest meslek mensubu statüsünde olmak.\n\nNeler Sunuyoruz:\n\nDinamik, yenilikçi ve profesyonel bir çalışma ortamı,\nPerformansa dayalı, rekabetçi maaş ve prim sistemi,\nKongre, eğitim ve her hafta yapılan düzenli süpervizyonlar yoluyla mesleki gelişim fırsatları ve kariyer imkanı,\nOnline terapi hizmetlerinde esnek çalışma saatleri,\nSağlık sektöründe uzun vadeli kariyer yapma fırsatı.\n\nEğer siz de 360 Sağlık'ın büyüyen ekibine katılmak ve klinik psikoloji alanında fark yaratmak istiyorsanız, başvurularınızı bekliyoruz"
     },
     {
-      "id": 17,
-      "companyName": "Lena Psikoloji",
+      "id": 212,
+      "companyName": "Marka Psikoloji Koçluk Akademi",
+      "title": "Psikoloji Bölümü Öğrenci Stajı",
+      "link": "https://www.linkedin.com/jobs/view/4006983002",
+      "location": "Bursa",
+      "description": "Uludağ Üniversitesi ya da Bursa\nTeknik Üniversitesi Psikoloji Bölümü 1-2-3. Sınıf Öğrencisi\nİletişim Becerileri Yüksek\nÇocuklarla bağ kurabilen\nAilesiyle Bursa’da İkamet Eden\nYıl boyunca haftada 1 tam gün gelebilecek."
+    },
+    {
+      "id": 515,
+      "companyName": "Değişim Psikoloji",
+      "title": "Stajyer Psikolog ve Psikolojik Danışman",
+      "link": "https://www.linkedin.com/jobs/view/4015237766",
+      "location": "Ankara(Keçiören)",
+      "description": "Gelişen ve dinamik ekibimize katılacak bir Stajyer Psikolog/ psikolojik danışman arıyoruz. Bu pozisyon, üniversitelerin psikoloji ve Psikolojik Danışmanlık ve Rehberlik bölümlerinde öğrenim gören öğrencilerin yaz döneminde gönüllü stajı için bir fırsat sunmaktadır.\n\nGörev ve Sorumluluklar:\n- Danışanlarla grup görüşmelerini kurum psikolojik danışmanı koordinatörlüğünde gözlemlemek,\n- Psikolojik değerlendirmeler ve testler uygulama sürecinde gözlemlemek,\n- Çocuk ve ergenlerle dikkat-algı çalışmalarında müdahaleler, etkinlikler planlamak ve uzman koordinatörlüğünde uygulamak\n- Gelişimsel raporlar hazırlamak\n- Danışan dosyalarını düzenli ve güncel tutmak\n- Süpervizyon toplantılarına katılmak ve geri bildirim almak\n- Eğitim ve seminerler, atölyelere katılmak\n\nAranan Nitelikler:\n- Üniversitelerin Psikoloji/PDR bölümünde lisans 3.-4. Sınıf öğrencisi olmak ya da yeni mezun\n- Etkili iletişim ve empati yeteneğine sahip olmak\n- Problem çözme ve analitik düşünme becerilerine sahip olmak\n- Ekip çalışmasına yatkın olmak\n- Microsoft Office programlarını kullanabilmek\n- Stajyer olarak haftada en az 3 gün çalışabilecek olmak\n\nNeler Sunuyoruz:\n- Profesyonel ve destekleyici bir çalışma ortamı\n- Sürekli eğitim ve gelişim fırsatları\n- Süpervizyon ve mentorluk\n- Kariyer planlama ve gelişim desteği\n- Uygun görülen adaylara nihai staj katılım belgesi ve referans mektubu\n\nBaşvuru:\nBaşvurmak isteyen adayların, güncel özgeçmişlerini ve niyet mektuplarını ' psik.dan.egeberyuz@gmail.com 'adresine göndermeleri gerekmektedir. Başvurular titizlikle değerlendirilecek ve uygun adaylarla iletişime geçilecektir."
+    },
+    {
+      "id": 2000,
+      "companyName": "Mira Psikoloji",
+      "title": "Psikolog (Oda Paylaşımı)",
+      "link": "https://www.linkedin.com/jobs/view/4008038915",
+      "location": "İstanbul(Kadıköy)",
+      "description": "Mira Psikoloji olarak Kadıköy/Erenköy’de bulunan ofisimizi, çocuk, ergen, yetişkin ve çift alanlarında psikoterapi veren meslektaşlarımıza ofis paylaşımı şeklinde açıyoruz.\n\n•Günlük/aylık/saatlik şeklinde kiralamalar için de uygundur.\n•Ofisimizde oyun terapi odası ve bireysel terapi odaları bulunmaktadır.\n\nEtik kurallar çerçevesinde çalışan, kendi danışan portföyüne sahip meslektaşlarımız aşağıdaki iletişim bilgilerine ulaşarak detaylı bilgi alabilirler.\n\nBilgi ve başvuru için:\npsikolojimira@gmail.com\n0533 811 65 24"
+    },
+    {
+      "id": 2001,
+      "companyName": "Dafne Psikoloji",
       "title": "Psikolog",
-      "link": "https://www.linkedin.com/jobs/view/3971993781",
-      "location": "Ankara",
-      "description": "Ankara Bahçelievler’deki ofisim paylaşımlı ofis kullanımına açılmıştır. \n\nKendi danışan portföyü olan ya da klinik psikoloji yüksek lisans öğrencisi olanlar başvurabilir."
+      "link": "https://www.linkedin.com/jobs/view/4010889929",
+      "location": "İzmir",
+      "description": "İLAN 1\n\nİzmir/Narlıdere’de bulunan danışmanlık merkezimize yeni ekip arkadaşları arıyoruz.\n· Klinik / Uygulamalı yüksek lisansını tamamlamış,\n· En az 2 yıl psikoterapi tecrübesi olan,\n· Kendi terapi sürecinden geçen/ geçmekte olan, \n\n· ÇMOT, DOT veya EMDR ekollerinden en az birine hakim olan,\n· Çocuk alanlarında çalışmak isteyen,\n· Part time çalışabilecek uzman psikolog alınacaktır.\n\nİLAN 2\n\nİzmir/Narlıdere’de bulunan danışmanlık merkezimize yeni ekip arkadaşları arıyoruz.\n· Klinik / Uygulamalı yüksek lisansını tamamlamış,\n· En az 2 yıl test tecrübesi olan,\n· Kendi terapi sürecinden geçen/ geçmekte olan, \n\n· Cas testi uygulayabilen,\n· Part time çalışabilecek uzman psikolog alınacaktır."
+    },
+    {
+      "id": 5000,
+      "companyName": "Nutrimind Sağlıklı Yaşam Merkezi",
+      "title": "Klinik Psikolog",
+      "link": "https://www.linkedin.com/jobs/view/4015214242",
+      "location": "Bursa(Nilüfer)",
+      "description": "Nutrimind Sağlıklı Yaşam Merkezi'nde birlikte çalışabileceğimiz danışan portföyü olan, etik ilkelere bağlı bir Klinik Psikolog arıyoruz. Anlaşma , oda kiralama ya da komisyon üzerinden olacaktır.\n\nAranan nitelikler:\n\nPsikoloji lisans + klinik psikoloji yüksek lisans tamamlamış olması\nSüpervizyon sürecini tamamlamış ya da devam etmekte olan\nİletişim becerileri kuvvetli, ekip çalışmalarında uyumlu\nBeslenme uzmanı ile ortak işbirlikleri içerisinde bulunabilecek (eğitim/seminer vb.)\nYeme davranışı alanına ilgili/öğrenmeye açık olması\nKendi terapi sürecinden geçmiş/geçmekte olan\nMesleki etik ve ilkelerine bağlı\nEn az bir psikoterapi ekolünde eğitim almış/alıyor olmak\nHali hazırda bir danışan portföyüne sahip olmak."
+    },
+    {
+      "id": 8000,
+      "companyName": "Özel Mersin Boğaziçi Aile Danışma Merkezi",
+      "title": "Klinik psikolog",
+      "link": "https://www.linkedin.com/jobs/view/4006697268",
+      "location": "Yenişehir(İçel)",
+      "description": "Mersin’de, 15 yıldır hizmet verdiğimiz aile danışma merkezimize,\n\n-Klinik psikoloji yüksek lisans eğitimini tamamlamış,\n-En az iki terapi ekolünde deneyimli,\n-EMDR terapisini aktif olarak uygulayabilen,\n-Aile Danışmanlığı eğitimini almış,\n-En az 3 yıl psikoterapi tecrubesi olan,\n-Ergen, yetişkin ve çift alanlarına hakim ( bu alanlardan herhangi biri)\n-Part time çalışabilecek yeni ekip arkadaşları arıyoruz."
     }
   ]
 }
