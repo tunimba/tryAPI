@@ -1,15 +1,6 @@
 {
     "events": [
         {
-            "id": "23",
-            "name": "Narrative Terapi Eğitimi",
-            "image": "https://i.imgur.com/0BRxXdv.png",
-            "eventHost": "Poem Psikoloji",
-            "eventDate": "3 Eylül",
-            "referenceLink": "https://poem.thinkific.com/courses/narrative-terapi-aile-modulu-5-modul",
-            "description": "Narrative Terapi Eğitimi 5. Modül tarihlerimiz güncellendi🥳\n\nNarrative Terapi “Çift ve Aileler” temasıyla eğitimimiz 3 Eylül Salı günü başlıyor."
-        },
-        {
             "id": "16",
             "name": "SPSS Veri Analizi",
             "image": "https://i.imgur.com/EXNaMkU.png",
@@ -17,6 +8,15 @@
             "eventDate": "7-8 Eylül",
             "referenceLink": "https://www.kimpsikoloji.com/spss-veri-analizi-online-egitimi/",
             "description": "SPSS'i tanımak, veri dosyası oluşturmak ve veri girişi, betimsel analizler, güvenirlik, normallik, korelasyon, t testi, anova analizi, regresyon, parametrik olmayan analizlerin anlatımı ve örnek uygulama\n\nBu eğitimin sonunda kendi tezinizi kendiniz yapabileceksiniz.\n\nKatılımcıların SPSS programını eğitimden önce bilgisayarlarına kurmaları gerekmektedir."
+        },
+        {
+            "id": "1010",
+            "name": "Oyun Terapisi ve Temel Teknikler Eğitimi",
+            "image": "https://i.imgur.com/vhN3PJ6.png",
+            "eventHost": "Kim Psikoloji",
+            "eventDate": "8-15 Eylül",
+            "referenceLink": "https://www.kimpsikoloji.com/oyun-terapisine-giris-ve-temel-teknikler-egitimi-online-egitim/",
+            "description": "Oyun terapisi temel kuramsal çerçeve, amaçlar\nLiteratürde kullanılan farklı oyun terapisi methodları\nOyun terapisinde ilişki, ortam ve materyalin nitelikleri\nTerapi sürecinde konumlar, tespitler ve problemlere uygun yol haritaları\nPratik çözüm üzerine , duygusal aktarım sürecine ilişkin methodlar\nVaka çözümleme ve dramatizasyon üzerinden oyun terapisi provaları\nOyunda işlevler, ritüeller ve semboller\nUygulamada karşılaşılacak durumlar ve süreçlerin işlevsel hale getirilmesi"
         },
         {
             "id": "20",
@@ -37,6 +37,15 @@
             "description": "Katılım herkese açıktır ve canlı izleyenlerle dijital katılım belgesi paylaşılacaktır.\n\n12 Eylül 2024 akşamı saat 21.00’de bir araya geliyor ve 'güvenli yuvayı' konuşuyoruz.\n\nGüvenli yuva, Dr. Darcia Narvaez'in geliştirdiği ve bebekler, çocuklar ile ergenlerin potansiyellerine ulaşmaları için gerekli bakım sistemini tanımlayan bir konsepttir. Güvenli yuva, evrimsel olarak kendini kanıtlamış bakım uygulamaları ve çevresel koşullarla çocukların duygusal, sosyal ve fizyolojik ihtiyaçlarını karşılamayı amaçlar.\n\nGüvenli bir yuva nasıl oluşturulur? Bebekler, çocuklar ve ergenler için güvenli yuvayı sağlamak adına ailelerle psikoterapi ve psikoeğitim ne şekilde kullanılabilir? Psikoterapistler, ebeveynler ve eğitimciler, çocukların sağlıklı gelişimini desteklemek için nasıl işbirliği yapabilirler?\n\nGelin birlikte gelişip, bebeklerimiz, çocuklarımız ve ergenlerimiz için güvenli ve destekleyici bir yuva oluşturalım. 12 Eylül saat 21:00’de görüşmek dileğiyle…"
         },
         {
+            "id": "1200",
+            "name": "Psikoterapi Teknikleri Sempozyumu",
+            "image": "https://i.imgur.com/BNnYG25.png",
+            "eventHost": "Genç Psikologlar Meclisi",
+            "eventDate": "14-15 Eylül",
+            "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSejTbgbS9_iQILNIWfpeHcIczFZFhAne3vIB3NmRzkHIIY-wQ/viewform?usp=send_form",
+            "description": "Alanında uzman 5 psikolog ile 5 farklı ekolün yer aldığı sempozyumu heyecanla duyuruyoruz!\n\nYıllardır psikologların ve psikoloji öğrencilerinin hem mesleki hem kişisel gelişimlerini Genç Psikologlar Meclisi olarak çeşitli faaliyetler ile desteklemekteyiz.\n\nAlandaki ihtiyaçlara yönelik olarak organize ettiğimiz faaliyetlerden biri ⬇\n\n'PSİKOTERAPİ TEKNİKLERİ SEMPOZYUMU'\n\nile sizlerleyiz 🙋🏻‍♀\n\nDetaylı bilgi afişte yer almaktadır.\n\n📅 14 - 15 Eylül / Cumartesi - Pazar\n⏳ 13.00 - 17.15\n🚀 Her oturum 1 saat 15 dk sürmektedir.\n📄 Katılım Belgesi\n📌Başvuru formu bio’da.\n‼️Sınırlı Kontenjan\n\nBilim, sevgi ve dayanışma ile."
+        },
+        {
             "id": "13",
             "name": "Bilişsel Davranışçı Terapi Sertifika Programı",
             "image": "https://i.imgur.com/Ae9gz7t.png",
@@ -44,6 +53,42 @@
             "eventDate": "14-15 Eylül",
             "referenceLink": "https://psikolojiakademisi.com/sertifikalar/bilissel-davranisci-terapi-sertifika-programi/",
             "description": "Doç. Dr. Itır Tarı Cömert tarafından düzenlenen BDT Sertifikasyon Programı, 10 Modül ve 130 saatlik bir süreyi kapsamaktadır. Programın içeriği, Doç. Dr. Itır Tarı Cömert’in 20 yıllık BDT deneyimleri ışığında geliştirilen Beck Enstitüsü eğitim programına paralel olarak şekillenmiştir. Katılımcılara, BDT’nin temel kavram ve tekniklerinin teorik bilgisinin yanı sıra, bu tekniklerin terapist tarafından etkili bir şekilde nasıl kullanılacağı ve formülasyonun nasıl yapılacağı konularında pratik deneyim kazandırılacaktır. Program, uygulamalı, örnek seans videoları, rol oyunları, süpervizyon destekli tekrar oturumları ve vaka analizleri gibi çeşitli öğrenme yöntemleriyle desteklenmiştir.Bu sertifikasyon programı, katılımcılara BDT alanında kapsamlı bir bilgi ve beceri kazandırmayı hedeflemektedir. Doç. Dr. Itır Tarı Cömert’in bilgi birikimi ve deneyimleri, programın kalitesini artırmak ve katılımcılara etkili bir öğrenme deneyimi sunmak adına önemli bir kaynak oluşturmaktadır."
+        },
+        {
+            "id": "3000",
+            "name": "Ebeveyn Danışmanlığı Uzman Eğitimi",
+            "image": "https://i.imgur.com/0ORAOXk.png",
+            "eventHost": "Moodist Akademi",
+            "eventDate": "17 Eylül-8 Ekim",
+            "referenceLink": "https://docs.google.com/forms/d/1qfhMAZ8lgZtg0-aYT0UzIt16G8q3eJuMUkUZLQF_DJ0/viewform?edit_requested=true",
+            "description": "🖥️Eğitimimiz Online olarak gerçekleşecektir.\n\n✔️Eğitimimize Psikoloji, PDR, Tıp, Psikiyatri Hemşireliği, Sosyal Hizmet bölümleri mezunları ve öğrencileri katılabilir.\n\n✔️ Katılımcılara Moodist Akademi Onaylı Eğitim Belgesi verilecektir."
+        },
+        {
+            "id": "1005",
+            "name": "Bağımlılık Terapisi Uygulayıcı Eğitimi",
+            "image": "https://i.imgur.com/2SwoNhV.png",
+            "eventHost": "Kim Psikoloji",
+            "eventDate": "17-18 Eylül",
+            "referenceLink": "Psikoterapi ve danışmanlık sürecinde dışavurumcu bir teknik olarak kullanılan terapötik kartlara dair bilgi edinmek ve süreci deneyimlemek.",
+            "description": "https://www.kimpsikoloji.com/bagimlilik-terapisi-uygulayici-egitim/"
+        },
+        {
+            "id": "1001",
+            "name": "Psikoterapide Kullanılan 35 Temel Teknik",
+            "image": "https://i.imgur.com/jsJ4HaK.png",
+            "eventHost": "Psikoloji Akademisi",
+            "eventDate": "21-22 Eylül",
+            "referenceLink": "https://psikolojiakademisi.com/sertifikalar/psikoterapide-kullanilan-35-temel-teknik-sertifika-programi/",
+            "description": "21-22 Eylül tarihlerinde Doç. Dr. Itır Tarı Cömert tarafından gerçekleştirilecek olan “Psikoterapide Kullanılan 35 Temel Teknik Sertifika Programı”na profildeki linkten başvuru formunu doldurarak kayıt olabilirsiniz.\n\nProgram kapsamında katılımcılara hangi ekolle çalışıyor olurlarsa olsun, alet çantalarından eksik etmemeleri gereken, psikoterapi sırasında zorlanıldığında danışan da değişimi hızlıca sağlayan farklı ekollerden 35 temel teknik teorik ve uygulamalı bir şekilde aktarılacaktır.\n\nProgram da katılımcılara birçok farklı ekole ait ve terapide İşlevsel olarak kullanılan birçok temel tekniği uygulama yetkinliğinin kazandırılması hedeflenmektedir. \nProgram boyunca etkinliği kanıtlanmış terapi ekollerinin etkin ve işlevsel olan teknikleri katılımcılara teorik bir şekilde aktarılacaktır. Bu aktarımdan sonra katılımcılara vakalar üzerinden tekniklerin nasıl uygulanacağı detaylıca anlatılacak ve katılımcılara bu teknikler rolplayler ile tecrübe ettirilecektir. Böylece hem teorik hem de teorik bilginin nasıl uygulanacağına dair bilgi birikimiyle program tamamlanacaktır."
+        },
+        {
+            "id": "1100",
+            "name": "Mizaç Eğitimi, Mizaç Temelli İletişim Becerileri, Patoloji ve Koruyucu Ruh Sağlığı",
+            "image": "https://i.imgur.com/6X9GU83.png",
+            "eventHost": "Kim Psikoloji",
+            "eventDate": "27 Eylül",
+            "referenceLink": "https://www.kimpsikoloji.com/mizac-temelli-iletisim-becerileri-patoloji-ve-koruyucu-ruh-sagligi/",
+            "description": "Amaç:\nKendimizi, ailemizi, mesai arkadaşlarımız ve çevremizdekileri daha iyi tanımak ve anlamak\nDanışanların mizaçlarından olası potansiyel patolojileri değerlendirebilmek\nÖfke ve strese karşı ruh sağlığımızı koruma becerilerimizi geliştirmek\nOkulda, İş yerinde yöneticilerimizin ve meslektaşlarımızın tutum ve davranışlarını nedenlerini fark etmek,\nPersonelimizin öğrenme biçimlerini oluşturan kişilik özelliklerini tespit etmek, kısıtlarını ve potansiyellerini öğrenmek, uygun tepkileri vermek\n\nKapsam:\nMizaç yaklaşımı öğrenildikten sonra mizaç testi kullanımı çalışılacak. Sonrasında potansiyel patoloji ve önleyici çalışma değerlendirilecektir. Öğrencilerle mizaç testi ve sunum paylaşılacaktır."
         },
         {
             "id": "12",
@@ -71,6 +116,15 @@
             "eventDate": "1-4 Kasım",
             "referenceLink": "https://alfaetkinlik.com/etkinlikdetay.aspx?seminer=online-psikoloji-zirvesi-1-4-kasim-2024#kaydol",
             "description": "MUHTEŞEM KADROSU İLE TÜRKİYE'DE DAHA ÖNCE YAPILMAMIŞ BİR PSİKOLOJİ ZİRVESİ İLE SİZLERLEYİZ!\n\nNEDEN ONLINE ETKİNLİK?\n\nEVİNDEN, İŞ YERİNDEN VEYA İSTEDİĞİN YERDEN BAĞLANARAK İZLE\n\nDAHA DÜŞÜK BİLET ÜCRETLERİ İLE DAHA ÇOK KONUŞMACI DİNLEME VE DAHA ÇOK BELGE EDİNME İMKANI YAKALA\n\nONLINE OLARAK İZLEDİĞİN OTURUMLARI 30 GÜN BOYUNCA TEKRAR EDİP PEKİŞTİRME İMKANI YAKALA\n\nEĞİTMENLERLE DAHA İNTERAKTİF SORU-CEVAP YAPABİLECEĞİN OTURUMLAR YAŞA\n\n4 GÜN 12 KONUŞMACI 12 İSMİNE ÖZEL DİJİTAL BELGE İLE ONLINE PSİKOLOJİ ZİRVEMİZ 1-2-3-4 KASIM'DA SİZLERLE!\n\nBU MUHTEŞEM KONFERANSI KAÇIRMAYIN, HEMEN BİLETİNİZİ ALIN! 12 ONLINE OTURUM, 12 DİJİTAL BELGE! 30 GÜN TEKRAR İZLEME!"
+        },
+        {
+            "id": "1000",
+            "name": "Çocuk ve Okul Odaklı Kısa Süreli Çözüm Odaklı Terapi",
+            "image": "https://i.imgur.com/XsAfytI.png",
+            "eventHost": "Psikoloji Akademisi",
+            "eventDate": "2-3 Kasım",
+            "referenceLink": "https://psikolojiakademisi.com/sertifikalar/cocuk-ve-okul-odakli-kisa-sureli-cozum-odakli-terapi-sertifika-programi/",
+            "description": "Kısa süreli çözüm odaklı yaklaşım danışma sürecinde terapist ve danışmanların kullanacağı özel teknikler bütününden oluşmaktadır. Bu sertifika programında bu teknikler bütünün çocuklara nasıl uygulanacağının öğretilmesi hedeflenmektedir.\n\nBu teknikler danışanın problemin yaşanmadığı anlardaki durumu ve güçlü yönlerine odaklanmasına yardım etmekte ve çeşitli ödev ve çalışmalar ile desteklenmektedir. “Sorun yaşanır problem çözülür” bakış açısından hareket ile danışandan hız alarak değişim gerçekleştirilir. Danışan, problemin çözümünde daha önce hiç denemediği yolları denemesi, değişim ve problemin baş edilebilir olduğu dönemleri hatırlamak konusunda cesaretlendirilir. Olumlu yanlar açığa çıkartılarak değişim sağlanır ve bu değişimin sürdürülmesi için gelişimsel katkıda bulunulur. Geçmiş ve gelecek değil Şimdi ve Burada kavramlarına odaklanılır. İşe yarar çözümleri tutup işe yaramayan çözümleri değiştirerek değişimin sürekliliği sağlanır. Bu sertifika programında çocuklarla ve okul ortamında öğrencilerle çalışan profesyonellerin Kısa Süreli Çözüm Odaklı Terapi tekniklerini uygulama becerisi kazanması hedeflenmektedir.\n\nProgram İçeriği\n\nKısa süreli çözüm odaklı terapinin tarihçesi ve gelişimi\nKısa süreli çözüm odaklı yaklaşımın temel prensipleri ve terapide kullanım alanları\nÇocuk danışanlar ile terapötik ilişki kurma,\nÇocuk danışanlardan ve aileden roblem tanımı alma ve problem ile ilgili amaç ve hedef belirleme\nİstisnai durumları açığa çıkarma ve problemi derecelendirme\nMucize sorular ile danışanı çözüme yönlendirme\nÇözüm odaklı danışmanlık yaklaşımı soru örnekleri ile role playler\nKısa süreli çözüm odaklı terapi tekniklerinin çocuk danışanlara uygulanması\n\nEğitmen: Uzm. Kl. Psk. Pınar Gümüş Sarı\n\nSertifika Programı Tarihleri\n2-3 Kasım\nKatılımcı özellikleri: Programa yalnızca psikoloji ve psikolojik danışmanlık ve rehberlik 3., 4. sınıf öğrencileri ile mezunları katılabilmektedir."
         }
     ]
 }
