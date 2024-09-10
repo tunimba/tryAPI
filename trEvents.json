@@ -1,15 +1,6 @@
 {
     "events": [
         {
-            "id": "16",
-            "name": "SPSS Veri Analizi",
-            "image": "https://i.imgur.com/EXNaMkU.png",
-            "eventHost": "Kim Psikoloji",
-            "eventDate": "7-8 Eylül",
-            "referenceLink": "https://www.kimpsikoloji.com/spss-veri-analizi-online-egitimi/",
-            "description": "SPSS'i tanımak, veri dosyası oluşturmak ve veri girişi, betimsel analizler, güvenirlik, normallik, korelasyon, t testi, anova analizi, regresyon, parametrik olmayan analizlerin anlatımı ve örnek uygulama\n\nBu eğitimin sonunda kendi tezinizi kendiniz yapabileceksiniz.\n\nKatılımcıların SPSS programını eğitimden önce bilgisayarlarına kurmaları gerekmektedir."
-        },
-        {
             "id": "1010",
             "name": "Oyun Terapisi ve Temel Teknikler Eğitimi",
             "image": "https://i.imgur.com/vhN3PJ6.png",
