@@ -1,15 +1,6 @@
 {
     "events": [
         {
-            "id": "16",
-            "name": "SPSS Data Analysis",
-            "image": "https://i.imgur.com/EXNaMkU.png",
-            "eventHost": "Kim Psychology",
-            "eventDate": "7-8 September",
-            "referenceLink": "https://www.kimpsikoloji.com/spss-veri-analizi-online-egitimi/",
-            "description": "Introduction to SPSS, creating a data file and entering data, descriptive analyses, reliability, normality, correlation, t-test, ANOVA, regression, non-parametric analysis explanation and practical examples.\n\nBy the end of this training, you will be able to conduct your own thesis.\n\nParticipants are required to install SPSS on their computers before the training."
-        },
-        {
             "id": "1010",
             "name": "Play Therapy and Basic Techniques Training",
             "image": "https://i.imgur.com/vhN3PJ6.png",
