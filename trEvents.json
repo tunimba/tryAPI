@@ -1,15 +1,6 @@
 {
     "events": [
         {
-            "id": "1010",
-            "name": "Oyun Terapisi ve Temel Teknikler Eğitimi",
-            "image": "https://i.imgur.com/vhN3PJ6.png",
-            "eventHost": "Kim Psikoloji",
-            "eventDate": "8-15 Eylül",
-            "referenceLink": "https://www.kimpsikoloji.com/oyun-terapisine-giris-ve-temel-teknikler-egitimi-online-egitim/",
-            "description": "Oyun terapisi temel kuramsal çerçeve, amaçlar\nLiteratürde kullanılan farklı oyun terapisi methodları\nOyun terapisinde ilişki, ortam ve materyalin nitelikleri\nTerapi sürecinde konumlar, tespitler ve problemlere uygun yol haritaları\nPratik çözüm üzerine , duygusal aktarım sürecine ilişkin methodlar\nVaka çözümleme ve dramatizasyon üzerinden oyun terapisi provaları\nOyunda işlevler, ritüeller ve semboller\nUygulamada karşılaşılacak durumlar ve süreçlerin işlevsel hale getirilmesi"
-        },
-        {
             "id": "20",
             "name": "Kaçıngan Kısıtlı Yiyecek Alım Bozukluğu için Bilişsel Davranışçı Terapi programı",
             "image": "https://i.imgur.com/Qkut8FU.png",
@@ -17,33 +8,6 @@
             "eventDate": "10 Eylül-1 Ekim",
             "referenceLink": "https://poem.thinkific.com/courses/kacingan-kisitli-yiyecek-alim-bozuklugu",
             "description": "Kaçıngan Kısıtlı Yiyecek Alım Bozukluğu (KKYAB), bireylerin belirli yiyeceklerden veya yiyecek kategorilerinden kaçınarak çeşitlilik açısından sınırlı bir diyetle ve/veya genel alımı kısıtlayarak miktar olarak sınırlı bir diyetle ilerleyen heterojen bir psikiyatrik bozukluktur. KKYAB’de kaçınma ve kısıtlama için en yaygın gerekçelerden biri, gıdanın duyusal özelliklerine (örneğin, tat, doku, görünüm, koku) karşı artan bir hassasiyettir. KKYAB tanılı bireyler ayrıca boğulma, kusma veya gastrointestinal ağrı korkusu gibi istenmeyen sonuçlardan korktukları için yiyeceklerden kaçınabilir veya kısıtlayabilirler. Genellikle bu kişiler gıdayla ilgili bir travma yaşamışlardır ve daha sonra başka bir olumsuz deneyime karşı korunmak için belli gıdalardan kaçınmaya başlarlar. KKYAB tanılı bireylerde yiyeceklere veya yemek yemeye karşı ilgi eksikliği de yaygındır ve miktarı sınırlı bir diyet sürdürebilirler. İlgi eksikliği olan bireyler yemek yemeyi bir angarya olarak tanımlarlar ve bu durum düşük iştahla kendini gösterir.\n\nKKYAB tedavisi için psikolojik terapiler ön plana çıkmaktadır. Kaçıngan Kısıtlı Yiyecek Alım Bozukluğu için Bilişsel Davranışçı Terapi (BDT-KK) (CBT-AR) için bir bilişsel-davranışçı terapi geliştirilmiştir. Hastanın birincil sürdürme mekanizmasına bağlı olarak terapistin uygulayabileceği isteğe bağlı üç modül içerir. Bu terapi hastanın yaşına bağlı olarak bireysel veya aile destekli formatta uygulanabilir ve beslenme bozukluğunun derecesine bağlı olarak 20 – 30 seans sürer. Bu eğitimde KKYAB tedavisi psikoterapötik açıdan ele alınacaktır.\n\nBu program 4 oturumdan oluşmaktadır ve toplam 8 saattir."
-        },
-        {
-            "id": "11",
-            "name": "Ücretsiz Webinar: Güvenli Yuva: Çocuk ve Ergenle Psikoterapi",
-            "image": "https://i.imgur.com/18nhLaJ.png",
-            "eventHost": "Psikoloji İstanbul",
-            "eventDate": "12 Eylül",
-            "referenceLink": "https://us02web.zoom.us/webinar/register/WN_6uwQUovLR0yXbSRlgZqhqg#/",
-            "description": "Katılım herkese açıktır ve canlı izleyenlerle dijital katılım belgesi paylaşılacaktır.\n\n12 Eylül 2024 akşamı saat 21.00’de bir araya geliyor ve 'güvenli yuvayı' konuşuyoruz.\n\nGüvenli yuva, Dr. Darcia Narvaez'in geliştirdiği ve bebekler, çocuklar ile ergenlerin potansiyellerine ulaşmaları için gerekli bakım sistemini tanımlayan bir konsepttir. Güvenli yuva, evrimsel olarak kendini kanıtlamış bakım uygulamaları ve çevresel koşullarla çocukların duygusal, sosyal ve fizyolojik ihtiyaçlarını karşılamayı amaçlar.\n\nGüvenli bir yuva nasıl oluşturulur? Bebekler, çocuklar ve ergenler için güvenli yuvayı sağlamak adına ailelerle psikoterapi ve psikoeğitim ne şekilde kullanılabilir? Psikoterapistler, ebeveynler ve eğitimciler, çocukların sağlıklı gelişimini desteklemek için nasıl işbirliği yapabilirler?\n\nGelin birlikte gelişip, bebeklerimiz, çocuklarımız ve ergenlerimiz için güvenli ve destekleyici bir yuva oluşturalım. 12 Eylül saat 21:00’de görüşmek dileğiyle…"
-        },
-        {
-            "id": "1200",
-            "name": "Psikoterapi Teknikleri Sempozyumu",
-            "image": "https://i.imgur.com/BNnYG25.png",
-            "eventHost": "Genç Psikologlar Meclisi",
-            "eventDate": "14-15 Eylül",
-            "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSejTbgbS9_iQILNIWfpeHcIczFZFhAne3vIB3NmRzkHIIY-wQ/viewform?usp=send_form",
-            "description": "Alanında uzman 5 psikolog ile 5 farklı ekolün yer aldığı sempozyumu heyecanla duyuruyoruz!\n\nYıllardır psikologların ve psikoloji öğrencilerinin hem mesleki hem kişisel gelişimlerini Genç Psikologlar Meclisi olarak çeşitli faaliyetler ile desteklemekteyiz.\n\nAlandaki ihtiyaçlara yönelik olarak organize ettiğimiz faaliyetlerden biri ⬇\n\n'PSİKOTERAPİ TEKNİKLERİ SEMPOZYUMU'\n\nile sizlerleyiz 🙋🏻‍♀\n\nDetaylı bilgi afişte yer almaktadır.\n\n📅 14 - 15 Eylül / Cumartesi - Pazar\n⏳ 13.00 - 17.15\n🚀 Her oturum 1 saat 15 dk sürmektedir.\n📄 Katılım Belgesi\n📌Başvuru formu bio’da.\n‼️Sınırlı Kontenjan\n\nBilim, sevgi ve dayanışma ile."
-        },
-        {
-            "id": "13",
-            "name": "Bilişsel Davranışçı Terapi Sertifika Programı",
-            "image": "https://i.imgur.com/Ae9gz7t.png",
-            "eventHost": "Psikoloji Akademisi",
-            "eventDate": "14-15 Eylül",
-            "referenceLink": "https://psikolojiakademisi.com/sertifikalar/bilissel-davranisci-terapi-sertifika-programi/",
-            "description": "Doç. Dr. Itır Tarı Cömert tarafından düzenlenen BDT Sertifikasyon Programı, 10 Modül ve 130 saatlik bir süreyi kapsamaktadır. Programın içeriği, Doç. Dr. Itır Tarı Cömert’in 20 yıllık BDT deneyimleri ışığında geliştirilen Beck Enstitüsü eğitim programına paralel olarak şekillenmiştir. Katılımcılara, BDT’nin temel kavram ve tekniklerinin teorik bilgisinin yanı sıra, bu tekniklerin terapist tarafından etkili bir şekilde nasıl kullanılacağı ve formülasyonun nasıl yapılacağı konularında pratik deneyim kazandırılacaktır. Program, uygulamalı, örnek seans videoları, rol oyunları, süpervizyon destekli tekrar oturumları ve vaka analizleri gibi çeşitli öğrenme yöntemleriyle desteklenmiştir.Bu sertifikasyon programı, katılımcılara BDT alanında kapsamlı bir bilgi ve beceri kazandırmayı hedeflemektedir. Doç. Dr. Itır Tarı Cömert’in bilgi birikimi ve deneyimleri, programın kalitesini artırmak ve katılımcılara etkili bir öğrenme deneyimi sunmak adına önemli bir kaynak oluşturmaktadır."
         },
         {
             "id": "3000",
