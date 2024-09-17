@@ -1,15 +1,6 @@
 {
     "events": [
         {
-            "id": "1010",
-            "name": "Play Therapy and Basic Techniques Training",
-            "image": "https://i.imgur.com/vhN3PJ6.png",
-            "eventHost": "Kim Psychology",
-            "eventDate": "8-15 September",
-            "referenceLink": "https://www.kimpsikoloji.com/oyun-terapisine-giris-ve-temel-teknikler-egitimi-online-egitim/",
-            "description": "Basic theoretical framework of play therapy, objectives.\nDifferent methods used in play therapy in literature.\nCharacteristics of the relationship, environment, and materials in play therapy.\nPositions, observations, and roadmaps suitable for problems in the therapy process.\nMethods related to emotional transfer process, focusing on practical solutions.\nCase analysis and play therapy rehearsals through dramatization.\nFunctions, rituals, and symbols in play.\nMaking situations and processes functional that may arise during practice."
-        },
-        {
             "id": "20",
             "name": "Cognitive Behavioral Therapy Program for Avoidant/Restrictive Food Intake Disorder",
             "image": "https://i.imgur.com/Qkut8FU.png",
@@ -17,33 +8,6 @@
             "eventDate": "10 September - 1 October",
             "referenceLink": "https://poem.thinkific.com/courses/kacingan-kisitli-yiyecek-alim-bozuklugu",
             "description": "Avoidant/Restrictive Food Intake Disorder (ARFID) is a heterogeneous psychiatric disorder in which individuals avoid certain foods or food categories, limiting their diet in terms of variety and/or restrict their intake in terms of quantity. One of the most common reasons for avoidance or restriction in ARFID is increased sensitivity to the sensory properties of food (e.g., taste, texture, appearance, smell). Individuals with ARFID may also avoid or restrict foods due to fears of unwanted outcomes, such as choking, vomiting, or gastrointestinal pain. Often, these individuals have experienced trauma related to food and begin to avoid certain foods to protect against another negative experience. In ARFID, a lack of interest in food or eating is also common, and individuals may maintain a limited diet in terms of quantity. Those with a lack of interest often describe eating as a chore, which manifests as a low appetite.\n\nPsychological therapies are at the forefront of ARFID treatment. A cognitive-behavioral therapy (CBT-AR) was developed for ARFID. This therapy includes three optional modules that the therapist can apply based on the patient’s primary maintaining mechanism. It can be delivered in an individual or family-supported format, depending on the patient’s age, and lasts 20-30 sessions depending on the severity of the eating disorder. This program will address ARFID treatment from a psychotherapeutic perspective.\n\nThis program consists of 4 sessions, totaling 8 hours."
-        },
-        {
-            "id": "11",
-            "name": "Free Webinar: Safe Haven: Psychotherapy with Children and Adolescents",
-            "image": "https://i.imgur.com/18nhLaJ.png",
-            "eventHost": "Psychology Istanbul",
-            "eventDate": "12 September",
-            "referenceLink": "https://us02web.zoom.us/webinar/register/WN_6uwQUovLR0yXbSRlgZqhqg#/",
-            "description": "Open to all participants, and digital participation certificates will be shared with those who watch live.\n\nWe come together on the evening of 12 September 2024 at 21:00 to talk about the 'safe haven'.\n\nSafe haven is a concept developed by Dr. Darcia Narvaez, defining the care system necessary for babies, children, and adolescents to reach their potential, grounded in evolutionarily proven care practices and environmental conditions to meet emotional, social, and physiological needs.\n\nHow is a safe haven created? How can psychotherapy and psychoeducation be used with families to provide a safe haven for babies, children, and adolescents? How can psychotherapists, parents, and educators collaborate to support healthy development in children?\n\nLet’s grow together and create a safe and supportive haven for our babies, children, and adolescents. See you on 12 September at 21:00..."
-        },
-        {
-            "id": "1200",
-            "name": "Psychotherapy Techniques Symposium",
-            "image": "https://i.imgur.com/BNnYG25.png",
-            "eventHost": "Young Psychologists Council",
-            "eventDate": "14-15 September",
-            "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSejTbgbS9_iQILNIWfpeHcIczFZFhAne3vIB3NmRzkHIIY-wQ/viewform?usp=send_form",
-            "description": "We are excited to announce a symposium with 5 different schools of thought, presented by 5 expert psychologists!\n\nFor years, we have been supporting both the professional and personal development of psychologists and psychology students through various activities as the Young Psychologists Council.\n\nOne of the activities we have organized to meet the needs of the field is the 'PSYCHOTHERAPY TECHNIQUES SYMPOSIUM'.\n\n📅 14-15 September / Saturday - Sunday\n⏳ 13:00 - 17:15\n🚀 Each session lasts 1 hour and 15 minutes.\n📄 Participation Certificate\n📌 Registration form in bio.\n‼️ Limited Seats\n\nWith science, love, and solidarity."
-        },
-        {
-            "id": "13",
-            "name": "Cognitive Behavioral Therapy Certification Program",
-            "image": "https://i.imgur.com/Ae9gz7t.png",
-            "eventHost": "Psychology Academy",
-            "eventDate": "14-15 September",
-            "referenceLink": "https://psikolojiakademisi.com/sertifikalar/bilissel-davranisci-terapi-sertifika-programi/",
-            "description": "Organized by Assoc. Prof. Itır Tarı Cömert, the CBT Certification Program consists of 10 modules and lasts for 130 hours. The content of the program is shaped in parallel with the Beck Institute training program, developed under the 20 years of CBT experience of Assoc. Prof. Itır Tarı Cömert. Participants will gain theoretical knowledge of the basic concepts and techniques of CBT, as well as practical experience on how these techniques can be effectively used by the therapist and how to create formulations. The program is supported by various learning methods such as practical sessions, example session videos, role-playing, supervision-supported review sessions, and case analyses. This certification program aims to provide participants with comprehensive knowledge and skills in CBT. The knowledge and experience of Assoc. Prof. Itır Tarı Cömert are important resources for increasing the quality of the program and offering participants an effective learning experience."
         },
         {
             "id": "3000",
