@@ -1,33 +1,6 @@
 {
     "events": [
         {
-            "id": "20",
-            "name": "Cognitive Behavioral Therapy Program for Avoidant/Restrictive Food Intake Disorder",
-            "image": "https://i.imgur.com/Qkut8FU.png",
-            "eventHost": "Poem Psychology",
-            "eventDate": "10 September - 1 October",
-            "referenceLink": "https://poem.thinkific.com/courses/kacingan-kisitli-yiyecek-alim-bozuklugu",
-            "description": "Avoidant/Restrictive Food Intake Disorder (ARFID) is a heterogeneous psychiatric disorder in which individuals avoid certain foods or food categories, limiting their diet in terms of variety and/or restrict their intake in terms of quantity. One of the most common reasons for avoidance or restriction in ARFID is increased sensitivity to the sensory properties of food (e.g., taste, texture, appearance, smell). Individuals with ARFID may also avoid or restrict foods due to fears of unwanted outcomes, such as choking, vomiting, or gastrointestinal pain. Often, these individuals have experienced trauma related to food and begin to avoid certain foods to protect against another negative experience. In ARFID, a lack of interest in food or eating is also common, and individuals may maintain a limited diet in terms of quantity. Those with a lack of interest often describe eating as a chore, which manifests as a low appetite.\n\nPsychological therapies are at the forefront of ARFID treatment. A cognitive-behavioral therapy (CBT-AR) was developed for ARFID. This therapy includes three optional modules that the therapist can apply based on the patient’s primary maintaining mechanism. It can be delivered in an individual or family-supported format, depending on the patient’s age, and lasts 20-30 sessions depending on the severity of the eating disorder. This program will address ARFID treatment from a psychotherapeutic perspective.\n\nThis program consists of 4 sessions, totaling 8 hours."
-        },
-        {
-            "id": "3000",
-            "name": "Parent Counseling Specialist Training",
-            "image": "https://i.imgur.com/0ORAOXk.png",
-            "eventHost": "Moodist Academy",
-            "eventDate": "17 September - 8 October",
-            "referenceLink": "https://docs.google.com/forms/d/1qfhMAZ8lgZtg0-aYT0UzIt16G8q3eJuMUkUZLQF_DJ0/viewform?edit_requested=true",
-            "description": "🖥️ Our training will be held online.\n\n✔️ Graduates and students of Psychology, Guidance and Counseling, Medicine, Psychiatric Nursing, Social Work departments can participate in the training.\n\n✔️ Participants will be given a Moodist Academy Approved Training Certificate."
-        },
-        {
-            "id": "1005",
-            "name": "Addiction Therapy Practitioner Training",
-            "image": "https://i.imgur.com/2SwoNhV.png",
-            "eventHost": "Kim Psychology",
-            "eventDate": "17-18 September",
-            "referenceLink": "https://www.kimpsikoloji.com/bagimlilik-terapisi-uygulayici-egitim/",
-            "description": "Learn about therapeutic cards used as an expressive technique in the psychotherapy and counseling process, and experience the process firsthand."
-        },
-        {
             "id": "1001",
             "name": "35 Fundamental Techniques Used in Psychotherapy",
             "image": "https://i.imgur.com/jsJ4HaK.png",
