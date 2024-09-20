@@ -1,33 +1,6 @@
 {
     "events": [
         {
-            "id": "20",
-            "name": "Kaçıngan Kısıtlı Yiyecek Alım Bozukluğu için Bilişsel Davranışçı Terapi programı",
-            "image": "https://i.imgur.com/Qkut8FU.png",
-            "eventHost": "Poem Psikoloji",
-            "eventDate": "10 Eylül-1 Ekim",
-            "referenceLink": "https://poem.thinkific.com/courses/kacingan-kisitli-yiyecek-alim-bozuklugu",
-            "description": "Kaçıngan Kısıtlı Yiyecek Alım Bozukluğu (KKYAB), bireylerin belirli yiyeceklerden veya yiyecek kategorilerinden kaçınarak çeşitlilik açısından sınırlı bir diyetle ve/veya genel alımı kısıtlayarak miktar olarak sınırlı bir diyetle ilerleyen heterojen bir psikiyatrik bozukluktur. KKYAB’de kaçınma ve kısıtlama için en yaygın gerekçelerden biri, gıdanın duyusal özelliklerine (örneğin, tat, doku, görünüm, koku) karşı artan bir hassasiyettir. KKYAB tanılı bireyler ayrıca boğulma, kusma veya gastrointestinal ağrı korkusu gibi istenmeyen sonuçlardan korktukları için yiyeceklerden kaçınabilir veya kısıtlayabilirler. Genellikle bu kişiler gıdayla ilgili bir travma yaşamışlardır ve daha sonra başka bir olumsuz deneyime karşı korunmak için belli gıdalardan kaçınmaya başlarlar. KKYAB tanılı bireylerde yiyeceklere veya yemek yemeye karşı ilgi eksikliği de yaygındır ve miktarı sınırlı bir diyet sürdürebilirler. İlgi eksikliği olan bireyler yemek yemeyi bir angarya olarak tanımlarlar ve bu durum düşük iştahla kendini gösterir.\n\nKKYAB tedavisi için psikolojik terapiler ön plana çıkmaktadır. Kaçıngan Kısıtlı Yiyecek Alım Bozukluğu için Bilişsel Davranışçı Terapi (BDT-KK) (CBT-AR) için bir bilişsel-davranışçı terapi geliştirilmiştir. Hastanın birincil sürdürme mekanizmasına bağlı olarak terapistin uygulayabileceği isteğe bağlı üç modül içerir. Bu terapi hastanın yaşına bağlı olarak bireysel veya aile destekli formatta uygulanabilir ve beslenme bozukluğunun derecesine bağlı olarak 20 – 30 seans sürer. Bu eğitimde KKYAB tedavisi psikoterapötik açıdan ele alınacaktır.\n\nBu program 4 oturumdan oluşmaktadır ve toplam 8 saattir."
-        },
-        {
-            "id": "3000",
-            "name": "Ebeveyn Danışmanlığı Uzman Eğitimi",
-            "image": "https://i.imgur.com/0ORAOXk.png",
-            "eventHost": "Moodist Akademi",
-            "eventDate": "17 Eylül-8 Ekim",
-            "referenceLink": "https://docs.google.com/forms/d/1qfhMAZ8lgZtg0-aYT0UzIt16G8q3eJuMUkUZLQF_DJ0/viewform?edit_requested=true",
-            "description": "🖥️Eğitimimiz Online olarak gerçekleşecektir.\n\n✔️Eğitimimize Psikoloji, PDR, Tıp, Psikiyatri Hemşireliği, Sosyal Hizmet bölümleri mezunları ve öğrencileri katılabilir.\n\n✔️ Katılımcılara Moodist Akademi Onaylı Eğitim Belgesi verilecektir."
-        },
-        {
-            "id": "1005",
-            "name": "Bağımlılık Terapisi Uygulayıcı Eğitimi",
-            "image": "https://i.imgur.com/2SwoNhV.png",
-            "eventHost": "Kim Psikoloji",
-            "eventDate": "17-18 Eylül",
-            "referenceLink": "Psikoterapi ve danışmanlık sürecinde dışavurumcu bir teknik olarak kullanılan terapötik kartlara dair bilgi edinmek ve süreci deneyimlemek.",
-            "description": "https://www.kimpsikoloji.com/bagimlilik-terapisi-uygulayici-egitim/"
-        },
-        {
             "id": "1001",
             "name": "Psikoterapide Kullanılan 35 Temel Teknik",
             "image": "https://i.imgur.com/jsJ4HaK.png",
