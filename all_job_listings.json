@@ -2,11 +2,11 @@
   "jobListings": [
     {
       "id": 1,
-      "companyName": "Sez Psychology and Counseling Center",
+      "companyName": "Bayraklı Psychology Consultancy",
       "title": "Psychologist",
-      "link": "https://www.linkedin.com/jobs/view/4013125208",
-      "location": "Istanbul(Kadıköy)",
-      "description": "As Sez Psychology and Counseling Center, we are opening our office located in Kadıköy / Kozyatağı to our colleagues who provide psychotherapy services in the fields of adolescents, adults, and couples as an office-sharing opportunity.\n\n• Suitable for daily/monthly/hourly rentals.\n• Individual and couple therapy rooms are available.\n\nOur colleagues who work within ethical rules and have their own client portfolio can contact the information below for detailed information.\n\nIt is a 10-minute walk to Suadiye Marmaray and Emin Ali Paşa Metro and a 1-minute walk to Minibus Street."
+      "link": "https://www.linkedin.com/jobs/view/4028696637",
+      "location": "İzmir",
+      "description": "We are looking for a Psychology Intern Student,\n\nResponsibilities\n\nCommunicating with clients via office phone\nGreeting Clients\nSupport in making appointments\n\nQualifications\n\n*Student in the 3rd or 4th year of a Psychology undergraduate degree.\n\n*Interested and curious about the clinical field.\n\n*Creative who can use applications such as Canva and Word\n\n*Possess verbal communication skills."
     },
     {
       "id": 2,
@@ -41,30 +41,6 @@
       "description": "We want to share a room in our clinic located on Bağdat Street, Suadiye. It is suitable for professionals such as psychologists or physiotherapists. The room will be delivered empty. No salary will be paid. The room will be shared with all expenses included."
     },
     {
-      "id": 6,
-      "companyName": "Fiks Psychological Counseling and Education",
-      "title": "Clinical Psychologist",
-      "link": "https://www.linkedin.com/jobs/view/4027112948",
-      "location": "Istanbul",
-      "description": "Hello,\n\nAt Fiks Psychological Counseling and Education Center (Üsküdar), we are looking for a Clinical Psychologist who will accept clients in the fields of children, adolescents, and adults, and who has their own client portfolio. We are a firm that values ethical principles. We kindly ask the candidates to review the following requirements before applying:\n\nCompleted a bachelor's in psychology and a master's in clinical psychology\nAt least 2 years of experience in the field\nAble to manage client processes referred to us\nStrong communication skills\nValues ethical principles\nAble to adapt to teamwork and internal tasks\nHas a client portfolio that can be brought to our office\nActively working and trained in one of the following therapy approaches:\n-Psychodynamic Therapy,\n-Existential Therapy,\n-Couples Therapy,\n-Cognitive Behavioral Therapy,\n-Play Therapy, Theraplay, Speech Therapy, Sandplay Therapy\n\nWe are looking forward to your applications."
-    },
-    {
-      "id": 7,
-      "companyName": "Psikoterapi Florya",
-      "title": "Psychologist",
-      "link": "https://www.linkedin.com/jobs/view/4024697384",
-      "location": "İstanbul",
-      "description": "We are offering office sharing for colleagues who wish to take clients at our office located within walking distance to Bakırköy Square and Marmaray in Bakırköy, Istanbul.\n\nOur office has rooms suitable for individual, couple, and play therapy."
-    },
-    {
-      "id": 8,
-      "companyName": "Doram Psikolojik Danışmanlık Merkezi",
-      "title": "Psychologist",
-      "link": "https://www.linkedin.com/jobs/view/4025316544",
-      "location": "Bursa",
-      "description": "We are looking for a psychologist to share the office with. The candidate should have a psychology degree, be open to scientific and technological developments, and have strong communication skills and a positive attitude."
-    },
-    {
       "id": 9,
       "companyName": "Moreno Psikoloji",
       "title": "Psychologist",
@@ -81,21 +57,13 @@
       "description": "We are looking for a psychologist who has completed a 4-year psychology degree and a master's in clinical psychology, has at least 3 years of experience as a psychotherapist, and keeps up with scientific developments in their field. The ideal candidate should be skilled in working with children aged 0-3 and be proficient in the WISC-IV assessment.\n\nFlexibility in working days (including Saturdays) and hours is required, along with strong communication skills and a positive attitude outside of therapeutic settings."
     },
     {
-  "id": 11,
-  "companyName": "Ceren Zengin Healthy Living Center",
-  "title": "Psychologist",
-  "link": "https://www.linkedin.com/jobs/view/4012752931",
-  "location": "Izmir",
-  "description": "We are opening our office for psychologists and dietitians to share. Tea/coffee/internet access is available. There is also a scale available for dietitians to use for detailed measurements. The hourly office usage fee is 250 TL."
-},
-{
-  "id": 12,
-  "companyName": "MentUp Psychology and Academy",
-  "title": "Psychologist",
-  "link": "https://www.linkedin.com/jobs/view/4019592649",
-  "location": "Mersin",
-  "description": "We are looking for colleagues to join our institution located on GMK Boulevard in Mezitli, Mersin. \n\nCandidates must be graduates of psychology or guidance and psychological counseling departments, have at least 2 years of experience, and have received training and supervision in child and adolescent therapy. \n\n* Having an existing client portfolio is preferred.\n* Clients will be referred by the institution when necessary.\n* Our work model is office sharing.\n* We have suitable rooms for play therapy, individual therapy, and couple therapy."
-},
+      "id": 100,
+      "companyName": "Rola Psychology",
+      "title": "Clinical Psychologist",
+      "link": "https://www.linkedin.com/jobs/view/4017565401",
+      "location": "Ankara",
+      "description": "Mandatory conditions\n- Having a bachelor's degree in psychology AND a master's degree in clinical psychology,\n Having at least three years of professional experience in the field of child/adolescent, adult or family mental health\n Having received training in at least one movement (CBT, schema, EMDR),\n Having client experience,\n\nExpectations:\nSeeing and following up with clients\n\nConditions that will be a reason for preference\n Having a good command of English\n Having followed up with clients under the supervision of a supervisor\n\nClinic Features\n Our family counseling center is licensed in accordance with the legal regulations and provides counseling services to children/adolescents, adults and families,\n\n All of the practices carried out in our center are evidence-based and in accordance with ethical principles."
+    },
 {
   "id": 13,
   "companyName": "Psychologist Lorin Öksüz",
