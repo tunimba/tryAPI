@@ -1,15 +1,6 @@
 {
     "events": [
         {
-            "id": "1100",
-            "name": "Mizaç Eğitimi, Mizaç Temelli İletişim Becerileri, Patoloji ve Koruyucu Ruh Sağlığı",
-            "image": "https://i.imgur.com/6X9GU83.png",
-            "eventHost": "Kim Psikoloji",
-            "eventDate": "27 Eylül",
-            "referenceLink": "https://www.kimpsikoloji.com/mizac-temelli-iletisim-becerileri-patoloji-ve-koruyucu-ruh-sagligi/",
-            "description": "Amaç:\nKendimizi, ailemizi, mesai arkadaşlarımız ve çevremizdekileri daha iyi tanımak ve anlamak\nDanışanların mizaçlarından olası potansiyel patolojileri değerlendirebilmek\nÖfke ve strese karşı ruh sağlığımızı koruma becerilerimizi geliştirmek\nOkulda, İş yerinde yöneticilerimizin ve meslektaşlarımızın tutum ve davranışlarını nedenlerini fark etmek,\nPersonelimizin öğrenme biçimlerini oluşturan kişilik özelliklerini tespit etmek, kısıtlarını ve potansiyellerini öğrenmek, uygun tepkileri vermek\n\nKapsam:\nMizaç yaklaşımı öğrenildikten sonra mizaç testi kullanımı çalışılacak. Sonrasında potansiyel patoloji ve önleyici çalışma değerlendirilecektir. Öğrencilerle mizaç testi ve sunum paylaşılacaktır."
-        },
-        {
             "id": "12",
             "name": "Ücretsiz Webinar: Yeni Asistanımız AI",
             "image": "https://i.imgur.com/K1fvQOh.png",
@@ -28,22 +19,31 @@
             "description": "Katılım herkese açıktır ve canlı izleyenlerle dijital katılım belgesi paylaşılacaktır.\n\n10 Ekim 2024 akşamı saat 21.00'de bir araya geliyor Uluslararası Sensorimotor Psikoterapi Enstitüsünün eğitmenlerinden Jennifer Gardner ile çift terapisinde beden odaklı çalışmaları konuşuyoruz.\n\nÇiftlerle çalışırken beden odaklı çalışmalardan nasıl yaralanabiliriz? Çiftin ilişkisini güçlendirirken kullanabileceğimiz beden odaklı uygulamalar ve teknikler neler olabilir?\n\nGelin birlikte gelişip birlikte öğrenelim. 10 Ekim akşamı saat 21.00’de görüşmek dileğiyle…"
         },
         {
-            "id": "31",
-            "name": "Online Psikoloji Zirvesi",
-            "image": "https://i.imgur.com/iONL2mY.png",
-            "eventHost": "Alfa Etkinlik",
-            "eventDate": "1-4 Kasım",
-            "referenceLink": "https://alfaetkinlik.com/etkinlikdetay.aspx?seminer=online-psikoloji-zirvesi-1-4-kasim-2024#kaydol",
-            "description": "MUHTEŞEM KADROSU İLE TÜRKİYE'DE DAHA ÖNCE YAPILMAMIŞ BİR PSİKOLOJİ ZİRVESİ İLE SİZLERLEYİZ!\n\nNEDEN ONLINE ETKİNLİK?\n\nEVİNDEN, İŞ YERİNDEN VEYA İSTEDİĞİN YERDEN BAĞLANARAK İZLE\n\nDAHA DÜŞÜK BİLET ÜCRETLERİ İLE DAHA ÇOK KONUŞMACI DİNLEME VE DAHA ÇOK BELGE EDİNME İMKANI YAKALA\n\nONLINE OLARAK İZLEDİĞİN OTURUMLARI 30 GÜN BOYUNCA TEKRAR EDİP PEKİŞTİRME İMKANI YAKALA\n\nEĞİTMENLERLE DAHA İNTERAKTİF SORU-CEVAP YAPABİLECEĞİN OTURUMLAR YAŞA\n\n4 GÜN 12 KONUŞMACI 12 İSMİNE ÖZEL DİJİTAL BELGE İLE ONLINE PSİKOLOJİ ZİRVEMİZ 1-2-3-4 KASIM'DA SİZLERLE!\n\nBU MUHTEŞEM KONFERANSI KAÇIRMAYIN, HEMEN BİLETİNİZİ ALIN! 12 ONLINE OTURUM, 12 DİJİTAL BELGE! 30 GÜN TEKRAR İZLEME!"
+            "id": "2",
+            "name": "Dünya Şema Terapi Günü Seminerleri",
+            "image": "https://i.imgur.com/Pc0Bnwm.png",
+            "eventHost": "Uluslararası Şema Terapisi Topluluğu",
+            "eventDate": "12 Ekim",
+            "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSdND4UPDK6OX8IKwhw797zwM6z3D97KB02I-oRYSkSYWp25Qw/viewform?usp=send_form",
+            "description": "12 Ekim 2024 Cumartesi günü gerçekleşecek olan Dünya Şema Terapi Günü'nde sizleri de aramızda görmekten mutluluk duyarız! \n\nBu programda gerçekleşecek oturumlar  halka yönelik hazırlanmış olup, herkesin katılımına açık ve ücretsizdir.\n\nProgram Zoom platformu üzerinden online olarak gerçekleştirilecektir. Kayıt yaptıran katılımcılara program öncesinde link formda paylaşılan e-posta adresine gönderilecektir."
         },
         {
-            "id": "1000",
-            "name": "Çocuk ve Okul Odaklı Kısa Süreli Çözüm Odaklı Terapi",
-            "image": "https://i.imgur.com/XsAfytI.png",
-            "eventHost": "Psikoloji Akademisi",
-            "eventDate": "2-3 Kasım",
-            "referenceLink": "https://psikolojiakademisi.com/sertifikalar/cocuk-ve-okul-odakli-kisa-sureli-cozum-odakli-terapi-sertifika-programi/",
-            "description": "Kısa süreli çözüm odaklı yaklaşım danışma sürecinde terapist ve danışmanların kullanacağı özel teknikler bütününden oluşmaktadır. Bu sertifika programında bu teknikler bütünün çocuklara nasıl uygulanacağının öğretilmesi hedeflenmektedir.\n\nBu teknikler danışanın problemin yaşanmadığı anlardaki durumu ve güçlü yönlerine odaklanmasına yardım etmekte ve çeşitli ödev ve çalışmalar ile desteklenmektedir. “Sorun yaşanır problem çözülür” bakış açısından hareket ile danışandan hız alarak değişim gerçekleştirilir. Danışan, problemin çözümünde daha önce hiç denemediği yolları denemesi, değişim ve problemin baş edilebilir olduğu dönemleri hatırlamak konusunda cesaretlendirilir. Olumlu yanlar açığa çıkartılarak değişim sağlanır ve bu değişimin sürdürülmesi için gelişimsel katkıda bulunulur. Geçmiş ve gelecek değil Şimdi ve Burada kavramlarına odaklanılır. İşe yarar çözümleri tutup işe yaramayan çözümleri değiştirerek değişimin sürekliliği sağlanır. Bu sertifika programında çocuklarla ve okul ortamında öğrencilerle çalışan profesyonellerin Kısa Süreli Çözüm Odaklı Terapi tekniklerini uygulama becerisi kazanması hedeflenmektedir.\n\nProgram İçeriği\n\nKısa süreli çözüm odaklı terapinin tarihçesi ve gelişimi\nKısa süreli çözüm odaklı yaklaşımın temel prensipleri ve terapide kullanım alanları\nÇocuk danışanlar ile terapötik ilişki kurma,\nÇocuk danışanlardan ve aileden roblem tanımı alma ve problem ile ilgili amaç ve hedef belirleme\nİstisnai durumları açığa çıkarma ve problemi derecelendirme\nMucize sorular ile danışanı çözüme yönlendirme\nÇözüm odaklı danışmanlık yaklaşımı soru örnekleri ile role playler\nKısa süreli çözüm odaklı terapi tekniklerinin çocuk danışanlara uygulanması\n\nEğitmen: Uzm. Kl. Psk. Pınar Gümüş Sarı\n\nSertifika Programı Tarihleri\n2-3 Kasım\nKatılımcı özellikleri: Programa yalnızca psikoloji ve psikolojik danışmanlık ve rehberlik 3., 4. sınıf öğrencileri ile mezunları katılabilmektedir."
+            "id": "1",
+            "name": "Destek Köşesi: Hayır Demenin Gücü",
+            "image": "https://i.imgur.com/VXOfp1F.png",
+            "eventHost": "Klinik Psikolog Damla Gürler",
+            "eventDate": "13 Ekim",
+            "referenceLink": "https://www.instagram.com/p/C2SXeZDIwg8/?img_index=2",
+            "description": "Ücretsiz ve Online etkinliktir.\n\nDestek Köşesi, zihinsel sağlığımızı desteklemeyi hedefleyen ve belirli aralıklarla özbakım, stres, arkadaşlık, kaygı yönetimi ve benzeri pek çok konu hakkında seminerler düzenleyeceğimiz bir topluluk."
+        },
+        {
+            "id": "3",
+            "name": "4. Travma Sempozyumu: Temas",
+            "image": "https://i.imgur.com/S9S9mYx.png",
+            "eventHost": "Türk Psikologlar Derneği",
+            "eventDate": "14-15 Aralık",
+            "referenceLink": "https://www.instagram.com/p/DALb6LOtMLb/",
+            "description": "Türk Psikologlar Derneği İzmir Şubesi Travma, Afet ve Kriz çalışma grubu tarafından düzenlenen 4. Travma Sempozyumu, bu yıl 'Temas' konusuyla 14-15 Aralık 2024 tarihlerinde İzmir’de gerçekleşecektir.\n\nÜlkemizde yaşanan afetler ve toplumsal travmaların etkisiyle düzenlemekte geciktiğimiz Travma Sempozyumu’nu, nihayet sizlerle buluşturmanın heyecan ve gururunu yaşıyoruz. Bu sempozyumda, birbirimize temas ederek, alandaki bilgi birikimini paylaşacak, gelişmeleri birlikte değerlendireceğiz. Paneller ve atölyeler ile dolu dolu bir program bizleri bekliyor.\n\n🔹 Tarih: 14-15 Aralık 2024\n🔹 Yer: İzmir\n🔹 Konu: TEMAS\n\nSiz de bu organizasyonda yer almak isterseniz detaylı bilgi için Türk Psikologlar Derneği İzmir Şubesi’ni takipte kalın!"
         }
     ]
 }
