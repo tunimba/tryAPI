@@ -1,6 +1,90 @@
 {
     "magazines": [
         {
+            "id": "50",
+            "name": "TPD",
+            "image": "https://i.imgur.com/1jIR0MT.png",
+            "issue": "Issue: 1",
+            "link": "https://psikolog.org.tr/belgeler/turkiye-yuzyili-maarif-modeli-raporu-01-08-2024-041ch.pdf"
+        },
+        {
+            "id": "40",
+            "name": "UBUNTU",
+            "image": "https://i.imgur.com/uo7BHMK.png",
+            "issue": "Issue: 13",
+            "link": "https://online.fliphtml5.com/bmhwr/ptps/#p=1"
+        },
+        {
+            "id": "41",
+            "name": "BİLGİ",
+            "image": "https://i.imgur.com/4x0Cd1u.png",
+            "issue": "Issue: 13",
+            "link": "https://drive.google.com/file/d/1jFrwpVZxV918Ph9xV3hFCZ27cwDfWxlG/view"
+        },
+        {
+            "id": "38",
+            "name": "AKTARIM",
+            "image": "https://i.imgur.com/AuYFJQ0.png",
+            "issue": "Issue: 1",
+            "link": "https://drive.google.com/file/d/1fXBsDkrwfNl4lBv2iyLg11IGabCXR4Y4/view"
+        },
+        {
+            "id": "37",
+            "name": "PSİKOLOJİBU",
+            "image": "https://i.imgur.com/DKApDEB.png",
+            "issue": "Issue: 2",
+            "link": "https://drive.google.com/file/d/1Tm2GTXrDeDQ6Yri7ydpilVoJQIJ_g-BA/view"
+        },
+        {
+            "id": "36",
+            "name": "PSİKOLOJİBU",
+            "image": "https://i.imgur.com/jv3mzbp.png",
+            "issue": "Issue: 1",
+            "link": "https://drive.google.com/file/d/1FFGdlxA4jkbHgqvDCtym1pdXMEhp0xyw/view"
+        },
+        {
+            "id": "35",
+            "name": "PSITHOTH",
+            "image": "https://i.imgur.com/JQzmlXM.png",
+            "issue": "Issue: 46",
+            "link": "https://psithoth.blogspot.com/2024/09/psithoth-46-sayisi-psikolojik.html"
+        },
+        {
+            "id": "32",
+            "name": "PSİNOSSA",
+            "image": "https://i.imgur.com/ue157mg.png",
+            "issue": "Issue: 109",
+            "link": "http://psinossa.tpocg.org/2024/08/07/psinossa-109-ofke/"
+        },
+        {
+            "id": "33",
+            "name": "PSİNOSSA",
+            "image": "https://i.imgur.com/IK6IUP3.png",
+            "issue": "Issue: 108",
+            "link": "http://psinossa.tpocg.org/2024/07/08/psinossa-108-ayrilik/"
+        },
+        {
+            "id": "31",
+            "name": "PSİ'US",
+            "image": "https://i.imgur.com/gyYjm6T.png",
+            "issue": "Issue: 31",
+            "link": "https://gencpsikologlar.com/31.pdf"
+        },
+        {
+            "id": "30",
+            "name": "PSİ'US",
+            "image": "https://i.imgur.com/3Ligg2O.png",
+            "issue": "Issue: 30",
+            "link": "https://gencpsikologlar.com/30.pdf"
+        },
+        {
+            "id": "29",
+            "name": "PSİ'US",
+            "image": "https://i.imgur.com/ZJ1quRq.png",
+            "issue": "Issue: 30",
+            "link": "https://gencpsikologlar.com/29.pdf"
+        },
+        {
             "id": "24",
             "name": "UBUNTU",
             "image": "https://i.imgur.com/WShJTD5.png",
@@ -167,6 +251,20 @@
             "image": "https://i.imgur.com/Zer3HMn.png",
             "issue": "Issue: 6",
             "link": "https://drive.google.com/file/d/1z9Rvy9-x57MEo-vtrqXsmmc1dKL5kjSw/view"
+        },
+        {
+            "id": "39",
+            "name": "KUYU",
+            "image": "https://i.imgur.com/j2bOMrA.png",
+            "issue": "Issue: 9",
+            "link": "https://fliphtml5.com/bookcase/cyqgr"
+        },
+        {
+            "id": "43",
+            "name": "DOLAP",
+            "image": "https://i.imgur.com/j7YtoBB.png",
+            "issue": "Issue: 1",
+            "link": "https://pubhtml5.com/iqth/utjj/"
         }
     ]
 }
