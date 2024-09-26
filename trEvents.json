@@ -1,15 +1,6 @@
 {
     "events": [
         {
-            "id": "1001",
-            "name": "Psikoterapide Kullanılan 35 Temel Teknik",
-            "image": "https://i.imgur.com/jsJ4HaK.png",
-            "eventHost": "Psikoloji Akademisi",
-            "eventDate": "21-22 Eylül",
-            "referenceLink": "https://psikolojiakademisi.com/sertifikalar/psikoterapide-kullanilan-35-temel-teknik-sertifika-programi/",
-            "description": "21-22 Eylül tarihlerinde Doç. Dr. Itır Tarı Cömert tarafından gerçekleştirilecek olan “Psikoterapide Kullanılan 35 Temel Teknik Sertifika Programı”na profildeki linkten başvuru formunu doldurarak kayıt olabilirsiniz.\n\nProgram kapsamında katılımcılara hangi ekolle çalışıyor olurlarsa olsun, alet çantalarından eksik etmemeleri gereken, psikoterapi sırasında zorlanıldığında danışan da değişimi hızlıca sağlayan farklı ekollerden 35 temel teknik teorik ve uygulamalı bir şekilde aktarılacaktır.\n\nProgram da katılımcılara birçok farklı ekole ait ve terapide İşlevsel olarak kullanılan birçok temel tekniği uygulama yetkinliğinin kazandırılması hedeflenmektedir. \nProgram boyunca etkinliği kanıtlanmış terapi ekollerinin etkin ve işlevsel olan teknikleri katılımcılara teorik bir şekilde aktarılacaktır. Bu aktarımdan sonra katılımcılara vakalar üzerinden tekniklerin nasıl uygulanacağı detaylıca anlatılacak ve katılımcılara bu teknikler rolplayler ile tecrübe ettirilecektir. Böylece hem teorik hem de teorik bilginin nasıl uygulanacağına dair bilgi birikimiyle program tamamlanacaktır."
-        },
-        {
             "id": "1100",
             "name": "Mizaç Eğitimi, Mizaç Temelli İletişim Becerileri, Patoloji ve Koruyucu Ruh Sağlığı",
             "image": "https://i.imgur.com/6X9GU83.png",
