@@ -1,6 +1,13 @@
 {
     "magazines": [
         {
+            "id": "50",
+            "name": "TPD",
+            "image": "https://i.imgur.com/1jIR0MT.png",
+            "issue": "Sayı: 1",
+            "link": "https://psikolog.org.tr/belgeler/turkiye-yuzyili-maarif-modeli-raporu-01-08-2024-041ch.pdf"
+        },
+        {
             "id": "40",
             "name": "UBUNTU",
             "image": "https://i.imgur.com/uo7BHMK.png",
