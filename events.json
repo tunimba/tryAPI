@@ -1,7 +1,25 @@
 {
     "events": [
         {
-            "id": "12",
+            "id": "1",
+            "name": "Tailoring Therapy for Transgender and Gender Diverse Clients: Effective Strategies for Better Outcomes",
+            "image": "https://i.imgur.com/Rl91DOh.png",
+            "eventHost": "Angela Krumm, Ph.D. & Chloe Corcoran",
+            "eventDate": "October 2",
+            "referenceLink": "https://feelinggoodinstitute.com/for-cbt-therapists/live-webinar/tailoring-therapy-for-transgender-and-gender-diverse-clients-effective-strategies-for-better-outcomes",
+            "description": "Do you feel equipped to work with clients who identify as transgender, gender variant or those exploring their gender identity? In this course, you will hear from a Transgender advocate who will share her lived experience and the value of counseling in her life. You will also learn practical tips for working with trans and gender variant clients.\n\nLive Webinar\n\n1 CE Credit\n\nWednesday October 2nd, 2024 12pm PT / 3pm ET"
+        },
+        {
+            "id": "2",
+            "name": "Introduction to Play Therapy: An Evidence-Based Treatment for Children Who Struggle",
+            "image": "https://i.imgur.com/N3yrkPF.png",
+            "eventHost": "Institute of Child Psychology",
+            "eventDate": "October 2",
+            "referenceLink": "https://instituteofchildpsychology.com/freewebinars/introduction-to-play-therapy/",
+            "description": "When You Attend, You Will Learn...\n\nExplore the importance of play in the emotional, psychological, and cognitive growth of children\n\nUnderstand how play therapy grows the brain\n\nAquire three primary play therapy tools used by non-directive play therapistsused by non-directive play therapists\n\nDescribe the components of a rich and diverse play room in the treatment of children\n\nNote: We only offer certificates for our paid courses and webinars; this webinar does not offer a certificate of completion at this time"
+        },
+        {
+            "id": "3",
             "name": "Free Webinar: Our New Assistant AI",
             "image": "https://i.imgur.com/K1fvQOh.png",
             "eventHost": "Psychology Istanbul",
@@ -10,7 +28,34 @@
             "description": "Participation is open to everyone and a digital participation certificate will be shared with those watching live.\n\nWe are coming together on October 3, 2024 at 21:00 and talking about the new era of our profession. \n\nCan artificial intelligence do therapy or replace the therapist? How can psychologists benefit from artificial intelligence in areas such as psychotherapy, community mental health, schools, etc.? \n\nLet's develop and learn together. Hope to see you on October 3rd at 9:00 PM…"
         },
         {
-            "id": "10",
+            "id": "4",
+            "name": "Battling Anxiety in Children and Teens",
+            "image": "https://i.imgur.com/SNFqZTv.png",
+            "eventHost": "Institute of Child Psychology",
+            "eventDate": "October 3",
+            "referenceLink": "https://instituteofchildpsychology.com/freewebinars/battling-anxiety-in-children-and-teens/",
+            "description": "When You Attend, You Will Learn...\n\nHow to Identify and make sense of neurobiological mechanisms that underlie anxiety\n\nHow to work with the brain and body to Ease Anxiety in youth.\n\nDebunk 2 Primary Myths we've been taught about anxiety in children and teens.\n\nHow to Improve Your Communication with your child to soothe the overwhelm.\n\nHow to Implement a variety of emotion regulation strategies to calm a child or teen who is struggling.\n\nNote: We only offer certificates for our paid courses and webinars; this webinar does not offer a certificate of completion at this time"
+        },
+        {
+            "id": "5",
+            "name": "Discrimination, Fear, and Mental Health in LGBTQIA+ Communities",
+            "image": "https://i.imgur.com/WcKd2Ck.png",
+            "eventHost": "Mindspring Mental Health Alliance",
+            "eventDate": "October 8",
+            "referenceLink": "https://us06web.zoom.us/webinar/register/8117138854500/WN__YNtdOdwRCmBnO4jMZg99w#/registration",
+            "description": "LGBTQIA+ adults are three times more likely to experience a mental health disorder than people who identify as straight. Discuss what factors impact this statistic, how to find supportive professionals, ways of coping, and how to be a true ally in this one-hour seminar sponsored by United Way of Central Iowa.\n\nMeet the Instructor: Jaymi Dormaier is a Licensed Master Social Worker with 10+ years of experience in the mental health field. In Jaymi's career as a social  worker and therapist, she has worked with diverse populations focusing on anxiety, depression, grief, trauma, foster care, adoption, homelessness, and addiction. She is passionate about helping others live a life they love."
+        },
+        {
+            "id": "6",
+            "name": "Understanding PTSD",
+            "image": "https://i.imgur.com/NlvihRt.png",
+            "eventHost": "Mindspring Mental Health Alliance",
+            "eventDate": "October 9",
+            "referenceLink": "https://us06web.zoom.us/webinar/register/8117138854500/WN_lqZ4-5LuQ6yJKbNQWqt2BQ#/registration",
+            "description": "Trauma impacts everyone differently, depending on the nature of the trauma, presence or lack of social support, access to treatment, and coping strategies. This one-hour seminar provides an accessible guide to understanding what causes Post Traumatic Stress Disorder, its symptoms, co-occurring disorders, and treatment options. Learn practical tips for managing symptoms and helping others in this one-hour seminar sponsored by Polk County, Iowa.\n\nMeet the Instructor: Jaymi Dormaier is a Licensed Master Social Worker with 10+ years of experience in the mental health field. In Jaymi's career as a social  worker and therapist, she has worked with diverse populations focusing on anxiety, depression, grief, trauma, foster care, adoption, homelessness, and addiction. She is passionate about helping others live a life they love."
+        },
+        {
+            "id": "7",
             "name": "Free Webinar: Body in Couple Therapy",
             "image": "https://i.imgur.com/pg8xBqy.png",
             "eventHost": "Psychology Istanbul",
@@ -19,7 +64,16 @@
             "description": "Participation is open to everyone and a digital participation certificate will be shared with those watching live.\n\nWe are coming together on October 10, 2024 at 9:00 PM with Jennifer Gardner, one of the trainers of the International Sensorimotor Psychotherapy Institute. We talk about body-focused work in therapy.\n\nHow can we benefit from body-focused work when working with couples? What body-focused practices and techniques can we use to strengthen the couple's relationship?\n\nLet's develop and learn together. Hope to see you on October 10th at 9:00 PM…"
         },
         {
-            "id": "2",
+            "id": "8",
+            "name": "Webinar: Recognizing and Addressing Eating Disorders and Body Image Issues",
+            "image": "https://i.imgur.com/C6G2pHe.png",
+            "eventHost": "Roberto Olivardia, PhD",
+            "eventDate": "October 11",
+            "referenceLink": "https://home.mcleanhospital.org/webinar-126?hsCtaTracking=862fe26d-9786-482f-9539-ec03c6c5c409%7Ce5d90d7a-97af-4a90-a745-d084e236d13c",
+            "description": "Our relationships with food and our own bodies are often complex and fraught with challenges. At their best, they can help lead us to both physical and mental well-being. But all too often, these relationships become problematic, resulting in people having negative body image. In some, this has the potential to develop into conditions such as anorexia, bulimia, and body dysmorphic disorder. And while treatment is available and highly effective, it requires recognition of these conditions, which itself can be difficult.\n\nSo how can we identify when someone is struggling with an eating disorder or body image challenge? Who is most at risk of developing one? And what are the treatment options?\n\nIn this previously recorded session, Roberto Olivardia, PhD, offers educators, clinicians, and concerned loved ones a roadmap for recognizing eating disorders and body image issues, provides tips for finding appropriate professional care, and answers questions about the causes and many manifestations of these conditions."
+        },
+        {
+            "id": "9",
             "name": "World Schema Therapy Day Seminars",
             "image": "https://i.imgur.com/f3ashMf.png",
             "eventHost": "International Society of Schema Therapy",
@@ -28,7 +82,7 @@
             "description": "We look forward to seeing you among us at World Schema Therapy Day on Saturday, October 12, 2024! \n\nThe sessions in this program are designed for the public and are open to everyone and free of charge.\n\nThe program will be held online via the Zoom platform. The link will be sent to the e-mail address shared in the form before the program to the participants who register."
         },
         {
-            "id": "1",
+            "id": "10",
             "name": "Support Corner: The Power of Saying No",
             "image": "https://i.imgur.com/VXOfp1F.png",
             "eventHost": "Clinical Psychologist Damla Gürler",
@@ -37,13 +91,274 @@
             "description": "Free and Online event.\n\nSupport Corner is a community that aims to support our mental health and where we will organize seminars on self-care, stress, friendship, anxiety management and many similar topics at regular intervals."
         },
         {
-            "id": "3",
+            "id": "11",
+            "name": "Emetophobia and Motherhood: For Moms and Aspiring Moms Who Struggle with Emetophobia",
+            "image": "https://i.imgur.com/qc3QQcX.png",
+            "eventHost": "Anxiety & Depression Association of America",
+            "eventDate": "October 15",
+            "referenceLink": "https://adaa.org/webinar/consumer/emetophobia-and-motherhood-moms-and-aspiring-moms-who-struggle-emetophobia",
+            "description": "Emetophobia expert, Ken Goodman, LCSW, sits down with two moms who have suffered with emetophobia since childhood. They discuss the unique challenges of being a mother of small children, being pregnant, and the steps they have taken in the last year to overcome their disorder. If you worry about your children catching a stomach bug or you would like to have children in the future but are too afraid to become pregnant, this webinar is for you. This live webinar will afford you the opportunity to ask questions of Ken and his two guests."
+        },
+        {
+            "id": "12",
+            "name": "Understanding Eating Disorders",
+            "image": "https://i.imgur.com/DviKQ5A.png",
+            "eventHost": "Mindspring Mental Health Alliance",
+            "eventDate": "October 16",
+            "referenceLink": "https://us06web.zoom.us/webinar/register/8117138854500/WN_CHlON2SSTLO-bXiZlJ6tiw#/registration",
+            "description": "Although our culture is preoccupied with food and weight, and disordered eating is very common, clinical diagnosis of eating disorders is less common. Even for professionals who have been treating them for years, eating disorders can be confusing illnesses. Explore the types of eating disorders, their signs & symptoms, risk factors, and treatment in this one-hour seminar. Learn practical steps for supporting loved ones and tips for discussing this often-misunderstood topic with a licensed therapist. Webinar sponsored by Polk County, Iowa.\n\nMeet the Instructor: Jaymi Dormaier is a Licensed Master Social Worker with 10+ years of experience in the mental health field. In Jaymi's career as a social  worker and therapist, she has worked with diverse populations focusing on anxiety, depression, grief, trauma, foster care, adoption, homelessness, and addiction. She is passionate about helping others live a life they love."
+        },
+        {
+            "id": "13",
+            "name": "Webinar: When Perfect Becomes Problematic – Perfectionism and More",
+            "image": "https://i.imgur.com/MslHbd6.png",
+            "eventHost": "Dr. R. Meredith Elkins",
+            "eventDate": "October 17",
+            "referenceLink": "https://home.mcleanhospital.org/webinar-152?hsCtaTracking=5b8bf4be-09b8-4f21-8255-cfa2bdd632ea%7Cac99e448-cddf-4590-aeb7-f7a34c51fb7e",
+            "description": "Children grow up with all kinds of incentives to strive for perfection—from the encouragement of adults to the recognition and personal pride that can follow great achievement. There’s no question that this drive often serves kids and teens well. But, taken too far, it can also create serious mental health challenges for them, including anxiety, depression, and avoidance behavior.\n\nSo how can health care professionals, parents, educators, and others help adolescents find a balance between chasing worthwhile goals and taking care of themselves? What are the key signs of emerging perfectionism and related disorders? And when is professional help warranted?\n\nJoin us as R. Meredith Elkins, PhD, explains what sets adolescent perfectionism apart from healthy pursuits to excel, explores the short- and long-term impacts of unaddressed perfectionism, and answers audience questions about evidence-based treatment options."
+        },
+        {
+            "id": "14",
+            "name": "Supporting Kids Who Have Experienced Bullying",
+            "image": "https://i.imgur.com/qZOZs6s.png",
+            "eventHost": "Mindspring Mental Health Alliance",
+            "eventDate": "October 21",
+            "referenceLink": "https://us06web.zoom.us/webinar/register/4917138848306/WN__ksdG7d7SLKOG6puHbFF8Q#/registration",
+            "description": "Finding out your child is being bullied is confusing and painful. Explore the factors involved when deciding when to step in to support a child, and when to give them space. Learn what is helpful to say to children when they are being bullied, how to increase the child's self-esteem, and how to help them know what to say to themselves and to the bully with a licensed therapist. Discuss how to encourage kids to ask for help, and how to get other adults to take bullying seriously. Part 2 of a 2-part series sponsored by the Fahnlander Family and Polk County, Iowa's Behavioral Health & Disability Services agency. \n\nMeet the Instructor: Susan Dannen is a Licensed Independent Social Worker with over 25 years of experience in the mental health field. Susan trained at Jane Addams College of Social Work, University of Illinois Chicago for her MSW and specializes in child and adult mental health, anxiety, depression, grief, trauma, play therapy, foster care, and adoption. She is passionate about educating and supporting others to find hope and healing."
+        },
+        {
+            "id": "15",
+            "name": "Understanding Borderline Personality Disorder",
+            "image": "https://i.imgur.com/jsju30i.png",
+            "eventHost": "Mindspring Mental Health Alliance",
+            "eventDate": "October 22",
+            "referenceLink": "https://us06web.zoom.us/webinar/register/8117138854500/WN_kdzJ5o9QSAqZtgrTeXi47w#/registration",
+            "description": "Of the major mental illnesses, borderline personality disorder is among the most stigmatized. Separate myths and facts and explore the signs and symptoms, causes, and treatment of this often-misunderstood diagnosis. Gain practical tips to manage symptoms and support loved ones in this one-hour seminar sponsored by United Way of Central Iowa.\n\nMeet the Instructor: Jaymi Dormaier is a Licensed Master Social Worker with 10+ years of experience in the mental health field. In Jaymi's career as a social  worker and therapist, she has worked with diverse populations focusing on anxiety, depression, grief, trauma, foster care, adoption, homelessness, and addiction. She is passionate about helping others live a life they love."
+        },
+        {
+            "id": "16",
+            "name": "Is My Child Just Moody or Is It Something More? Identifying and Managing Depression in Youth",
+            "image": "https://i.imgur.com/X6VrEJF.png",
+            "eventHost": "Anxiety & Depression Association of America",
+            "eventDate": "October 23",
+            "referenceLink": "https://us02web.zoom.us/webinar/register/WN_9FFbJwowStuC7PFk6um-gw#/registration",
+            "description": "All children and teens display some degree of moodiness, but moodiness along with other concerns may be indicative of mental health concerns, especially depression.  This webinar will discuss common elements of depression in youth and will help caregivers determine when they should be concerned and seek help for their children. This presentation will also outline effective treatment approaches, enlisting the help of a child’s school when needed, as well as strategies to support parents when caring for the needs of their children."
+        },
+        {
+            "id": "17",
+            "name": "Understanding Narcissistic Personality Disorder",
+            "image": "https://i.imgur.com/yIppONp.png",
+            "eventHost": "Mindspring Mental Health Alliance",
+            "eventDate": "October 24",
+            "referenceLink": "https://us06web.zoom.us/webinar/register/8117138854500/WN_kslEYumxRrOrnJhi8INIzw#/registration",
+            "description": "People often label others as narcissists without having a clear understanding of what this diagnosis really means. Explore the signs and symptoms, causes, and treatment of this often-misunderstood diagnosis. Separate myths and facts and learn how to manage symptoms in this one-hour seminar sponsored by United Way of Central Iowa.\n\nMeet the Instructor: Jaymi Dormaier is a Licensed Master Social Worker with 10+ years of experience in the mental health field. In Jaymi's career as a social  worker and therapist, she has worked with diverse populations focusing on anxiety, depression, grief, trauma, foster care, adoption, homelessness, and addiction. She is passionate about helping others live a life they love."
+        },
+        {
+            "id": "18",
+            "name": "Webinar: When Parting With Possessions Becomes Problematic",
+            "image": "https://i.imgur.com/Goy42Kh.png",
+            "eventHost": "Dr. Jeff Szymanski",
+            "eventDate": "October 29",
+            "referenceLink": "https://home.mcleanhospital.org/webinar-131?hsCtaTracking=7f8bfec6-f2f5-4800-98ad-0235e97e6528%7C59cc95e6-eda3-43eb-9056-997848d3181f",
+            "description": "Most everyone knows what it’s like to struggle with getting rid of something or another. It can be hard for any of us to part with an old photo album or perhaps a favorite sweater or book. But what if discarding items as trivial as newspapers and junk mail caused you great distress? And what if that anguish led you to accumulate so much clutter that your living space became almost unusable?\n\nUnfortunately, this scenario is all too real for the millions of people living with hoarding disorder (HD)—a serious but treatable condition that can create not only mental health concerns, but also physical dangers. So what should you know about hoarding disorder and its treatment? What are some of the signs that someone is struggling with HD? And what can concerned loved ones do to help?\n\nIn this previously recorded session, Jeff Szymanski, PhD, explains what hoarding disorder is and how it’s treated, offers tips for supporting someone living with HD, and answers audience questions about clutter and the key distinctions between collecting and hoarding."
+        },
+        {
+            "id": "19",
+            "name": "Special Issues in Women's Mental Health",
+            "image": "https://i.imgur.com/X88C0cF.png",
+            "eventHost": "Mindspring Mental Health Alliance",
+            "eventDate": "October 30",
+            "referenceLink": "https://us06web.zoom.us/webinar/register/8117138854500/WN_cd90jxjYTiqzDifBYCrCMw#/registration",
+            "description": "Women with premenstrual disorders are much more likely to have birth-related depression, according to researchers. And the relationship works both ways: those with perinatal depression are also more likely to develop premenstrual disorders after pregnancy and childbirth. These are severe and chronic conditions that need medical attention and treatment. Explore the symptoms, causation, and treatment of Premenstrual Dysphoric Disorder, Perinatal Depression, and Perinatal Anxiety and learn practical strategies to manage symptoms in this one-hour seminar sponsored by Polk County, Iowa.\n\nMeet the Instructor: Jaymi Dormaier is a Licensed Master Social Worker with 10+ years of experience in the mental health field. In Jaymi's career as a social  worker and therapist, she has worked with diverse populations focusing on anxiety, depression, grief, trauma, foster care, adoption, homelessness, and addiction. She is passionate about helping others live a life they love."
+        },
+        {
+            "id": "20",
+            "name": "Understanding Schizophrenia",
+            "image": "https://i.imgur.com/UXVutz5.png",
+            "eventHost": "Mindspring Mental Health Alliance",
+            "eventDate": "October 31",
+            "referenceLink": "https://us06web.zoom.us/webinar/register/8117138854500/WN_uj1n5scGRVqDLywokHEiYA#/registration",
+            "description": "Schizophrenia is a lifelong illness that changes how you think, feel, and act. A combination of hallucinations, delusions, disordered thinking and behavior can be debilitating. Explore the causes, symptoms, co-occurring disorders, and treatment of schizophrenia, and gain practical tips for managing symptoms and supporting loved ones in this one-hour seminar sponsored by United Way of Central Iowa.\n\nMeet the Instructor: Jaymi Dormaier is a Licensed Master Social Worker with 10+ years of experience in the mental health field. In Jaymi's career as a social  worker and therapist, she has worked with diverse populations focusing on anxiety, depression, grief, trauma, foster care, adoption, homelessness, and addiction. She is passionate about helping others live a life they love."
+        },
+        {
+            "id": "21",
+            "name": "You Worry Too Much! Understanding Anxiety in Children & Adolescents",
+            "image": "https://i.imgur.com/aPPhFMu.png",
+            "eventHost": "Mindspring Mental Health Alliance",
+            "eventDate": "November 4",
+            "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_GVaYATuoTiqKZSYOwVpIRg#/registration",
+            "description": "Kids are often aware that persistent anxious thoughts are not typical, and may hide their symptoms out of confusion, embarrassment, or shame. Explore the causes and symptoms of anxiety in children and adolescents, evidence-based treatment options, and practical ways you can provide support in this one-hour seminar sponsored by Polk County, Iowa's Behavioral Health & Disability Services agency.\n\nMeet the Instructor: Susan Dannen is a Licensed Independent Social Worker with over 25 years of experience in the mental health field. Susan trained at Jane Addams College of Social Work, University of Illinois Chicago for her MSW and specializes in child and adult mental health, anxiety, depression, grief, trauma, play therapy, foster care, and adoption. She is passionate about educating and supporting others to find hope and healing."
+        },
+        {
+            "id": "22",
+            "name": "Understanding Stress Responses: Effects on Your Body and Behavior",
+            "image": "https://i.imgur.com/UVFPR1S.png",
+            "eventHost": "Mindspring Mental Health Alliance",
+            "eventDate": "November 5",
+            "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_Ie_ZJxYBTbWn_XjYALhHlA#/registration",
+            "description": "The term ‘stress’ is used loosely in our culture. What does it really mean and how vulnerable are you? Understand the biology of stress and explore realistic and practical ways to manage distress in this one-hour seminar with a licensed therapist. Event sponsored by United Way of Central Iowa.\n\nMeet the Instructor: Jaymi Dormaier is a Licensed Master Social Worker with 10+ years of experience in the mental health field. In Jaymi's career as a social worker and therapist, she has worked with diverse populations focusing on anxiety, depression, grief, trauma, foster care, adoption, homelessness, and addiction. She is passionate about helping others live a life they love."
+        },
+        {
+            "id": "23",
+            "name": "What is Emotional Intelligence?",
+            "image": "https://i.imgur.com/UU9cqzM.png",
+            "eventHost": "Mindspring Mental Health Alliance",
+            "eventDate": "November 6",
+            "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_EBSb7f1mQWasejmc1_4QHw#/registration",
+            "description": "Emotional Intelligence is the ability to recognize your own emotions and how others’ feel, and use this knowledge to understand behavior and guide decision-making. It’s a skill set that can be developed and improved; people with high emotional intelligence are better at navigating relationships, managing conflict, and fostering personal and professional growth. Explore the core components of emotional intelligence—self-awareness, self-regulation, empathy, and social skills—and gain practical tools to better understand and manage your emotions in this one-hour seminar sponsored by Polk County, Iowa.\n\nMeet the Instructor: Jaymi Dormaier is a Licensed Master Social Worker with 10+ years of experience in the mental health field. In Jaymi's career as a social worker and therapist, she has worked with diverse populations focusing on anxiety, depression, grief, trauma, foster care, adoption, homelessness, and addiction. She is passionate about helping others live a life they love."
+        },
+        {
+            "id": "24",
+            "name": "Understanding Dissociative Disorders",
+            "image": "https://i.imgur.com/IS0fjl6.png",
+            "eventHost": "Mindspring Mental Health Alliance",
+            "eventDate": "November 7",
+            "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_ANv2Xq8xTuaMhonzmR0upw#/registration",
+            "description": "Dissociation changes your sense of time and identity, and makes people feel disconnected from their thoughts, feelings, and memories. It's a normal phenomenon that most people experience at some point, though some will develop a dissociative disorder that requires treatment. Explore the types of dissociative disorders, their symptoms, prevalence & causation, and how they're treated with a licensed therapist. Event sponsored by United Way of Central Iowa.\n\nMeet the Instructor: Jaymi Dormaier is a Licensed Master Social Worker with 10+ years of experience in the mental health field. In Jaymi's career as a social worker and therapist, she has worked with diverse populations focusing on anxiety, depression, grief, trauma, foster care, adoption, homelessness, and addiction. She is passionate about helping others live a life they love."
+        },
+        {
+            "id": "25",
+            "name": "Webinar: Treatment-Resistant Depression – Recognition and Treatment",
+            "image": "https://i.imgur.com/q6rCC7j.png",
+            "eventHost": "Dr. Joshua C. Brown",
+            "eventDate": "November 7",
+            "referenceLink": "https://home.mcleanhospital.org/webinar-154?hsCtaTracking=548b750c-e3e8-480f-8696-5b3d4be9607a%7Cab4377b4-028b-44dd-bdb4-204fdcc4a72c",
+            "description": "The vast majority of those who struggle with clinical depression—also known as major depressive disorder (MDD)—are able to find relief through some combination of medication and traditional forms of therapy. However, for roughly 30% of those with MDD, antidepressants prove to be largely ineffective, and their depression is deemed to be treatment resistant.\n\nSo what is treatment-resistant depression (TRD), and how do you determine when a patient is a candidate for therapeutic approaches such as transcranial magnetic stimulation (TMS)? If TMS isn’t the best next step, what other options are out there?\n\nJoin us as Joshua C. Brown, MD, PhD, shares what makes some forms of depression especially difficult to treat, explores proven, cutting-edge treatment, and answers questions about lifestyle changes for helping manage TRD."
+        },
+        {
+            "id": "26",
+            "name": "Understanding Intergenerational Trauma",
+            "image": "https://i.imgur.com/BdWx225.png",
+            "eventHost": "Mindspring Mental Health Alliance",
+            "eventDate": "November 12",
+            "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_eSA-AsUySA6oAWz6tqGDHw#/registration",
+            "description": "Trauma can be passed down through families, affecting individuals and communities across generations. Explore how trauma moves through generations, its consequences, the link to complex PTSD, and how to recover in this one-hour seminar sponsored by United Way of Central Iowa."
+        },
+        {
+            "id": "27",
+            "name": "Webinar: College Student Mental Health 101",
+            "image": "https://i.imgur.com/ND91sfN.png",
+            "eventHost": "Dr. Sarah K. Lipson",
+            "eventDate": "November 13",
+            "referenceLink": "https://home.mcleanhospital.org/webinar-135?hsCtaTracking=0fc38025-8359-45a2-988c-37efd04476c2%7Cee24b760-5f82-45b5-8575-cc72de2d09de",
+            "description": "The college experience, at its best, can be exciting, formative, fun, and rewarding. But from a mental health perspective, life on campus can also be rather challenging. For millions of young adults—many living away from home for the first time—the college years present all kinds of academic, social, and economic stressors that can lead to depression, anxiety, and a number of other mental health concerns. And while many colleges offer counseling services and accommodations, all too often these resources are greatly underused.\n\nSo what should college students know about the mental health challenges they might face? Are there proactive strategies that can help them navigate stress? And how can educators, mental health care providers, and loved ones best serve young adults attending college?\n\nIn this previously recorded session, Sarah Ketchen Lipson, PhD, EdM, provides an overview of common mental health concerns for college students, shares tips for recognizing and addressing these challenges and the conditions they can lead to, and answers audience questions about typical campus resources for students who are struggling."
+        },
+        {
+            "id": "28",
+            "name": "The Psychological Origins of Stigma & Bias",
+            "image": "https://i.imgur.com/QZk5RrW.png",
+            "eventHost": "Mindspring Mental Health Alliance",
+            "eventDate": "November 14",
+            "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_T69f38q-SMmlDJPkp0QXjQ#/registration",
+            "description": "How does cultural bias impact treatment, prevention & recovery? Discuss the origins of understanding mental illness, how misinformation is spread, and how stigma impacts individuals and communities. Learn tips for correcting negative perceptions with a licensed therapist in this one-hour seminar sponsored by United Way of Central Iowa."
+        },
+        {
+            "id": "29",
+            "name": "Understanding Depression & Suicide in Young People",
+            "image": "https://i.imgur.com/MTuddgU.png",
+            "eventHost": "Mindspring Mental Health Alliance",
+            "eventDate": "November 18",
+            "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_xy7DIFCTTdyZ2rwPyKXsYQ#/registration",
+            "description": "Depression in children and teenagers is often undiagnosed and untreated because symptoms are mistaken for normal emotional changes. Learn what factors contribute to youth depression and suicide, the signs and symptoms, and what we can do to prevent it with a licensed therapist. Webinar sponsored by Polk County, Iowa's Behavioral Health & Disability Services agency.\n\nMeet the Instructor: Susan Dannen is a Licensed Independent Social Worker with over 25 years of experience in the mental health field. Susan trained at Jane Addams College of Social Work, University of Illinois Chicago for her MSW and specializes in child and adult mental health, anxiety, depression, grief, trauma, play therapy, foster care, and adoption. She is passionate about educating and supporting others to find hope and healing."
+        },
+        {
+            "id": "30",
+            "name": "Webinar: Decoding Distress – BPD, PTSD, and the Fine Line Between",
+            "image": "https://i.imgur.com/M7QjiY1.png",
+            "eventHost": "Dr. Gillian C. Galen",
+            "eventDate": "November 19",
+            "referenceLink": "https://home.mcleanhospital.org/webinar-155?hsCtaTracking=d6922cbb-0cba-4634-9306-85588f83a6ac%7C8f97af4c-4a23-49ba-8720-05a791f00d46",
+            "description": "Borderline personality disorder (BPD) and post-traumatic stress disorder (PTSD) are two very distinct mental health conditions—each marked by specific diagnostic criteria and treatment approaches. But BPD and PTSD symptoms often overlap, and it’s not uncommon for someone to struggle with both challenges.\n\nFar too frequently, the resulting confusion leads to misdiagnoses and delays to the start of effective treatment. So what should mental health care providers and concerned loved ones know about recognizing the key signs of BPD and PTSD? How does trauma factor into each diagnosis? And what does treatment look like for someone with one or both of the disorders?\n\nJoin us as Gillian C. Galen, PsyD, provides an overview of borderline personality disorder and post-traumatic stress disorder, shares tips for understanding what sets them apart, and answers audience questions about the conditions’ shared symptoms, such as emotional dysregulation."
+        },
+        {
+            "id": "31",
+            "name": "Understanding Social Anxiety",
+            "image": "https://i.imgur.com/wTmFumP.png",
+            "eventHost": "Mindspring Mental Health Alliance",
+            "eventDate": "November 19",
+            "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_p-aE_6m4RN6vQNYVpaMaAw#/registration",
+            "description": "It's normal to feel nervous in some social situations, but social anxiety disorder involves more than temporary discomfort when giving a presentation or making small talk. Everyday interactions cause intense feelings of anxiety and fear that disrupt relationships, daily routines, and performance at work and school. Explore the symptoms of social anxiety disorder, learn what the possible causes are, how it is treated, and strategies to manage symptoms and support loved ones who are struggling. Webinar sponsored by United Way of Central Iowa.\n\nMeet the Instructor: Jaymi Dormaier is a Licensed Master Social Worker with 10+ years of experience in the mental health field. In Jaymi's career as a social worker and therapist, she has worked with diverse populations focusing on anxiety, depression, grief, trauma, foster care, adoption, homelessness, and addiction. She is passionate about helping others live a life they love."
+        },
+        {
+            "id": "32",
+            "name": "Understanding Motivation and Procrastination",
+            "image": "https://i.imgur.com/Np5RyGU.png",
+            "eventHost": "Mindspring Mental Health Alliance",
+            "eventDate": "November 20",
+            "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_MWYJMu9vSfaYlzLVRWksWg#/registration",
+            "description": "Almost everyone procrastinates sometimes. But if you continue to put things off, then regret it and feel bad about yourself afterward, it’s easy to get caught in a cycle that can impact your physical & mental health. Explore the reasons why people procrastinate and learn techniques to get and stay motivated in this one-hour seminar sponsored by Polk County, Iowa.\n\nMeet the Instructor: Jaymi Dormaier is a Licensed Master Social Worker with 10+ years of experience in the mental health field. In Jaymi's career as a social worker and therapist, she has worked with diverse populations focusing on anxiety, depression, grief, trauma, foster care, adoption, homelessness, and addiction. She is passionate about helping others live a life they love."
+        },
+        {
+            "id": "33",
+            "name": "Understanding Antisocial Personality Disorder",
+            "image": "https://i.imgur.com/I7C9Aga.png",
+            "eventHost": "Mindspring Mental Health Alliance",
+            "eventDate": "November 20",
+            "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_2Gw6P6RwR9eSqd0pNLMQrQ#/registration",
+            "description": "Antisocial Personality Disorder (ASPD) is a complex mental health condition marked by persistent disregard for others, impulsivity, and a lack of empathy. People with ASPD may ignore laws or social norms, potentially putting themselves and other people in harm’s way. Discuss how it’s diagnosed, the challenges of managing ASPD, and the impact it can have on relationships and society in this one-hour seminar sponsored by Polk County, Iowa.\n\nMeet the Instructor: Jaymi Dormaier is a Licensed Master Social Worker with 10+ years of experience in the mental health field. In Jaymi's career as a social worker and therapist, she has worked with diverse populations focusing on anxiety, depression, grief, trauma, foster care, adoption, homelessness, and addiction. She is passionate about helping others live a life they love."
+        },
+        {
+            "id": "34",
+            "name": "Understanding Trichotillomania & Skin Picking (Excoriation Disorder)",
+            "image": "https://i.imgur.com/dotLERT.png",
+            "eventHost": "Mindspring Mental Health Alliance",
+            "eventDate": "November 21",
+            "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_UWQxSbAeTH6Zc3CrgA4w9A#/registration",
+            "description": "Trichotillomania, hair-pulling, and excoriation disorder, better known as skin-picking, are two distinct disorders falling under the OCD umbrella that have many similarities. Join us in learning more about these body-focused repetitive behaviors and discuss the signs and symptoms, causes, and treatment options with a licensed therapist. Gain tips to manage symptoms and learn how to support loved ones who are struggling in this one-hour seminar sponsored by United Way of Central Iowa.\n\nMeet the Instructor: Jaymi Dormaier is a Licensed Master Social Worker with 10+ years of experience in the mental health field. In Jaymi's career as a social worker and therapist, she has worked with diverse populations focusing on anxiety, depression, grief, trauma, foster care, adoption, homelessness, and addiction. She is passionate about helping others live a life they love."
+        },
+        {
+            "id": "35",
+            "name": "When a Loved One is Diagnosed: Insight from a Mental Health Professional",
+            "image": "https://i.imgur.com/I8AYhDq.png",
+            "eventHost": "Mindspring Mental Health Alliance",
+            "eventDate": "November 26",
+            "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_JEXMkCo-R7OhHIoqDLy3MA#/registration",
+            "description": "Providing effective support to friends and family members with a mental health disorder is an essential component of the recovery process. Discuss the complications of mental illness, the four dimensions of recovery, and learn how to make a recovery plan in this one-hour seminar sponsored by United Way of Central Iowa.\n\nMeet the Instructor: Jaymi Dormaier is a Licensed Master Social Worker with 10+ years of experience in the mental health field. In Jaymi's career as a social worker and therapist, she has worked with diverse populations focusing on anxiety, depression, grief, trauma, foster care, adoption, homelessness, and addiction. She is passionate about helping others live a life they love."
+        },
+        {
+            "id": "36",
+            "name": "Understanding Factitious Disorder Imposed on Another",
+            "image": "https://i.imgur.com/0JVCUsz.png",
+            "eventHost": "Mindspring Mental Health Alliance",
+            "eventDate": "November 27",
+            "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_RgmJwBmTSYmn3Pt9I0GUdQ#/registration",
+            "description": "At the heart of Factitious Disorder Imposed on Another (previously Munchausen Syndrome by Proxy) is concern that a caregiver is either lying about an illness in a child or dependent adult, or has caused real symptoms in an otherwise healthy person. Learn the signs and symptoms of this disorder and what motivates a caregiver to cause illness in this one-hour seminar with a licensed therapist. Event sponsored by Polk County, Iowa.\n\nMeet the Instructor: Jaymi Dormaier is a Licensed Master Social Worker with 10+ years of experience in the mental health field. In Jaymi's career as a social worker and therapist, she has worked with diverse populations focusing on anxiety, depression, grief, trauma, foster care, adoption, homelessness, and addiction. She is passionate about helping others live a life they love."
+        },
+        {
+            "id": "37",
+            "name": "Webinar: Recognizing and Treating Bipolar Disorder and Schizophrenia",
+            "image": "https://i.imgur.com/h10tnRg.png",
+            "eventHost": "Dr. Kathryn Eve Lewandowski",
+            "eventDate": "December 3",
+            "referenceLink": "https://home.mcleanhospital.org/webinar-139?hsCtaTracking=bf5134bc-2315-401f-824b-51c7dd52fc21%7Ce5efa883-acd5-4449-9945-83f6f18ee5c4",
+            "description": "Bipolar disorder (BD) and schizophrenia are two very distinct mental health challenges. While BD is characterized by intense mood swings between deeply depressive states and episodes of mania, schizophrenia is marked by psychosis that can include hallucinations, delusions, or disordered thoughts or speech.\n\nBecause it’s possible for someone with bipolar disorder to experience psychotic symptoms, people living with BD can sometimes be misdiagnosed with schizophrenia. It’s also common for those living with schizophrenia to be struggling with other mental health conditions.\n\nSo, how can clinicians, loved ones, and educators learn to recognize the key symptoms of BD and schizophrenia all while understanding the key similarities and differences in these disorders? How is each condition diagnosed and treated? And what are their respective risk factors?\n\nIn this previously recorded session, Kathryn Eve Lewandowski, PhD, provides an overview of both schizophrenia and the different types of bipolar disorder, shares tips for spotting their signs and seeking treatment, and answers audience questions about successfully supporting someone living with these conditions."
+        },
+        {
+            "id": "38",
+            "name": "Webinar: Taking Care of Business AND Your Mental Health",
+            "image": "https://i.imgur.com/kdDaGXn.png",
+            "eventHost": "Dr. David H. Rosmarin",
+            "eventDate": "December 12",
+            "referenceLink": "https://home.mcleanhospital.org/webinar-156?hsCtaTracking=c5f59060-7766-4b04-b95d-12027b40140b%7C977603bc-a70b-45cf-a9fe-dd5ebf653b74",
+            "description": "Making it in the business world often comes with more stressors than we can count. While business folks are extremely skilled in many areas, there is one skill that is very important but often overlooked: the ability to manage anxiety and other potential threats to one’s mental well-being. Addressed effectively, these challenges can offer great opportunities, including personal development and growing our ability to be resilient.\n\nSo how do entrepreneurs and others working in business learn to navigate the stress and uncertainty inherent in their jobs? What are the mental health consequences of not doing so? And when is it time to seek professional help?\n\nJoin us as David H. Rosmarin, PhD, ABPP, explores common business-related mental health challenges, offers strategies for addressing them, and answers questions about learning to thrive with on-the-job anxiety."
+        },
+        {
+            "id": "39",
             "name": "4th Trauma Symposium: Contact",
             "image": "https://i.imgur.com/S9S9mYx.png",
             "eventHost": "Turkish Psychologists Association",
             "eventDate": "14-15 December",
             "referenceLink": "https://www.instagram.com/p/DALb6LOtMLb/",
             "description": "Organized by the Trauma, Disaster and Crisis Working Group of the Izmir Branch of the Turkish Psychologists Association, the 4th Trauma Symposium will be held in Izmir on December 14-15, 2024, with the theme of 'Contact'.\n\nWe are excited and proud to finally bring you the Trauma Symposium, which we have been late in organizing due to the disasters and social traumas experienced in our country. In this symposium, we will contact each other, share our knowledge in the field and evaluate the developments together. A full program of panels and workshops awaits us.\n\n🔹 Date: 14-15 December 2024\n🔹 Location: İzmir\n🔹 Subject: COMMUNICATION\n\nIf you would like to take part in this organization, please follow the İzmir Branch of the Turkish Psychologists Association for detailed information!"
+        },
+        {
+            "id": "40",
+            "name": "Webinar: Healthy Coping for Children and Adolescents",
+            "image": "https://i.imgur.com/puFv5s4.png",
+            "eventHost": "Dr. Maggie Gorraiz",
+            "eventDate": "December 18",
+            "referenceLink": "https://home.mcleanhospital.org/webinar-104?hsCtaTracking=65253ab7-89c2-4cb1-9fb4-ba031f3d63c9%7C987afccc-f160-4c13-ab02-df61343326a8",
+            "description": "Kids and teens experience all kinds of feelings, but may not necessarily know how to deal with them or how to cope with when they come up. It’s important that we help them learn the skills to manage their emotions, thoughts, and reactions in healthy and productive ways. By doing so, we can help them build skills that can increase well-being in adulthood and prevent unhealthy coping strategies as they get older.\n\nIn this previously recorded session, Maggie Gorraiz, PhD, explores different types of coping strategies for children and adolescents, shares age-appropriate ways to teach coping to our loved ones, and answers audience questions about the mental health benefits that healthy coping can bring to our whole families."
         }
     ]
 }
