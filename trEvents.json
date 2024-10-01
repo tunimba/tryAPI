@@ -1,49 +1,365 @@
 {
     "events": [
         {
-            "id": "12",
-            "name": "Ücretsiz Webinar: Yeni Asistanımız AI",
-            "image": "https://i.imgur.com/K1fvQOh.png",
-            "eventHost": "Psikoloji İstanbul",
-            "eventDate": "3 Ekim",
-            "referenceLink": "https://us02web.zoom.us/webinar/register/WN_FW4Qp3ReTSefGxCCLT9wUA#/",
-            "description": "Katılım herkese açıktır ve canlı izleyenlerle dijital katılım belgesi paylaşılacaktır.\n\n3 Ekim 2024 akşamı saat 21.00’de bir araya geliyor ve mesleğimizin yeni dönemini konuşuyoruz. \n\nYapay zeka terapi yapabilir mi, terapistin yerine geçebilir mi? Psikoterapi, toplum ruh sağlığı, okullar vb. alanlarda psikologlar yapay zekadan nasıl yararlanabilirler? \n\nGelin birlikte gelişip birlikte öğrenelim. 3 Ekim saat 21:00’de görüşmek dileğiyle…"
-        },
+    "id": "1",
+    "name": "Trans ve Cinsiyet Çeşitliliği Olan Danışanlar İçin Terapinin Kişiselleştirilmesi: Daha İyi Sonuçlar İçin Etkili Stratejiler",
+    "image": "https://i.imgur.com/Rl91DOh.png",
+    "eventHost": "Angela Krumm, Ph.D. & Chloe Corcoran",
+    "eventDate": "2 Ekim",
+    "referenceLink": "https://feelinggoodinstitute.com/for-cbt-therapists/live-webinar/tailoring-therapy-for-transgender-and-gender-diverse-clients-effective-strategies-for-better-outcomes",
+    "description": "Kendinizi trans, cinsiyet değişkeni olarak tanımlayan ya da cinsiyet kimliğini keşfeden danışanlarla çalışmaya hazır hissediyor musunuz? Bu derste, bir Trans savunucusundan yaşam deneyimlerini ve danışmanlığın hayatındaki önemini dinleyeceksiniz. Ayrıca, trans ve cinsiyet değişkeni danışanlarla çalışmak için pratik ipuçları öğreneceksiniz.\n\nCanlı Webinar\n\n1 CE Kredisi\n\nÇarşamba, 2 Ekim 2024, 12:00 PT / 15:00 ET"
+},
+{
+    "id": "2",
+    "name": "Oyun Terapisine Giriş: Zorluk Yaşayan Çocuklar İçin Kanıta Dayalı Bir Tedavi",
+    "image": "https://i.imgur.com/N3yrkPF.png",
+    "eventHost": "Çocuk Psikolojisi Enstitüsü",
+    "eventDate": "2 Ekim",
+    "referenceLink": "https://instituteofchildpsychology.com/freewebinars/introduction-to-play-therapy/",
+    "description": "Katıldığınızda Öğrenecekleriniz...\n\nOyunun çocukların duygusal, psikolojik ve bilişsel gelişimindeki önemini keşfedin\n\nOyun terapisinin beyni nasıl geliştirdiğini anlayın\n\nYönlendirici olmayan oyun terapistleri tarafından kullanılan üç temel oyun terapisi aracını edinin\n\nÇocukların tedavisinde zengin ve çeşitli bir oyun odasının bileşenlerini tanımlayın\n\nNot: Sertifikalar yalnızca ücretli kurslar ve web seminerleri için sunulmaktadır; bu webinar şu anda bir tamamlanma sertifikası sunmamaktadır"
+},
+{
+    "id": "3",
+    "name": "Ücretsiz Webinar: Yeni Yardımcı Yapay Zekamız",
+    "image": "https://i.imgur.com/K1fvQOh.png",
+    "eventHost": "Psikoloji İstanbul",
+    "eventDate": "3 Ekim",
+    "referenceLink": "https://us02web.zoom.us/webinar/register/WN_FW4Qp3ReTSefGxCCLT9wUA#/",
+    "description": "Katılım herkese açıktır ve canlı izleyenlere dijital katılım sertifikası verilecektir.\n\n3 Ekim 2024, saat 21:00'de bir araya geliyoruz ve mesleğimizin yeni dönemini konuşuyoruz.\n\nYapay zeka terapi yapabilir mi ya da terapistin yerini alabilir mi? Psikologlar yapay zekadan psikoterapi, toplumsal ruh sağlığı, okullar gibi alanlarda nasıl faydalanabilir?\n\nBirlikte gelişelim ve öğrenelim. 3 Ekim'de saat 21:00'de görüşmek üzere..."
+},
+{
+    "id": "4",
+    "name": "Çocuklar ve Gençlerde Anksiyete ile Mücadele",
+    "image": "https://i.imgur.com/SNFqZTv.png",
+    "eventHost": "Çocuk Psikolojisi Enstitüsü",
+    "eventDate": "3 Ekim",
+    "referenceLink": "https://instituteofchildpsychology.com/freewebinars/battling-anxiety-in-children-and-teens/",
+    "description": "Katıldığınızda Öğrenecekleriniz...\n\nAnksiyeteyi ortaya çıkaran nörobiyolojik mekanizmaları tanımlama ve anlamlandırma\n\nGençlerde anksiyeteyi hafifletmek için beyin ve bedenle nasıl çalışılacağı\n\nÇocuklar ve gençlerde anksiyete hakkında öğretilen 2 temel miti çürütme\n\nÇocuğunuzla olan iletişiminizi iyileştirerek bunalmışlık hissini nasıl yatıştırabileceğinizi öğrenin\n\nZorluk yaşayan bir çocuğu veya genci sakinleştirmek için çeşitli duygu düzenleme stratejilerini nasıl uygulayacağınızı öğrenin\n\nNot: Sertifikalar yalnızca ücretli kurslar ve web seminerleri için sunulmaktadır; bu webinar şu anda bir tamamlanma sertifikası sunmamaktadır"
+},
+{
+    "id": "5",
+    "name": "LGBTQIA+ Topluluklarında Ayrımcılık, Korku ve Ruh Sağlığı",
+    "image": "https://i.imgur.com/WcKd2Ck.png",
+    "eventHost": "Mindspring Ruh Sağlığı İttifakı",
+    "eventDate": "8 Ekim",
+    "referenceLink": "https://us06web.zoom.us/webinar/register/8117138854500/WN__YNtdOdwRCmBnO4jMZg99w#/registration",
+    "description": "LGBTQIA+ yetişkinlerin, kendini heteroseksüel olarak tanımlayan insanlara göre üç kat daha fazla ruh sağlığı bozukluğu yaşama olasılığı vardır. Bu istatistiği etkileyen faktörleri, destekleyici profesyonelleri nasıl bulacağınızı, başa çıkma yollarını ve gerçek bir müttefik olmayı bu bir saatlik seminerde tartışın. Bu seminer, Iowa Merkez Birleşik Way tarafından desteklenmektedir.\n\nEğitmenle Tanışın: Jaymi Dormaier, 10+ yıllık ruh sağlığı alanında deneyime sahip bir Lisanslı Usta Sosyal Hizmet Uzmanıdır. Jaymi'nin kariyerinde anksiyete, depresyon, yas, travma, koruyucu bakım, evlat edinme, evsizlik ve bağımlılık gibi çeşitli nüfuslarla çalışmıştır. Başkalarına sevdikleri bir hayat yaşamalarına yardımcı olma konusunda tutkuludur."
+},
+{
+    "id": "6",
+    "name": "PTSD'yi Anlamak",
+    "image": "https://i.imgur.com/NlvihRt.png",
+    "eventHost": "Mindspring Ruh Sağlığı İttifakı",
+    "eventDate": "9 Ekim",
+    "referenceLink": "https://us06web.zoom.us/webinar/register/8117138854500/WN_lqZ4-5LuQ6yJKbNQWqt2BQ#/registration",
+    "description": "Travma, doğası, sosyal destek varlığı veya yokluğu, tedaviye erişim ve başa çıkma stratejilerine bağlı olarak herkes üzerinde farklı bir etki yapar. Bu bir saatlik seminer, Travma Sonrası Stres Bozukluğuna (PTSD) neyin neden olduğunu, semptomlarını, birlikte görülen bozuklukları ve tedavi seçeneklerini anlamak için erişilebilir bir rehber sunar. Bu seminerde ayrıca semptomları yönetmek ve başkalarına yardım etmek için pratik ipuçları öğrenin. Seminer, Iowa Polk County tarafından desteklenmektedir.\n\nEğitmenle Tanışın: Jaymi Dormaier, 10+ yıllık ruh sağlığı alanında deneyime sahip bir Lisanslı Usta Sosyal Hizmet Uzmanıdır. Jaymi'nin kariyerinde anksiyete, depresyon, yas, travma, koruyucu bakım, evlat edinme, evsizlik ve bağımlılık gibi çeşitli nüfuslarla çalışmıştır. Başkalarına sevdikleri bir hayat yaşamalarına yardımcı olma konusunda tutkuludur."
+},
+{
+    "id": "7",
+    "name": "Ücretsiz Webinar: Çift Terapisinde Beden",
+    "image": "https://i.imgur.com/pg8xBqy.png",
+    "eventHost": "Psikoloji İstanbul",
+    "eventDate": "10 Ekim",
+    "referenceLink": "https://us02web.zoom.us/webinar/register/WN_0AyLNPx7RFyErSQ5p223XA#/registration",
+    "description": "Katılım herkese açıktır ve canlı izleyenlere dijital katılım sertifikası verilecektir.\n\n10 Ekim 2024, saat 21:00'de Uluslararası Duyusal Motor Psikoterapi Enstitüsü eğitmenlerinden Jennifer Gardner ile bir araya geliyoruz. Terapide beden odaklı çalışmayı konuşuyoruz.\n\nÇiftlerle çalışırken beden odaklı çalışmalardan nasıl faydalanabiliriz? Çiftin ilişkisini güçlendirmek için hangi beden odaklı uygulamaları ve teknikleri kullanabiliriz?\n\nBirlikte gelişelim ve öğrenelim. 10 Ekim'de saat 21:00'de görüşmek üzere..."
+},
+{
+    "id": "8",
+    "name": "Webinar: Yeme Bozukluklarında Otonom Sinir Sistemini Hedeflemek",
+    "image": "https://i.imgur.com/RWn2F2Y.png",
+    "eventHost": "Duyusal Motor Psikoterapi Enstitüsü",
+    "eventDate": "22 Kasım",
+    "referenceLink": "https://www.sensorimotorpsychotherapy.org/advanced-webinars/",
+    "description": "Bu web semineri, yeme bozuklukları olan bireylerle çalışırken otonom sinir sistemini doğrudan hedeflemeyi amaçlayan duyusal-motor tekniklerini keşfedecektir. Somatik uygulamalara dayalı olan bu teknikler, bireylerin duygusal ve fizyolojik düzenlemelerini geliştirmelerine yardımcı olur ve genellikle zihinsel olarak yaşanması zor olan yeme bozukluğu semptomlarını hafifletir."
+},
         {
-            "id": "10",
-            "name": "Ücretsiz Webinar: Çift Terapisinde Beden",
-            "image": "https://i.imgur.com/pg8xBqy.png",
-            "eventHost": "Psikoloji İstanbul",
-            "eventDate": "10 Ekim",
-            "referenceLink": "https://us02web.zoom.us/webinar/register/WN_0AyLNPx7RFyErSQ5p223XA#/registration",
-            "description": "Katılım herkese açıktır ve canlı izleyenlerle dijital katılım belgesi paylaşılacaktır.\n\n10 Ekim 2024 akşamı saat 21.00'de bir araya geliyor Uluslararası Sensorimotor Psikoterapi Enstitüsünün eğitmenlerinden Jennifer Gardner ile çift terapisinde beden odaklı çalışmaları konuşuyoruz.\n\nÇiftlerle çalışırken beden odaklı çalışmalardan nasıl yaralanabiliriz? Çiftin ilişkisini güçlendirirken kullanabileceğimiz beden odaklı uygulamalar ve teknikler neler olabilir?\n\nGelin birlikte gelişip birlikte öğrenelim. 10 Ekim akşamı saat 21.00’de görüşmek dileğiyle…"
-        },
+    "id": "9",
+    "name": "Dünya Şema Terapi Günü Seminerleri",
+    "image": "https://i.imgur.com/f3ashMf.png",
+    "eventHost": "Uluslararası Şema Terapi Derneği",
+    "eventDate": "12 Ekim",
+    "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSdND4UPDK6OX8IKwhw797zwM6z3D97KB02I-oRYSkSYWp25Qw/viewform?usp=send_form",
+    "description": "12 Ekim 2024 Cumartesi günü düzenlenecek olan Dünya Şema Terapi Günü'nde sizi de aramızda görmekten mutluluk duyarız! Bu programdaki oturumlar halka açıktır ve ücretsizdir. Program, Zoom platformu üzerinden çevrimiçi olarak gerçekleştirilecektir. Programa kayıt olan katılımcılara, formda paylaşılan e-posta adreslerine programdan önce bağlantı gönderilecektir."
+},
+{
+    "id": "10",
+    "name": "Destek Köşesi: Hayır Demenin Gücü",
+    "image": "https://i.imgur.com/VXOfp1F.png",
+    "eventHost": "Klinik Psikolog Damla Gürler",
+    "eventDate": "13 Ekim",
+    "referenceLink": "https://www.instagram.com/p/C2SXeZDIwg8/?img_index=2",
+    "description": "Ücretsiz ve çevrimiçi etkinlik. Destek Köşesi, öz bakım, stres, arkadaşlık, kaygı yönetimi ve benzeri birçok konuda düzenli aralıklarla seminerler düzenleyen bir topluluktur."
+},
+{
+    "id": "11",
+    "name": "Emetofobi ve Annelik: Emetofobi ile Mücadele Eden Anneler ve Aday Anneler İçin",
+    "image": "https://i.imgur.com/qc3QQcX.png",
+    "eventHost": "Anksiyete ve Depresyon Derneği",
+    "eventDate": "15 Ekim",
+    "referenceLink": "https://adaa.org/webinar/consumer/emetophobia-and-motherhood-moms-and-aspiring-moms-who-struggle-emetophobia",
+    "description": "Emetofobi uzmanı Ken Goodman, LCSW, çocukluk döneminden beri emetofobi ile mücadele eden iki anne ile bir araya geliyor. Küçük çocukların annesi olmanın, hamileliğin ve son bir yılda bozukluklarını aşmak için attıkları adımların zorluklarını tartışıyorlar. Bu canlı web semineri, Ken'e ve iki konuğuna sorular sorma fırsatı sunacaktır."
+},
+{
+    "id": "12",
+    "name": "Yeme Bozukluklarını Anlamak",
+    "image": "https://i.imgur.com/DviKQ5A.png",
+    "eventHost": "Mindspring Ruh Sağlığı İttifakı",
+    "eventDate": "16 Ekim",
+    "referenceLink": "https://us06web.zoom.us/webinar/register/8117138854500/WN_CHlON2SSTLO-bXiZlJ6tiw#/registration",
+    "description": "Kültürümüz gıda ve kilo ile fazlasıyla meşgul olsa da, yeme bozuklukları teşhisi daha az yaygındır. Bu bir saatlik seminerde, yeme bozukluklarının türlerini, belirtilerini, risk faktörlerini ve tedavilerini keşfedin. Sevilen birine nasıl destek olabileceğinizi ve bu genellikle yanlış anlaşılan konuyu bir terapistle nasıl tartışabileceğinizi öğrenin."
+},
+{
+    "id": "13",
+    "name": "Web Semineri: Mükemmeliyetçilik Sorun Olduğunda – Mükemmeliyetçilik ve Daha Fazlası",
+    "image": "https://i.imgur.com/MslHbd6.png",
+    "eventHost": "Dr. R. Meredith Elkins",
+    "eventDate": "17 Ekim",
+    "referenceLink": "https://home.mcleanhospital.org/webinar-152?hsCtaTracking=5b8bf4be-09b8-4f21-8255-cfa2bdd632ea%7Cac99e448-cddf-4590-aeb7-f7a34c51fb7e",
+    "description": "Bu web semineri, çocukların ve gençlerin mükemmelliğe ulaşmaya teşvik edilmesine rağmen, bunun genellikle kaygı, depresyon ve kaçınma davranışı gibi ruh sağlığı sorunlarına yol açabileceğini ele alıyor. Dr. R. Meredith Elkins, ergen mükemmeliyetçiliğini ve etkilerini açıklarken, tedavi seçeneklerini de keşfedecek."
+},
+{
+    "id": "14",
+    "name": "Zorbalığa Uğrayan Çocukları Desteklemek",
+    "image": "https://i.imgur.com/qZOZs6s.png",
+    "eventHost": "Mindspring Ruh Sağlığı İttifakı",
+    "eventDate": "21 Ekim",
+    "referenceLink": "https://us06web.zoom.us/webinar/register/4917138848306/WN__ksdG7d7SLKOG6puHbFF8Q#/registration",
+    "description": "Lisanslı terapist Susan Dannen ile çocukları zorbalık durumlarında nasıl destekleyebileceğinizi öğrenin. Bu web semineri, ne zaman müdahale edilmesi gerektiği, çocuğun özgüvenini nasıl destekleyeceğiniz ve zorbalık durumlarında çocukların kendilerine ve başkalarına ne demeleri gerektiği konusunda rehberlik sunacak."
+},
+{
+    "id": "15",
+    "name": "Sınırda Kişilik Bozukluğunu Anlamak",
+    "image": "https://i.imgur.com/jsju30i.png",
+    "eventHost": "Mindspring Ruh Sağlığı İttifakı",
+    "eventDate": "22 Ekim",
+    "referenceLink": "https://us06web.zoom.us/webinar/register/8117138854500/WN_kdzJ5o9QSAqZtgrTeXi47w#/registration",
+    "description": "Sınırda kişilik bozukluğu, en fazla damgalanan ruh hastalıklarından biridir. Bu web semineri, bu bozukluğun belirtilerini, semptomlarını, nedenlerini ve tedavisini keşfedecektir. Lisanslı sosyal hizmet uzmanı Jaymi Dormaier, semptomları yönetmek ve sevdiklerinize destek olmak için pratik ipuçları sunacak."
+},
+{
+    "id": "16",
+    "name": "Çocuğum Sadece Huysuz mu, Yoksa Daha Fazlası mı? Gençlerde Depresyonu Tanımlamak ve Yönetmek",
+    "image": "https://i.imgur.com/X6VrEJF.png",
+    "eventHost": "Anksiyete ve Depresyon Derneği",
+    "eventDate": "23 Ekim",
+    "referenceLink": "https://us02web.zoom.us/webinar/register/WN_9FFbJwowStuC7PFk6um-gw#/registration",
+    "description": "Bu web semineri, çocuklarda ve gençlerde depresyon belirtilerini tartışacak, ebeveynlerin ne zaman yardım araması gerektiğini belirlemelerine yardımcı olacak ve ruh sağlığı sorunları yaşayan çocuklara nasıl destek olunacağını inceleyecek."
+},
+{
+    "id": "17",
+    "name": "Narsisistik Kişilik Bozukluğunu Anlamak",
+    "image": "https://i.imgur.com/yIppONp.png",
+    "eventHost": "Mindspring Ruh Sağlığı İttifakı",
+    "eventDate": "24 Ekim",
+    "referenceLink": "https://us06web.zoom.us/webinar/register/8117138854500/WN_kslEYumxRrOrnJhi8INIzw#/registration",
+    "description": "Narsisistik kişilik bozukluğu genellikle yanlış anlaşılmaktadır. Bu web semineri, efsaneleri ve gerçekleri ayırırken, bu ruh hastalığının belirtilerini, semptomlarını, nedenlerini ve tedavisini keşfedecektir. Lisanslı sosyal hizmet uzmanı Jaymi Dormaier, semptomları yönetmek konusunda pratik bilgiler sunacak."
+},
+{
+    "id": "18",
+    "name": "Web Semineri: Eşyalarla Vedalaşmak Sorun Haline Geldiğinde",
+    "image": "https://i.imgur.com/Goy42Kh.png",
+    "eventHost": "Dr. Jeff Szymanski",
+    "eventDate": "29 Ekim",
+    "referenceLink": "https://home.mcleanhospital.org/webinar-131?hsCtaTracking=7f8bfec6-f2f5-4800-98ad-0235e97e6528%7C59cc95e6-eda3-43eb-9056-997848d3181f",
+    "description": "Bu web semineri, birinin istifçilik bozukluğu yaşayıp yaşamadığını nasıl anlayacağınıza dair bilgiler sunuyor. Dr. Jeff Szymanski, istifçiliğin tedavi sürecini ve bu bozukluğa sahip kişilere nasıl yardımcı olunabileceğini açıklıyor."
+}
+,
         {
-            "id": "2",
-            "name": "Dünya Şema Terapi Günü Seminerleri",
-            "image": "https://i.imgur.com/f3ashMf.png",
-            "eventHost": "Uluslararası Şema Terapisi Topluluğu",
-            "eventDate": "12 Ekim",
-            "referenceLink": "https://docs.google.com/forms/d/e/1FAIpQLSdND4UPDK6OX8IKwhw797zwM6z3D97KB02I-oRYSkSYWp25Qw/viewform?usp=send_form",
-            "description": "12 Ekim 2024 Cumartesi günü gerçekleşecek olan Dünya Şema Terapi Günü'nde sizleri de aramızda görmekten mutluluk duyarız! \n\nBu programda gerçekleşecek oturumlar  halka yönelik hazırlanmış olup, herkesin katılımına açık ve ücretsizdir.\n\nProgram Zoom platformu üzerinden online olarak gerçekleştirilecektir. Kayıt yaptıran katılımcılara program öncesinde link formda paylaşılan e-posta adresine gönderilecektir."
-        },
+    "id": "19",
+    "name": "Kadınların Mental Sağlığında Özel Sorunlar",
+    "image": "https://i.imgur.com/X88C0cF.png",
+    "eventHost": "Mindspring Mental Health Alliance",
+    "eventDate": "30 Ekim",
+    "referenceLink": "https://us06web.zoom.us/webinar/register/8117138854500/WN_cd90jxjYTiqzDifBYCrCMw#/registration",
+    "description": "Araştırmalara göre, adet öncesi bozuklukları olan kadınların doğumla ilişkili depresyona yakalanma olasılığı çok daha fazladır. Ayrıca bu ilişki her iki yönde de işlemektedir: Perinatal depresyonu olanlar, hamilelik ve doğumdan sonra adet öncesi bozukluklar geliştirme olasılığına da sahiptir. Bu, tıbbi dikkat ve tedavi gerektiren ciddi ve kronik bir durumdur. Premenstrüel Disforik Bozukluk, Perinatal Depresyon ve Perinatal Anksiyete'nin belirtilerini, nedenlerini ve tedavisini keşfedin ve Polk County, Iowa tarafından sponsor edilen bu bir saatlik seminerde semptomları yönetmek için pratik stratejiler öğrenin.\n\nEğitmenle Tanışın: Jaymi Dormaier, mental sağlık alanında 10+ yıllık deneyime sahip Lisanslı Usta Sosyal Hizmet Uzmanıdır. Jaymi, sosyal hizmet uzmanı ve terapist olarak kariyeri boyunca, anksiyete, depresyon, yas, travma, koruyucu aile, evlat edinme, evsizlik ve bağımlılık gibi konulara odaklanarak çeşitli topluluklarla çalışmıştır. Başkalarının sevdikleri bir hayat yaşamalarına yardımcı olma konusunda tutkuludur."
+},
+{
+    "id": "20",
+    "name": "Şizofreniyi Anlamak",
+    "image": "https://i.imgur.com/UXVutz5.png",
+    "eventHost": "Mindspring Mental Health Alliance",
+    "eventDate": "31 Ekim",
+    "referenceLink": "https://us06web.zoom.us/webinar/register/8117138854500/WN_uj1n5scGRVqDLywokHEiYA#/registration",
+    "description": "Şizofreni, düşüncelerinizi, hislerinizi ve davranışlarınızı değiştiren yaşam boyu bir hastalıktır. Halüsinasyonlar, sanrılar, düzensiz düşünme ve davranış kombinasyonu yıkıcı olabilir. Şizofreninin nedenlerini, belirtilerini, birlikte görülen bozuklukları ve tedavisini keşfedin ve Polk County, Iowa tarafından sponsor edilen bu bir saatlik seminerde semptomları yönetmek ve sevdiklerinizi desteklemek için pratik ipuçları edinin.\n\nEğitmenle Tanışın: Jaymi Dormaier, mental sağlık alanında 10+ yıllık deneyime sahip Lisanslı Usta Sosyal Hizmet Uzmanıdır. Jaymi, sosyal hizmet uzmanı ve terapist olarak kariyeri boyunca, anksiyete, depresyon, yas, travma, koruyucu aile, evlat edinme, evsizlik ve bağımlılık gibi konulara odaklanarak çeşitli topluluklarla çalışmıştır. Başkalarının sevdikleri bir hayat yaşamalarına yardımcı olma konusunda tutkuludur."
+},
+{
+    "id": "21",
+    "name": "Çok Endişeleniyorsun! Çocuklar ve Ergenlerde Anksiyeteyi Anlamak",
+    "image": "https://i.imgur.com/aPPhFMu.png",
+    "eventHost": "Mindspring Mental Health Alliance",
+    "eventDate": "4 Kasım",
+    "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_GVaYATuoTiqKZSYOwVpIRg#/registration",
+    "description": "Çocuklar, sürekli endişeli düşüncelerin olağan olmadığını genellikle bilirler ve semptomlarını kafa karışıklığı, utanç veya utanma nedeniyle gizleyebilirler. Çocuklar ve ergenlerde anksiyetenin nedenlerini ve belirtilerini, kanıta dayalı tedavi seçeneklerini ve bu bir saatlik seminerde destek sağlayabileceğiniz pratik yolları keşfedin. Seminer, Polk County, Iowa'nın Davranışsal Sağlık ve Engellilik Hizmetleri ajansı tarafından sponsor edilmiştir.\n\nEğitmenle Tanışın: Susan Dannen, mental sağlık alanında 25 yılı aşkın deneyime sahip Lisanslı Bağımsız Sosyal Hizmet Uzmanıdır. Susan, Jane Addams Sosyal Hizmet Koleji'nde MSW eğitimi aldı ve çocuk ve yetişkin mental sağlığı, anksiyete, depresyon, yas, travma, oyun terapisi, koruyucu aile ve evlat edinme konularında uzmanlaşmıştır. Umut ve iyileşme bulmalarına yardımcı olmaya kendini adamıştır."
+},
+{
+    "id": "22",
+    "name": "Stres Tepkilerini Anlamak: Vücudunuz ve Davranışlarınıza Etkileri",
+    "image": "https://i.imgur.com/UVFPR1S.png",
+    "eventHost": "Mindspring Mental Health Alliance",
+    "eventDate": "5 Kasım",
+    "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_Ie_ZJxYBTbWn_XjYALhHlA#/registration",
+    "description": "‘Stres’ terimi kültürümüzde gevşek bir şekilde kullanılmaktadır. Gerçekten ne anlama geliyor ve ne kadar savunmasızsınız? Stresin biyolojisini anlayın ve bu bir saatlik seminerde kaygıyı yönetmek için gerçekçi ve pratik yollar keşfedin. Etkinlik, United Way of Central Iowa tarafından sponsor edilmiştir.\n\nEğitmenle Tanışın: Jaymi Dormaier, mental sağlık alanında 10+ yıllık deneyime sahip Lisanslı Usta Sosyal Hizmet Uzmanıdır. Jaymi, sosyal hizmet uzmanı ve terapist olarak kariyeri boyunca, anksiyete, depresyon, yas, travma, koruyucu aile, evlat edinme, evsizlik ve bağımlılık gibi konulara odaklanarak çeşitli topluluklarla çalışmıştır. Başkalarının sevdikleri bir hayat yaşamalarına yardımcı olma konusunda tutkuludur."
+},
+{
+    "id": "23",
+    "name": "Duygusal Zeka Nedir?",
+    "image": "https://i.imgur.com/UU9cqzM.png",
+    "eventHost": "Mindspring Mental Health Alliance",
+    "eventDate": "6 Kasım",
+    "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_EBSb7f1mQWasejmc1_4QHw#/registration",
+    "description": "Duygusal Zeka, kendi duygularınızı ve başkalarının hissettiklerini tanıma ve bu bilgiyi davranışları anlamak ve karar verme süreçlerini yönlendirmek için kullanma yeteneğidir. Geliştirilebilen ve iyileştirilebilen bir beceri setidir; yüksek duygusal zekaya sahip insanlar ilişkileri daha iyi yönetir, çatışmaları yönetir ve kişisel ve profesyonel büyümeyi desteklerler. Duygusal zekanın temel bileşenlerini—öz-farkındalık, öz-düzenleme, empati ve sosyal becerileri keşfedin ve bu bir saatlik seminerde duygularınızı daha iyi anlamak ve yönetmek için pratik araçlar edinin. Seminer, Polk County, Iowa tarafından sponsor edilmiştir.\n\nEğitmenle Tanışın: Jaymi Dormaier, mental sağlık alanında 10+ yıllık deneyime sahip Lisanslı Usta Sosyal Hizmet Uzmanıdır. Jaymi, sosyal hizmet uzmanı ve terapist olarak kariyeri boyunca, anksiyete, depresyon, yas, travma, koruyucu aile, evlat edinme, evsizlik ve bağımlılık gibi konulara odaklanarak çeşitli topluluklarla çalışmıştır. Başkalarının sevdikleri bir hayat yaşamalarına yardımcı olma konusunda tutkuludur."
+},
+{
+    "id": "24",
+    "name": "Dissosiyatif Bozuklukları Anlamak",
+    "image": "https://i.imgur.com/IS0fjl6.png",
+    "eventHost": "Mindspring Mental Health Alliance",
+    "eventDate": "7 Kasım",
+    "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_ANv2Xq8xTuaMhonzmR0upw#/registration",
+    "description": "Dissosiyasyon, zaman ve kimlik algınızı değiştirir ve insanları düşüncelerinden, duygularından ve anılarından kopmuş hissettirir. Bu, çoğu insanın bir noktada deneyimlediği normal bir fenomendir, ancak bazıları tedavi gerektiren dissosiyatif bozukluklar geliştirebilir. Dissosiyatif Bozuklukların çeşitli türlerini, belirtilerini, nedenlerini ve tedavisini keşfedin ve bu bir saatlik seminerde semptomları yönetmek için pratik ipuçları edinin. Seminer, Polk County, Iowa tarafından sponsor edilmiştir.\n\nEğitmenle Tanışın: Jaymi Dormaier, mental sağlık alanında 10+ yıllık deneyime sahip Lisanslı Usta Sosyal Hizmet Uzmanıdır. Jaymi, sosyal hizmet uzmanı ve terapist olarak kariyeri boyunca, anksiyete, depresyon, yas, travma, koruyucu aile, evlat edinme, evsizlik ve bağımlılık gibi konulara odaklanarak çeşitli topluluklarla çalışmıştır. Başkalarının sevdikleri bir hayat yaşamalarına yardımcı olma konusunda tutkuludur."
+},
         {
-            "id": "1",
-            "name": "Destek Köşesi: Hayır Demenin Gücü",
-            "image": "https://i.imgur.com/VXOfp1F.png",
-            "eventHost": "Klinik Psikolog Damla Gürler",
-            "eventDate": "13 Ekim",
-            "referenceLink": "https://www.instagram.com/p/C2SXeZDIwg8/?img_index=2",
-            "description": "Ücretsiz ve Online etkinliktir.\n\nDestek Köşesi, zihinsel sağlığımızı desteklemeyi hedefleyen ve belirli aralıklarla özbakım, stres, arkadaşlık, kaygı yönetimi ve benzeri pek çok konu hakkında seminerler düzenleyeceğimiz bir topluluk."
-        },
+        "id": "25",
+        "name": "Webinar: Tedaviye Dirençli Depresyon – Tanı ve Tedavi",
+        "image": "https://i.imgur.com/q6rCC7j.png",
+        "eventHost": "Dr. Joshua C. Brown",
+        "eventDate": "7 Kasım",
+        "referenceLink": "https://home.mcleanhospital.org/webinar-154?hsCtaTracking=548b750c-e3e8-480f-8696-5b3d4be9607a%7Cab4377b4-028b-44dd-bdb4-204fdcc4a72c",
+        "description": "Klinik depresyonla, yani majör depresif bozukluk (MDD) ile mücadele edenlerin büyük çoğunluğu, bazı kombinasyonlar sayesinde ilaç ve geleneksel terapi biçimleriyle rahatlama bulabilir. Ancak, MDD'li hastaların yaklaşık %30'u için antidepresanlar büyük ölçüde etkisizdir ve depresyonları tedaviye dirençli olarak değerlendirilmektedir.\n\nTedaviye dirençli depresyon (TRD) nedir ve bir hastanın transkraniyal manyetik stimülasyon (TMS) gibi terapötik yaklaşımlar için aday olup olmadığını nasıl belirlersiniz? Eğer TMS en iyi sonraki adım değilse, başka hangi seçenekler mevcuttur?\n\nJoshua C. Brown, MD, PhD'nin katılacağı bu seminerde, bazı depresyon türlerinin neden özellikle tedavi edilmesi zor olduğunu, kanıtlanmış, öncü tedavileri keşfedecek ve TRD'yi yönetmeye yardımcı olabilecek yaşam tarzı değişiklikleri hakkında soruları yanıtlayacaktır."
+    },
+    {
+        "id": "26",
+        "name": "Nesiller Arası Travmayı Anlamak",
+        "image": "https://i.imgur.com/BdWx225.png",
+        "eventHost": "Mindspring Mental Health Alliance",
+        "eventDate": "12 Kasım",
+        "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_eSA-AsUySA6oAWz6tqGDHw#/registration",
+        "description": "Travma aileler arasında aktarılabilir ve bireyleri ve toplulukları nesiller boyunca etkileyebilir. Travmanın nesiller arasında nasıl aktarıldığını, sonuçlarını, karmaşık PTSD ile bağlantısını ve bu bir saatlik seminerde iyileşme yollarını keşfedin. Seminer, Iowa'nın Birleşik Yolu tarafından sponsor edilmiştir."
+    },
+    {
+        "id": "27",
+        "name": "Webinar: Üniversite Öğrencileri İçin Zihinsel Sağlık 101",
+        "image": "https://i.imgur.com/ND91sfN.png",
+        "eventHost": "Dr. Sarah K. Lipson",
+        "eventDate": "13 Kasım",
+        "referenceLink": "https://home.mcleanhospital.org/webinar-135?hsCtaTracking=0fc38025-8359-45a2-988c-37efd04476c2%7Cee24b760-5f82-45b5-8575-cc72de2d09de",
+        "description": "Üniversite deneyimi en iyi haliyle heyecan verici, şekillendirici, eğlenceli ve ödüllendirici olabilir. Ancak zihinsel sağlık açısından, kampüs hayatı oldukça zorlu olabilir. Birçok genç yetişkin, evden ilk kez uzakta yaşayan, üniversite yıllarında depresyon, anksiyete ve diğer zihinsel sağlık sorunlarına yol açabilecek birçok akademik, sosyal ve ekonomik stresörle karşı karşıya kalmaktadır. Birçok üniversite danışmanlık hizmetleri ve destek sunmasına rağmen, bu kaynaklar sıklıkla büyük ölçüde kullanılmamaktadır.\n\nÜniversite öğrencilerinin karşılaşabileceği zihinsel sağlık zorlukları hakkında neler bilmesi gerekiyor? Stresle başa çıkmalarına yardımcı olabilecek proaktif stratejiler var mı? Eğitimciler, zihinsel sağlık hizmeti sağlayıcıları ve sevdiklerimiz, üniversiteye giden genç yetişkinlere nasıl daha iyi yardımcı olabilir?\n\nDaha önce kaydedilmiş bu oturumda, Sarah Ketchen Lipson, PhD, EdM, üniversite öğrencileri için yaygın zihinsel sağlık sorunlarının bir özetini sunmakta, bu zorlukları ve yol açabileceği koşulları tanımak ve ele almak için ipuçları paylaşmakta ve sorun yaşayan öğrenciler için tipik kampüs kaynakları hakkında izleyicilerin sorularını yanıtlamaktadır."
+    },
+    {
+        "id": "28",
+        "name": "Stigmanın ve Ön Yargının Psikolojik Kökenleri",
+        "image": "https://i.imgur.com/QZk5RrW.png",
+        "eventHost": "Mindspring Mental Health Alliance",
+        "eventDate": "14 Kasım",
+        "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_T69f38q-SMmlDJPkp0QXjQ#/registration",
+        "description": "Kültürel ön yargılar tedavi, önleme ve iyileşmeyi nasıl etkiler? Zihinsel hastalıkların anlaşılmasının kökenlerini, yanlış bilgilendirmenin nasıl yayıldığını ve stigmanın bireyler ve topluluklar üzerindeki etkisini tartışın. Olumsuz algıları düzeltmek için bir lisanslı terapist ile birlikte ipuçları öğrenin. Bu bir saatlik seminer, Iowa'nın Birleşik Yolu tarafından sponsor edilmiştir."
+    },
+    {
+        "id": "29",
+        "name": "Gençlerde Depresyon ve İntiharı Anlamak",
+        "image": "https://i.imgur.com/MTuddgU.png",
+        "eventHost": "Mindspring Mental Health Alliance",
+        "eventDate": "18 Kasım",
+        "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_xy7DIFCTTdyZ2rwPyKXsYQ#/registration",
+        "description": "Çocuklarda ve gençlerde depresyon genellikle teşhis edilmez ve tedavi edilmez, çünkü belirtiler normal duygusal değişimlerle karıştırılabilir. Genç depresyonu ve intiharına katkıda bulunan faktörleri, belirtileri öğrenin ve bunu önlemek için neler yapabileceğimizi bir lisanslı terapist ile keşfedin. Webinar, Polk County, Iowa'nın Davranışsal Sağlık ve Engellilik Hizmetleri ajansı tarafından sponsor edilmiştir.\n\nEğitmenle Tanışın: Susan Dannen, zihinsel sağlık alanında 25 yılı aşkın deneyime sahip Bağımsız Lisanslı Sosyal Çalışmacıdır. Susan, Chicago, Illinois Üniversitesi Jane Addams Sosyal Hizmet Okulu'nda MSW eğitimi aldı ve çocuk ve yetişkin zihinsel sağlığı, anksiyete, depresyon, yas, travma, oyun terapisi, koruyucu aile ve evlat edinme konularında uzmanlaşmıştır. Başkalarına umut ve iyileşme bulmalarında yardımcı olma konusunda tutkuludur."
+    },
+    {
+        "id": "30",
+        "name": "Webinar: Sıkıntıyı Çözmek – BPD, PTSD ve İnce Çizgi",
+        "image": "https://i.imgur.com/M7QjiY1.png",
+        "eventHost": "Dr. Gillian C. Galen",
+        "eventDate": "19 Kasım",
+        "referenceLink": "https://home.mcleanhospital.org/webinar-155?hsCtaTracking=d6922cbb-0cba-4634-9306-85588f83a6ac%7C8f97af4c-4a23-49ba-8720-05a791f00d46",
+        "description": "Sınırda kişilik bozukluğu (BPD) ve travma sonrası stres bozukluğu (PTSD), belirli tanısal kriterler ve tedavi yaklaşımları ile işaretlenmiş iki çok farklı zihinsel sağlık durumudur. Ancak BPD ve PTSD belirtileri sıklıkla örtüşmektedir ve birinin her iki zorlukla mücadele etmesi yaygın bir durumdur.\n\nSonuçta, ortaya çıkan karmaşa sıkça yanlış tanılara ve etkili tedaviye başlama süresinin gecikmesine yol açar. Peki, zihinsel sağlık hizmeti sağlayıcıları ve endişeli sevdiklerimiz BPD ve PTSD'nin ana belirtilerini nasıl tanımalı? Travma her bir tanıda nasıl bir rol oynamaktadır? Ve birinin bir veya her iki bozukluk için tedavisi nasıl görünmektedir?\n\nGillian C. Galen, PsyD, sınırda kişilik bozukluğu ve travma sonrası stres bozukluğuna dair bir özet sunacak, onları ayırt edici özellikler hakkında ipuçları paylaşacak ve duygusal dengesizlik gibi durumların ortak belirtileri hakkında izleyici sorularını yanıtlayacaktır."
+    },
+    {
+        "id": "31",
+        "name": "Sosyal Medyanın Gençler Üzerindeki Etkisi: Destekleyici Bir Yaklaşım",
+        "image": "https://i.imgur.com/L0SVm9t.png",
+        "eventHost": "Mindspring Mental Health Alliance",
+        "eventDate": "20 Kasım",
+        "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_g96qQjhtTDqQHLMSHt5FcA#/registration",
+        "description": "Sosyal medyanın gençlerin zihinsel sağlığı üzerindeki etkisi oldukça karmaşıktır. Kimi zaman sosyal medya, bağlantı kurmayı teşvik ederken diğer zamanlarda olumsuz sosyal karşılaştırmalara ve yalnızlık hissine yol açabiliyor.\n\nGençlerin sosyal medyayı nasıl kullandığı ve bunun onları nasıl etkilediği üzerine önemli güncel bilgileri öğrenin ve sosyal medyayı daha sağlıklı bir şekilde kullanmaları için gençlere ipuçları ve stratejiler sunmayı keşfedin. Bu seminer, Iowa'nın Birleşik Yolu tarafından sponsor edilmiştir."
+    },
         {
-            "id": "3",
-            "name": "4. Travma Sempozyumu: Temas",
-            "image": "https://i.imgur.com/S9S9mYx.png",
-            "eventHost": "Türk Psikologlar Derneği",
-            "eventDate": "14-15 Aralık",
-            "referenceLink": "https://www.instagram.com/p/DALb6LOtMLb/",
-            "description": "Türk Psikologlar Derneği İzmir Şubesi Travma, Afet ve Kriz çalışma grubu tarafından düzenlenen 4. Travma Sempozyumu, bu yıl 'Temas' konusuyla 14-15 Aralık 2024 tarihlerinde İzmir’de gerçekleşecektir.\n\nÜlkemizde yaşanan afetler ve toplumsal travmaların etkisiyle düzenlemekte geciktiğimiz Travma Sempozyumu’nu, nihayet sizlerle buluşturmanın heyecan ve gururunu yaşıyoruz. Bu sempozyumda, birbirimize temas ederek, alandaki bilgi birikimini paylaşacak, gelişmeleri birlikte değerlendireceğiz. Paneller ve atölyeler ile dolu dolu bir program bizleri bekliyor.\n\n🔹 Tarih: 14-15 Aralık 2024\n🔹 Yer: İzmir\n🔹 Konu: TEMAS\n\nSiz de bu organizasyonda yer almak isterseniz detaylı bilgi için Türk Psikologlar Derneği İzmir Şubesi’ni takipte kalın!"
-        }
+        "id": "32",
+        "name": "Motivasyonu ve Ertelemeyi Anlamak",
+        "image": "https://i.imgur.com/Np5RyGU.png",
+        "eventHost": "Mindspring Mental Health Alliance",
+        "eventDate": "20 Kasım",
+        "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_MWYJMu9vSfaYlzLVRWksWg#/registration",
+        "description": "Hemen hemen herkes bazen erteleme yapar. Ancak eğer işleri sürekli erteleyip, ardından pişmanlık duyup kendinizi kötü hissediyorsanız, bu durum fiziksel ve zihinsel sağlığınızı etkileyebilecek bir döngüye kapılmanıza neden olabilir. Bu bir saatlik seminerde, insanların neden ertelediklerini keşfedecek ve motive olmanın yollarını öğreneceksiniz. Etkinlik Polk County, Iowa tarafından desteklenmektedir.\n\nEğitmeni Tanıyın: Jaymi Dormaier, zihinsel sağlık alanında 10 yılı aşkın deneyime sahip Lisanslı Usta Sosyal Çalışmacıdır. Jaymi, sosyal hizmet uzmanı ve terapist olarak kariyerinde, kaygı, depresyon, yas, travma, koruyucu aile, evlat edinme, evsizlik ve bağımlılık gibi çeşitli konulara odaklanan farklı nüfuslarla çalışmıştır. Diğerlerinin sevdikleri bir hayat yaşamalarına yardımcı olmaya tutkulu."
+    },
+    {
+        "id": "33",
+        "name": "Antisocial Kişilik Bozukluğunu Anlamak",
+        "image": "https://i.imgur.com/I7C9Aga.png",
+        "eventHost": "Mindspring Mental Health Alliance",
+        "eventDate": "20 Kasım",
+        "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_2Gw6P6RwR9eSqd0pNLMQrQ#/registration",
+        "description": "Antisocial Kişilik Bozukluğu (ASPD), başkalarına sürekli saygısızlık, dürtüsellik ve empati eksikliği ile işaretlenen karmaşık bir zihinsel sağlık durumudur. ASPD olan kişiler, yasalara veya sosyal normlara aldırmayabilir ve bu durum kendilerini ve başkalarını tehlikeye atabilir. Bu bir saatlik seminerde, bozukluğun nasıl teşhis edildiğini, ASPD ile başa çıkmanın zorluklarını ve bunun ilişkiler ve toplum üzerindeki etkisini tartışın. Etkinlik Polk County, Iowa tarafından desteklenmektedir.\n\nEğitmeni Tanıyın: Jaymi Dormaier, zihinsel sağlık alanında 10 yılı aşkın deneyime sahip Lisanslı Usta Sosyal Çalışmacıdır. Jaymi, sosyal hizmet uzmanı ve terapist olarak kariyerinde, kaygı, depresyon, yas, travma, koruyucu aile, evlat edinme, evsizlik ve bağımlılık gibi çeşitli konulara odaklanan farklı nüfuslarla çalışmıştır. Diğerlerinin sevdikleri bir hayat yaşamalarına yardımcı olmaya tutkulu."
+    },
+    {
+        "id": "34",
+        "name": "Trikotillomani ve Cilt Seçme (Ekskoriyasyon Bozukluğu) Anlamak",
+        "image": "https://i.imgur.com/dotLERT.png",
+        "eventHost": "Mindspring Mental Health Alliance",
+        "eventDate": "21 Kasım",
+        "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_UWQxSbAeTH6Zc3CrgA4w9A#/registration",
+        "description": "Trikotillomani (saç çekme) ve ekskoriyasyon bozukluğu (cilt seçme), OCD şemsiyesi altında yer alan iki farklı bozukluktur ve birçok benzerliğe sahiptir. Bu bir saatlik seminerde, bu beden odaklı tekrarlayan davranışlar hakkında daha fazla bilgi edinecek ve bir lisanslı terapistle birlikte belirtilerini, nedenlerini ve tedavi seçeneklerini tartışacaksınız. Semptomları yönetmek için ipuçları edinin ve zorluk çeken sevdiklerinize nasıl destek olacağınızı öğrenin. Etkinlik United Way of Central Iowa tarafından desteklenmektedir.\n\nEğitmeni Tanıyın: Jaymi Dormaier, zihinsel sağlık alanında 10 yılı aşkın deneyime sahip Lisanslı Usta Sosyal Çalışmacıdır. Jaymi, sosyal hizmet uzmanı ve terapist olarak kariyerinde, kaygı, depresyon, yas, travma, koruyucu aile, evlat edinme, evsizlik ve bağımlılık gibi çeşitli konulara odaklanan farklı nüfuslarla çalışmıştır. Diğerlerinin sevdikleri bir hayat yaşamalarına yardımcı olmaya tutkulu."
+    },
+    {
+        "id": "35",
+        "name": "Sevilen Birinin Teşhis Aldığında: Bir Zihinsel Sağlık Profesyonelinden İçgörüler",
+        "image": "https://i.imgur.com/I8AYhDq.png",
+        "eventHost": "Mindspring Mental Health Alliance",
+        "eventDate": "26 Kasım",
+        "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_JEXMkCo-R7OhHIoqDLy3MA#/registration",
+        "description": "Bir zihinsel sağlık bozukluğu olan arkadaşlarımıza ve aile üyelerimize etkili destek sağlamak, iyileşme sürecinin temel bir bileşenidir. Zihinsel hastalığın karmaşıklıklarını, iyileşmenin dört boyutunu tartışın ve bu bir saatlik seminerde bir iyileşme planı yapmayı öğrenin. Etkinlik United Way of Central Iowa tarafından desteklenmektedir.\n\nEğitmeni Tanıyın: Jaymi Dormaier, zihinsel sağlık alanında 10 yılı aşkın deneyime sahip Lisanslı Usta Sosyal Çalışmacıdır. Jaymi, sosyal hizmet uzmanı ve terapist olarak kariyerinde, kaygı, depresyon, yas, travma, koruyucu aile, evlat edinme, evsizlik ve bağımlılık gibi çeşitli konulara odaklanan farklı nüfuslarla çalışmıştır. Diğerlerinin sevdikleri bir hayat yaşamalarına yardımcı olmaya tutkulu."
+    },
+    {
+        "id": "36",
+        "name": "Başkasına Yüklenen Faktif Bozukluğu Anlamak",
+        "image": "https://i.imgur.com/0JVCUsz.png",
+        "eventHost": "Mindspring Mental Health Alliance",
+        "eventDate": "27 Kasım",
+        "referenceLink": "https://us06web.zoom.us/webinar/register/5817139046112/WN_RgmJwBmTSYmn3Pt9I0GUdQ#/registration",
+        "description": "Başkasına Yüklenen Faktif Bozukluğu (eski adıyla Munchausen Sendromu) temelinde bir bakım vericinin bir çocuk veya bağımlı bir yetişkin hakkında ya bir hastalığı yalan söylemesi ya da sağlıklı bir kişinin gerçek semptomlar üretmesi kaygısı bulunmaktadır. Bu bozukluğun belirtilerini ve bir bakım vericinin hastalığı neden yarattığını öğrenin. Bu bir saatlik seminerde bir lisanslı terapistle birlikte durumu tartışın. Etkinlik Polk County, Iowa tarafından desteklenmektedir.\n\nEğitmeni Tanıyın: Jaymi Dormaier, zihinsel sağlık alanında 10 yılı aşkın deneyime sahip Lisanslı Usta Sosyal Çalışmacıdır. Jaymi, sosyal hizmet uzmanı ve terapist olarak kariyerinde, kaygı, depresyon, yas, travma, koruyucu aile, evlat edinme, evsizlik ve bağımlılık gibi çeşitli konulara odaklanan farklı nüfuslarla çalışmıştır. Diğerlerinin sevdikleri bir hayat yaşamalarına yardımcı olmaya tutkulu."
+    },
+    {
+        "id": "37",
+        "name": "Webinar: Bipolar Bozukluk ve Şizofreniyi Tanımak ve Tedavi Etmek",
+        "image": "https://i.imgur.com/h10tnRg.png",
+        "eventHost": "Dr. Kathryn Eve Lewandowski",
+        "eventDate": "3 Aralık",
+        "referenceLink": "https://home.mcleanhospital.org/webinar-139?hsCtaTracking=bf5134bc-2315-401f-824b-51c7dd52fc21%7Ce5efa883-acd5-4449-9945-83f6f18ee5c4",
+        "description": "Bipolar bozukluk (BD) ve şizofreni, iki çok farklı zihinsel sağlık zorluğudur. BD, derin depresif durumlar ile mani dönemleri arasında yoğun ruh hali değişimleri ile karakterize edilirken, şizofreni, halüsinasyonlar, sanrılar veya bozulmuş düşünceler ya da konuşma gibi psikoz ile işaretlenir.\n\nTartışma, BD ve şizofreni ile birlikte ikisinin de tanı ve tedavi zorluklarına odaklanmaktadır. Hem bipolar bozukluk hem de şizofreninin tedavisinde yenilikler ve stratejiler keşfedin. \n\nHedef kitle: Herkes.\n\nKonuşmacı hakkında: Dr. Kathryn Eve Lewandowski, Harvard Tıp Okulu’nda Zihinsel Sağlık Alanında Kıdemli Araştırma ve Öğretim Görevlisidir. Dr. Lewandowski, psikiyatrik bozukluklar ve bu bozuklukları olan bireylerde bilişsel işlevsellik üzerine çalışmaktadır."
+    },
+        {
+        "id": "38",
+        "name": "Webinar: İşinizi ve Zihinsel Sağlığınızı Korumak",
+        "image": "https://i.imgur.com/kdDaGXn.png",
+        "eventHost": "Dr. David H. Rosmarin",
+        "eventDate": "12 Aralık",
+        "referenceLink": "https://home.mcleanhospital.org/webinar-156?hsCtaTracking=c5f59060-7766-4b04-b95d-12027b40140b%7C977603bc-a70b-45cf-a9fe-dd5ebf653b74",
+        "description": "İş dünyasında başarılı olmak genellikle sayısız stres kaynağı ile gelir. İş insanları birçok alanda son derece yetenekli olsalar da, genellikle göz ardı edilen çok önemli bir beceri vardır: kaygıyı ve birinin zihinsel sağlığını tehdit eden diğer potansiyel tehlikeleri yönetme yeteneği. Bu zorluklar etkili bir şekilde ele alındığında, kişisel gelişim ve dayanıklılık kazanmamız da dahil olmak üzere büyük fırsatlar sunabilir.\n\nPeki, girişimciler ve iş dünyasında çalışan diğerleri, işlerinin doğasında var olan stres ve belirsizlikle nasıl başa çıkmayı öğrenirler? Bunu yapmamanın zihinsel sağlık sonuçları nelerdir? Ve profesyonel yardım almak için ne zaman zamanıdır?\n\nDavid H. Rosmarin, PhD, ABPP ile birlikte iş ile ilgili yaygın zihinsel sağlık zorluklarını keşfedin, bunlarla başa çıkma stratejilerini sunun ve iş yerinde kaygıyla başa çıkmayı öğrenme konusunda soruları yanıtlayın."
+    },
+    {
+        "id": "39",
+        "name": "4. Travma Sempozyumu: Temas",
+        "image": "https://i.imgur.com/S9S9mYx.png",
+        "eventHost": "Türk Psikologlar Derneği",
+        "eventDate": "14-15 Aralık",
+        "referenceLink": "https://www.instagram.com/p/DALb6LOtMLb/",
+        "description": "Türk Psikologlar Derneği İzmir Şubesi'nin Travma, Afet ve Kriz Çalışma Grubu tarafından düzenlenen 4. Travma Sempozyumu, 'Temas' temasıyla 14-15 Aralık 2024 tarihlerinde İzmir'de gerçekleştirilecektir.\n\nÜlkemizde yaşanan afetler ve sosyal travmalar nedeniyle düzenlemede geciktiğimiz Travma Sempozyumu'nu nihayet sizlere sunmanın heyecanını ve gururunu yaşıyoruz. Bu sempozyumda birbirimizle temas kuracak, alandaki bilgimizi paylaşacak ve gelişmeleri birlikte değerlendireceğiz. Panel ve atölye çalışmalarının tam bir programı bizi bekliyor.\n\n🔹 Tarih: 14-15 Aralık 2024\n🔹 Yer: İzmir\n🔹 Konu: İLETİŞİM\n\nBu organizasyona katılmak isterseniz, detaylı bilgi için Türk Psikologlar Derneği İzmir Şubesi'ni takip edin!"
+    },
+    {
+        "id": "40",
+        "name": "Webinar: Çocuklar ve Gençler için Sağlıklı Başa Çıkma Yöntemleri",
+        "image": "https://i.imgur.com/puFv5s4.png",
+        "eventHost": "Dr. Maggie Gorraiz",
+        "eventDate": "18 Aralık",
+        "referenceLink": "https://home.mcleanhospital.org/webinar-104?hsCtaTracking=65253ab7-89c2-4cb1-9fb4-ba031f3d63c9%7C987afccc-f160-4c13-ab02-df61343326a8",
+        "description": "Çocuklar ve gençler her türlü duyguyu deneyimler, ancak bunlarla nasıl başa çıkacaklarını veya bu duygular ortaya çıktığında nasıl başa çıkacaklarını bilmeyebilirler. Onların duygularını, düşüncelerini ve tepkilerini sağlıklı ve üretken yollarla yönetmeyi öğrenmelerine yardımcı olmamız önemlidir. Bunu yaparak, yetişkinlikte refahı artıracak ve yaşlandıkça sağlıksız başa çıkma stratejilerini önleyecek beceriler geliştirmelerine yardımcı olabiliriz.\n\nBu daha önce kaydedilmiş oturumda, Maggie Gorraiz, PhD, çocuklar ve gençler için farklı başa çıkma stratejilerini keşfedecek, sevdiklerimize başa çıkmayı öğretmenin yaşa uygun yollarını paylaşacak ve sağlıklı başa çıkmanın tüm ailelerimize getirebileceği zihinsel sağlık faydaları hakkında izleyicilerin sorularını yanıtlayacaktır."
+    }
     ]
 }
